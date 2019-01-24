@@ -32,7 +32,8 @@ persons = persons[~persons.CrashId.isin(ignore_crash_ids)]
 
 # In Persons dataframe, create Town and Year columns
 persons['Town'] = persons['CrashId'].apply(lambda x: crashes[crashes.CrashId == x]['Town Name'].values[0])
-persons['Year'] = persons['CrashId'].apply(lambda x: crashes[crashes.CrashId == x]['Date Of Crash'].values[0].split('-')[0])
+persons['Year'] = persons['CrashId'].apply(lambda x: int(crashes[crashes.CrashId == x]['Date Of Crash'].values[0].split('-')[0]))
+persons = persons[ (persons.Year >= 2015) & (persons.Year <= 2018) ]
 
 # Calculate number of fatalities per town per year
 fatalities = persons.groupby(['Town', 'Year']).size()

@@ -9,8 +9,6 @@ Ashford,2017,1
 Avon,2017,1
 Barkhamsted,2015,1
 Barkhamsted,2016,1
-Beacon Falls,2014,1
-Berlin,2014,1
 Berlin,2015,2
 Berlin,2016,1
 Berlin,2017,2
@@ -31,12 +29,10 @@ Branford,2015,3
 Branford,2016,2
 Branford,2017,1
 Branford,2018,1
-Bridgeport,2014,1
 Bridgeport,2015,2
 Bridgeport,2016,15
 Bridgeport,2017,11
 Bridgeport,2018,11
-Bridgeport,2019,1
 Bridgewater,2016,2
 Bristol,2015,6
 Bristol,2016,5
@@ -117,12 +113,10 @@ Eastford,2016,2
 Easton,2016,1
 Ellington,2015,1
 Ellington,2018,1
-Enfield,2014,1
 Enfield,2015,1
 Enfield,2016,5
 Enfield,2017,2
 Enfield,2018,7
-Essex,2014,1
 Essex,2016,1
 Essex,2017,1
 Essex,2018,1
@@ -237,16 +231,13 @@ New Canaan,2018,2
 New Fairfield,2015,1
 New Fairfield,2016,2
 New Fairfield,2017,1
-New Hartford,2014,1
 New Hartford,2016,2
 New Hartford,2017,3
 New Hartford,2018,2
-New Haven,2014,1
 New Haven,2015,7
 New Haven,2016,15
 New Haven,2017,13
 New Haven,2018,15
-New Haven,2019,1
 New London,2015,2
 New Milford,2015,3
 New Milford,2016,2
@@ -269,7 +260,6 @@ North Haven,2015,2
 North Haven,2016,5
 North Haven,2017,3
 North Haven,2018,5
-North Haven,2019,1
 North Stonington,2015,2
 North Stonington,2017,1
 North Stonington,2018,3
@@ -360,7 +350,6 @@ Stratford,2015,3
 Stratford,2016,5
 Stratford,2017,4
 Stratford,2018,2
-Suffield,2014,1
 Suffield,2015,3
 Suffield,2018,1
 Thomaston,2015,1
@@ -380,7 +369,6 @@ Trumbull,2015,3
 Trumbull,2016,4
 Trumbull,2017,1
 Trumbull,2018,2
-Trumbull,2019,1
 Union,2016,1
 Union,2017,2
 Union,2018,1
@@ -417,17 +405,14 @@ West Haven,2018,6
 Westbrook,2015,2
 Westbrook,2016,1
 Westbrook,2018,2
-Westport,2014,1
 Westport,2015,1
 Westport,2016,5
 Westport,2017,3
 Westport,2018,1
-Westport,2019,1
 Wethersfield,2015,2
 Wethersfield,2016,2
 Wethersfield,2017,5
 Wethersfield,2018,1
-Wethersfield,2019,1
 Willington,2015,1
 Willington,2016,1
 Willington,2018,1
@@ -450,5 +435,4 @@ Woodbridge,2016,2
 Woodbury,2015,1
 Woodbury,2017,3
 Woodbury,2018,1
-Woodstock,2014,1
 Woodstock,2017,2
