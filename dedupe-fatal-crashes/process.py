@@ -35,5 +35,5 @@ persons['Town'] = persons['CrashId'].apply(lambda x: crashes[crashes.CrashId == 
 persons['Year'] = persons['CrashId'].apply(lambda x: crashes[crashes.CrashId == x]['Date Of Crash'].values[0].split('-')[0])
 
 # Calculate number of fatalities per town per year
-fatalities = persons.groupby(['Town Name', 'Year']).size()
-fatalities.to_csv('fatalities.csv')
+fatalities = persons.groupby(['Town', 'Year']).size()
+fatalities.to_csv('fatalities.csv', header=['Fatalities'])
