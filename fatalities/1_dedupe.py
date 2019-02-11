@@ -1,7 +1,6 @@
 ###
-# Python script to remove duplicate crashes and calculate number of fatal crashes
-# per town per year. We assume that duplicate crashes are the ones occuring
-# on the same day at the same time in the same town.
+# Python script to remove duplicate crashes from raw data and save Persons
+# table with additional Town and Year columns.
 #
 # Author: Ilya Ilyankou <ilyankou@gmail.com>
 # Date: January 24, 2019
@@ -9,8 +8,8 @@
 
 import pandas as pd
 
-crashes = pd.read_csv('data/Fatal Crashes & Persons 15-19 - Fatal Crashes.csv', dtype=str)
-persons = pd.read_csv('data/Fatal Crashes & Persons 15-19 - Fatal Persons.csv', dtype=str)
+crashes = pd.read_csv('raw/CT Fatalities 2003-2018 - Full & Tidy - Crashes.csv', dtype=str)
+persons = pd.read_csv('raw/CT Fatalities 2003-2018 - Full & Tidy - Persons.csv', dtype=str)
 
 duplicate_crashes_size = crashes.groupby(['Town Name', 'Date Of Crash', 'Time of Crash']).size()
 
@@ -33,8 +32,6 @@ persons = persons[~persons.CrashId.isin(ignore_crash_ids)]
 # In Persons dataframe, create Town and Year columns
 persons['Town'] = persons['CrashId'].apply(lambda x: crashes[crashes.CrashId == x]['Town Name'].values[0])
 persons['Year'] = persons['CrashId'].apply(lambda x: int(crashes[crashes.CrashId == x]['Date Of Crash'].values[0].split('-')[0]))
-persons = persons[ (persons.Year >= 2015) & (persons.Year <= 2018) ]
 
-# Calculate number of fatalities per town per year
-fatalities = persons.groupby(['Town', 'Year']).size()
-fatalities.to_csv('fatalities.csv', header=['Fatalities'])
+# Dump dataframe into a .csv file
+persons.to_csv('data/persons-deduped.csv', index=False)

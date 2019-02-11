@@ -1,0 +1,4421 @@
+Town,Year,Age,Gender,DUI,Speeding,Count
+Andover,2005,55,Unknown,False,False,1
+Andover,2008,44,Male,True,False,1
+Andover,2010,75,Female,False,False,1
+Andover,2014,49,Female,False,False,1
+Andover,2015,30,Female,False,False,1
+Andover,2015,64,Male,True,True,1
+Andover,2016,91,Male,False,False,1
+Ansonia,2003,61,Male,False,False,1
+Ansonia,2004,67,Male,False,False,1
+Ansonia,2006,22,Male,False,True,1
+Ansonia,2006,23,Unknown,False,False,1
+Ansonia,2006,36,Male,False,True,1
+Ansonia,2006,86,Male,False,False,1
+Ansonia,2007,23,Unknown,False,False,1
+Ansonia,2018,78,Male,False,False,1
+Ashford,2004,21,Male,False,False,1
+Ashford,2005,32,Male,False,False,1
+Ashford,2006,30,Female,False,False,1
+Ashford,2006,31,Male,False,False,1
+Ashford,2007,19,Male,True,False,1
+Ashford,2008,15,Male,False,False,1
+Ashford,2008,38,Male,True,False,1
+Ashford,2011,33,Female,True,False,1
+Ashford,2015,42,Male,True,True,1
+Ashford,2016,50,Female,False,False,1
+Ashford,2017,24,Female,False,False,1
+Avon,2005,41,Male,False,True,1
+Avon,2005,42,Female,False,False,1
+Avon,2005,42,Unknown,False,False,1
+Avon,2005,54,Female,False,False,1
+Avon,2005,60,Female,False,False,1
+Avon,2006,86,Female,False,False,1
+Avon,2007,65,Male,False,False,1
+Avon,2009,19,Female,False,False,1
+Avon,2013,24,Male,True,False,1
+Avon,2017,52,Male,False,False,1
+Barkhamsted,2003,80,Female,False,False,1
+Barkhamsted,2004,35,Male,True,False,1
+Barkhamsted,2005,32,Male,False,False,1
+Barkhamsted,2005,37,Female,False,False,1
+Barkhamsted,2005,49,Male,False,False,1
+Barkhamsted,2008,70,Male,False,False,1
+Barkhamsted,2010,55,Male,True,False,1
+Barkhamsted,2011,49,Female,True,False,1
+Barkhamsted,2012,50,Female,False,False,1
+Barkhamsted,2014,33,Male,False,False,1
+Barkhamsted,2015,46,Male,True,True,1
+Barkhamsted,2016,23,Male,True,False,1
+Beacon Falls,2004,32,Male,False,False,1
+Beacon Falls,2007,37,Male,True,False,1
+Beacon Falls,2010,58,Female,False,False,1
+Beacon Falls,2012,22,Male,True,False,1
+Beacon Falls,2014,29,Male,False,False,2
+Berlin,2003,20,Female,False,False,1
+Berlin,2003,28,Female,False,False,1
+Berlin,2003,40,Male,True,False,1
+Berlin,2004,17,Male,True,False,1
+Berlin,2004,24,Male,False,False,1
+Berlin,2004,33,Male,False,False,1
+Berlin,2004,47,Male,False,False,1
+Berlin,2004,53,Female,False,False,1
+Berlin,2006,18,Unknown,False,False,2
+Berlin,2006,19,Unknown,False,False,1
+Berlin,2006,21,Unknown,False,False,1
+Berlin,2006,28,Female,False,True,1
+Berlin,2007,22,Unknown,False,False,1
+Berlin,2007,86,Unknown,False,False,1
+Berlin,2008,67,Female,False,False,1
+Berlin,2008,72,Unknown,False,False,1
+Berlin,2008,76,Female,False,False,1
+Berlin,2009,28,Unknown,False,False,1
+Berlin,2009,50,Male,False,True,1
+Berlin,2011,23,Male,True,False,1
+Berlin,2011,25,Male,False,False,1
+Berlin,2011,32,Unknown,False,False,1
+Berlin,2011,68,Unknown,False,False,1
+Berlin,2011,69,Female,False,False,1
+Berlin,2012,30,Male,False,False,1
+Berlin,2012,62,Unknown,False,False,1
+Berlin,2012,67,Male,True,False,1
+Berlin,2013,22,Female,False,False,1
+Berlin,2013,36,Male,False,False,1
+Berlin,2013,45,Male,True,False,1
+Berlin,2013,90,Male,False,False,1
+Berlin,2014,19,Female,False,False,1
+Berlin,2014,19,Unknown,False,False,1
+Berlin,2014,32,Unknown,False,False,1
+Berlin,2014,36,Male,False,False,1
+Berlin,2015,26,Male,False,True,1
+Berlin,2015,56,Female,True,False,1
+Berlin,2016,19,Male,False,True,1
+Berlin,2017,21,Male,False,False,1
+Berlin,2017,56,Female,False,False,1
+Bethany,2003,21,Male,True,False,1
+Bethany,2003,24,Male,True,False,1
+Bethany,2003,34,Male,False,False,1
+Bethany,2005,51,Male,False,False,1
+Bethany,2006,85,Male,False,False,1
+Bethany,2007,90,Unknown,False,False,1
+Bethany,2007,92,Male,False,True,1
+Bethany,2008,53,Male,False,False,1
+Bethany,2008,79,Female,False,False,1
+Bethany,2009,39,Unknown,False,False,1
+Bethany,2009,48,Male,False,False,1
+Bethany,2009,49,Male,True,False,1
+Bethany,2009,60,Unknown,False,False,1
+Bethany,2015,18,Male,False,False,1
+Bethany,2015,29,Male,False,True,1
+Bethany,2017,43,Male,False,False,1
+Bethany,2017,58,Male,True,False,1
+Bethany,2018,25,Male,False,False,1
+Bethany,2018,36,Male,True,True,1
+Bethel,2004,25,Male,False,True,1
+Bethel,2007,28,Unknown,False,False,1
+Bethel,2007,29,Unknown,False,False,1
+Bethel,2010,78,Unknown,False,False,1
+Bethel,2011,42,Male,True,False,1
+Bethel,2012,25,Male,False,False,1
+Bethel,2013,59,Male,False,False,1
+Bethel,2014,48,Male,False,False,1
+Bethel,2016,24,Male,False,False,1
+Bethel,2018,65,Female,False,False,1
+Bethlehem,2007,35,Male,False,False,1
+Bethlehem,2015,62,Female,False,False,1
+Bloomfield,2006,85,Male,False,False,1
+Bloomfield,2007,48,Unknown,False,False,1
+Bloomfield,2008,32,Female,False,False,1
+Bloomfield,2009,50,Male,False,False,1
+Bloomfield,2011,53,Female,False,False,1
+Bloomfield,2012,37,Unknown,False,False,1
+Bloomfield,2012,49,Male,True,False,1
+Bloomfield,2012,57,Unknown,False,False,1
+Bloomfield,2013,19,Male,False,True,1
+Bloomfield,2013,24,Male,True,False,1
+Bloomfield,2013,28,Male,True,False,1
+Bloomfield,2013,56,Male,False,False,1
+Bloomfield,2014,37,Male,False,False,1
+Bloomfield,2014,72,Male,False,False,1
+Bloomfield,2014,79,Male,False,False,1
+Bloomfield,2014,82,Unknown,False,False,1
+Bloomfield,2014,89,Female,False,False,1
+Bloomfield,2015,20,Female,False,False,1
+Bloomfield,2015,47,Male,True,True,1
+Bloomfield,2015,66,Male,False,False,1
+Bloomfield,2016,18,Male,False,False,1
+Bloomfield,2016,78,Female,False,False,1
+Bloomfield,2016,91,Male,False,False,1
+Bloomfield,2017,63,Male,False,False,1
+Bloomfield,2017,67,Male,False,False,1
+Bolton,2004,44,Male,False,False,1
+Bolton,2005,38,Male,False,False,1
+Bolton,2005,42,Unknown,False,False,1
+Bolton,2005,81,Unknown,False,False,1
+Bolton,2006,21,Unknown,False,False,1
+Bolton,2006,33,Male,False,False,1
+Bolton,2007,22,Male,True,False,1
+Bolton,2009,25,Male,False,False,1
+Bolton,2010,48,Male,False,False,1
+Bolton,2011,18,Male,True,False,1
+Bolton,2011,54,Male,False,True,1
+Bolton,2011,83,Male,False,False,1
+Bolton,2014,18,Unknown,False,False,1
+Bolton,2014,21,Unknown,False,False,1
+Bolton,2015,52,Female,False,False,1
+Bolton,2016,63,Male,False,False,1
+Bolton,2018,23,Male,False,False,1
+Bolton,2018,47,Male,True,False,1
+Bolton,2018,51,Male,True,True,1
+Bozrah,2004,45,Male,False,False,1
+Bozrah,2005,55,Male,False,False,1
+Bozrah,2006,79,Female,False,False,1
+Bozrah,2007,17,Male,True,False,1
+Bozrah,2007,59,Male,False,False,1
+Bozrah,2008,22,Male,True,False,1
+Bozrah,2008,44,Unknown,False,False,1
+Bozrah,2009,55,Male,False,True,1
+Bozrah,2012,36,Male,True,False,1
+Bozrah,2014,19,Unknown,False,False,1
+Bozrah,2014,22,Male,False,True,1
+Bozrah,2014,23,Unknown,False,False,1
+Bozrah,2015,24,Male,False,False,1
+Branford,2003,39,Male,False,False,1
+Branford,2003,85,Male,False,False,1
+Branford,2004,34,Female,False,False,1
+Branford,2004,48,Male,True,False,1
+Branford,2005,57,Male,False,False,1
+Branford,2007,67,Unknown,False,False,1
+Branford,2008,21,Female,False,False,1
+Branford,2009,23,Female,True,False,1
+Branford,2009,34,Unknown,False,False,1
+Branford,2009,43,Male,True,False,1
+Branford,2010,30,Unknown,False,False,1
+Branford,2010,55,Female,False,False,1
+Branford,2013,28,Unknown,False,False,1
+Branford,2013,49,Male,True,False,1
+Branford,2014,37,Male,False,False,1
+Branford,2015,55,Female,False,False,1
+Branford,2015,69,Male,False,False,1
+Branford,2015,80,Male,False,False,1
+Branford,2016,32,Male,False,True,1
+Branford,2016,4,Male,False,False,1
+Branford,2017,54,Male,False,False,1
+Branford,2018,50,Male,False,False,1
+Bridgeport,2003,23,Male,True,False,1
+Bridgeport,2003,29,Male,False,False,1
+Bridgeport,2003,9,Male,False,False,1
+Bridgeport,2004,17,Unknown,False,False,1
+Bridgeport,2004,22,Unknown,False,False,1
+Bridgeport,2004,24,Male,False,False,1
+Bridgeport,2004,26,Unknown,False,False,1
+Bridgeport,2004,29,Male,False,True,1
+Bridgeport,2004,3,Male,False,False,1
+Bridgeport,2004,39,Male,False,False,1
+Bridgeport,2004,86,Male,False,False,1
+Bridgeport,2005,15,Unknown,False,False,1
+Bridgeport,2005,2,Unknown,False,False,1
+Bridgeport,2005,20,Unknown,False,False,2
+Bridgeport,2005,21,Male,False,False,1
+Bridgeport,2005,34,Male,False,False,1
+Bridgeport,2005,59,Male,False,False,1
+Bridgeport,2005,85,Female,False,False,1
+Bridgeport,2006,20,Male,False,True,1
+Bridgeport,2006,20,Male,True,False,1
+Bridgeport,2006,20,Unknown,False,False,1
+Bridgeport,2006,23,Male,True,False,1
+Bridgeport,2006,39,Male,True,False,1
+Bridgeport,2006,44,Male,False,False,1
+Bridgeport,2006,49,Male,False,False,1
+Bridgeport,2006,52,Male,True,False,1
+Bridgeport,2006,53,Male,False,False,1
+Bridgeport,2006,56,Male,True,False,1
+Bridgeport,2006,70,Female,False,False,1
+Bridgeport,2006,75,Male,False,False,1
+Bridgeport,2006,80,Male,False,False,1
+Bridgeport,2007,1,Female,False,False,1
+Bridgeport,2007,17,Male,False,False,1
+Bridgeport,2007,21,Male,False,False,1
+Bridgeport,2007,22,Male,False,False,1
+Bridgeport,2007,23,Unknown,False,False,1
+Bridgeport,2007,58,Female,False,False,1
+Bridgeport,2007,76,Male,False,False,1
+Bridgeport,2008,19,Male,False,True,1
+Bridgeport,2008,21,Male,False,False,1
+Bridgeport,2008,21,Unknown,False,False,1
+Bridgeport,2008,23,Male,False,False,1
+Bridgeport,2008,30,Unknown,False,False,1
+Bridgeport,2008,33,Female,True,False,1
+Bridgeport,2008,51,Male,False,False,1
+Bridgeport,2008,78,Male,False,False,1
+Bridgeport,2009,49,Unknown,False,False,1
+Bridgeport,2009,89,Male,False,False,1
+Bridgeport,2010,24,Male,False,False,1
+Bridgeport,2010,25,Male,False,False,1
+Bridgeport,2010,26,Male,False,False,1
+Bridgeport,2010,32,Male,False,True,1
+Bridgeport,2010,40,Male,False,False,1
+Bridgeport,2010,43,Male,True,False,1
+Bridgeport,2010,63,Male,False,False,1
+Bridgeport,2010,82,Male,False,False,1
+Bridgeport,2011,25,Unknown,False,False,1
+Bridgeport,2011,30,Male,False,False,1
+Bridgeport,2011,37,Male,True,False,1
+Bridgeport,2011,60,Female,False,False,1
+Bridgeport,2011,60,Male,False,False,1
+Bridgeport,2011,65,Female,False,False,1
+Bridgeport,2011,74,Female,False,False,1
+Bridgeport,2012,36,Unknown,False,False,1
+Bridgeport,2012,4,Male,False,False,1
+Bridgeport,2012,51,Female,False,False,1
+Bridgeport,2012,59,Male,False,False,1
+Bridgeport,2013,30,Male,False,False,1
+Bridgeport,2013,32,Male,False,True,1
+Bridgeport,2013,39,Female,False,False,1
+Bridgeport,2013,51,Unknown,False,False,1
+Bridgeport,2013,52,Male,False,False,1
+Bridgeport,2013,61,Male,False,False,1
+Bridgeport,2013,88,Male,False,False,1
+Bridgeport,2014,20,Female,False,False,1
+Bridgeport,2014,21,Male,False,False,1
+Bridgeport,2014,22,Male,False,False,1
+Bridgeport,2014,23,Male,False,True,1
+Bridgeport,2014,24,Male,False,False,1
+Bridgeport,2014,24,Unknown,False,False,1
+Bridgeport,2014,26,Male,True,False,1
+Bridgeport,2014,29,Male,False,False,1
+Bridgeport,2014,35,Unknown,False,False,1
+Bridgeport,2014,51,Female,False,False,1
+Bridgeport,2015,41,Male,True,False,1
+Bridgeport,2015,53,Female,False,False,1
+Bridgeport,2016,20,Male,False,False,1
+Bridgeport,2016,23,Male,False,False,1
+Bridgeport,2016,24,Female,False,False,1
+Bridgeport,2016,25,Male,True,True,1
+Bridgeport,2016,28,Male,False,False,1
+Bridgeport,2016,32,Female,False,False,1
+Bridgeport,2016,32,Male,False,False,1
+Bridgeport,2016,35,Male,False,True,1
+Bridgeport,2016,39,Male,False,False,1
+Bridgeport,2016,40,Male,False,True,1
+Bridgeport,2016,42,Female,False,False,1
+Bridgeport,2016,46,Male,False,True,1
+Bridgeport,2016,57,Male,False,False,1
+Bridgeport,2016,81,Male,False,False,1
+Bridgeport,2016,88,Male,False,False,1
+Bridgeport,2017,28,Male,False,True,1
+Bridgeport,2017,31,Female,False,False,1
+Bridgeport,2017,42,Male,True,True,1
+Bridgeport,2017,43,Male,False,False,1
+Bridgeport,2017,50,Female,False,False,1
+Bridgeport,2017,61,Male,False,False,1
+Bridgeport,2017,62,Female,False,False,1
+Bridgeport,2017,67,Male,False,False,1
+Bridgeport,2017,72,Male,False,False,1
+Bridgeport,2017,80,Male,False,False,1
+Bridgeport,2017,82,Female,False,False,1
+Bridgeport,2018,18,Male,False,False,1
+Bridgeport,2018,21,Female,False,False,1
+Bridgeport,2018,30,Male,False,True,1
+Bridgeport,2018,34,Male,False,False,1
+Bridgeport,2018,36,Male,False,False,1
+Bridgeport,2018,37,Female,False,False,1
+Bridgeport,2018,38,Male,False,False,1
+Bridgeport,2018,45,Female,False,False,1
+Bridgeport,2018,46,Male,False,False,1
+Bridgeport,2018,54,Female,False,False,1
+Bridgeport,2018,55,Female,False,False,1
+Bridgeport,2019,67,Male,False,False,1
+Bridgewater,2004,4,Unknown,False,False,1
+Bridgewater,2004,42,Female,True,False,1
+Bridgewater,2004,8,Unknown,False,False,1
+Bridgewater,2006,50,Male,False,False,1
+Bridgewater,2006,71,Female,False,False,1
+Bridgewater,2016,36,Female,True,False,1
+Bridgewater,2016,46,Female,False,False,1
+Bristol,2003,20,Male,False,True,1
+Bristol,2003,21,Unknown,False,False,1
+Bristol,2003,43,Female,False,False,1
+Bristol,2003,50,Male,True,False,1
+Bristol,2003,81,Female,False,False,1
+Bristol,2004,29,Male,True,False,1
+Bristol,2004,44,Male,False,False,1
+Bristol,2004,48,Male,True,False,1
+Bristol,2005,16,Unknown,False,False,1
+Bristol,2005,58,Female,False,False,1
+Bristol,2005,89,Male,False,False,1
+Bristol,2006,22,Male,True,False,1
+Bristol,2006,24,Male,False,False,1
+Bristol,2006,85,Female,False,False,1
+Bristol,2007,16,Unknown,False,False,2
+Bristol,2007,17,Unknown,False,False,2
+Bristol,2007,18,Male,False,True,1
+Bristol,2007,19,Male,False,True,1
+Bristol,2007,43,Female,False,False,1
+Bristol,2007,48,Male,False,False,1
+Bristol,2007,62,Female,False,False,1
+Bristol,2007,65,Male,False,False,1
+Bristol,2008,23,Female,True,False,1
+Bristol,2008,24,Female,False,False,1
+Bristol,2008,35,Male,False,False,1
+Bristol,2008,73,Female,False,False,1
+Bristol,2009,14,Male,False,False,1
+Bristol,2009,40,Male,True,False,1
+Bristol,2010,44,Male,True,False,1
+Bristol,2010,51,Male,False,False,1
+Bristol,2010,73,Male,False,False,1
+Bristol,2010,78,Female,False,False,1
+Bristol,2010,88,Female,False,False,1
+Bristol,2010,90,Male,False,False,1
+Bristol,2011,21,Male,False,False,1
+Bristol,2011,26,Male,True,False,1
+Bristol,2011,50,Male,False,False,1
+Bristol,2011,75,Female,False,False,1
+Bristol,2012,58,Male,False,False,1
+Bristol,2012,81,Unknown,False,False,1
+Bristol,2012,90,Unknown,False,False,1
+Bristol,2013,49,Male,True,False,1
+Bristol,2013,83,Unknown,False,False,1
+Bristol,2013,92,Female,False,False,1
+Bristol,2014,27,Male,False,False,1
+Bristol,2015,4,Female,False,False,1
+Bristol,2015,56,Male,False,False,1
+Bristol,2015,56,Male,True,False,1
+Bristol,2015,68,Male,False,False,1
+Bristol,2015,7,Female,False,False,1
+Bristol,2015,87,Male,False,False,1
+Bristol,2016,34,Male,False,False,1
+Bristol,2016,49,Male,False,False,2
+Bristol,2016,51,Male,False,True,1
+Bristol,2016,77,Male,False,False,1
+Bristol,2017,1,Male,False,False,1
+Bristol,2017,21,Male,False,True,1
+Bristol,2017,36,Male,False,False,1
+Bristol,2017,45,Male,False,False,1
+Bristol,2017,56,Male,False,False,1
+Bristol,2017,72,Male,False,False,1
+Bristol,2018,19,Male,False,False,1
+Bristol,2018,48,Female,False,False,1
+Bristol,2019,51,Female,False,False,1
+Brookfield,2003,21,Unknown,False,False,1
+Brookfield,2003,22,Male,True,False,1
+Brookfield,2004,25,Male,False,True,1
+Brookfield,2005,18,Male,True,False,1
+Brookfield,2005,22,Unknown,False,False,1
+Brookfield,2005,40,Male,False,False,1
+Brookfield,2006,19,Male,True,False,1
+Brookfield,2006,22,Male,False,False,1
+Brookfield,2012,79,Male,False,False,1
+Brookfield,2013,20,Female,True,False,1
+Brookfield,2013,31,Female,False,False,1
+Brookfield,2013,43,Male,False,False,1
+Brookfield,2014,19,Female,False,False,1
+Brookfield,2014,44,Male,True,False,1
+Brookfield,2015,55,Male,False,True,1
+Brookfield,2016,23,Male,True,True,1
+Brookfield,2017,53,Female,False,False,1
+Brookfield,2017,60,Male,False,False,1
+Brooklyn,2003,5,Unknown,False,False,1
+Brooklyn,2003,83,Male,False,False,1
+Brooklyn,2005,19,Male,True,False,1
+Brooklyn,2006,17,Unknown,False,False,1
+Brooklyn,2006,23,Unknown,False,False,1
+Brooklyn,2006,31,Unknown,False,False,1
+Brooklyn,2008,1,Unknown,False,False,1
+Brooklyn,2008,21,Male,False,False,1
+Brooklyn,2009,56,Male,True,False,1
+Brooklyn,2011,20,Female,False,False,1
+Brooklyn,2012,31,Male,False,False,1
+Brooklyn,2013,25,Male,False,False,1
+Brooklyn,2014,32,Male,True,False,1
+Brooklyn,2015,32,Male,False,False,1
+Brooklyn,2015,55,Male,False,False,1
+Brooklyn,2015,90,Male,False,False,1
+Brooklyn,2016,32,Male,False,True,1
+Brooklyn,2016,36,Male,True,False,1
+Brooklyn,2016,75,Male,False,False,1
+Brooklyn,2018,35,Male,False,False,1
+Brooklyn,2018,47,Female,True,False,1
+Brooklyn,2018,80,Male,False,False,1
+Brooklyn,2019,57,Male,False,False,1
+Burlington,2003,79,Male,False,False,1
+Burlington,2004,16,Male,False,False,1
+Burlington,2004,61,Male,False,True,1
+Burlington,2005,44,Unknown,False,False,1
+Burlington,2006,18,Male,False,False,1
+Burlington,2006,20,Male,False,False,1
+Burlington,2008,43,Male,False,False,1
+Burlington,2009,16,Female,False,True,1
+Burlington,2010,22,Male,False,False,1
+Burlington,2010,79,Male,False,True,1
+Burlington,2015,57,Female,False,False,1
+Burlington,2018,72,Male,False,False,1
+Canaan,2005,80,Female,False,False,1
+Canaan,2011,51,Male,True,False,1
+Canaan,2011,62,Unknown,False,False,1
+Canaan,2013,41,Male,True,False,1
+Canaan,2015,65,Male,False,False,1
+Canaan,2016,36,Male,False,False,1
+Canaan,2018,17,Male,False,True,1
+Canterbury,2004,39,Male,False,False,1
+Canterbury,2004,54,Male,False,False,1
+Canterbury,2005,22,Unknown,False,False,1
+Canterbury,2007,39,Unknown,False,False,1
+Canterbury,2008,44,Unknown,False,False,1
+Canterbury,2008,52,Male,False,False,1
+Canterbury,2009,17,Female,False,False,1
+Canterbury,2009,47,Female,True,False,1
+Canterbury,2010,31,Female,True,False,1
+Canterbury,2011,24,Male,True,False,1
+Canterbury,2012,25,Male,True,False,1
+Canterbury,2013,38,Male,False,False,1
+Canterbury,2013,44,Unknown,False,False,1
+Canterbury,2015,39,Female,False,False,1
+Canterbury,2018,27,Male,True,False,1
+Canton,2006,85,Male,False,False,1
+Canton,2007,27,Unknown,False,False,1
+Canton,2007,30,Male,False,True,1
+Canton,2010,24,Male,False,True,1
+Canton,2017,38,Male,True,False,1
+Canton,2017,59,Female,False,False,1
+Canton,2017,66,Female,False,False,1
+Canton,2017,79,Female,False,False,1
+Canton,2017,86,Female,False,False,1
+Canton,2018,61,Male,False,False,1
+Chaplin,2004,49,Male,False,False,1
+Chaplin,2004,74,Female,False,False,1
+Chaplin,2004,79,Unknown,False,False,1
+Chaplin,2005,70,Male,False,False,1
+Chaplin,2006,21,Male,False,False,1
+Chaplin,2007,20,Female,False,False,1
+Chaplin,2008,30,Male,False,True,1
+Chaplin,2014,43,Male,False,False,1
+Chaplin,2017,29,Female,False,False,1
+Chaplin,2017,48,Male,True,False,1
+Chaplin,2018,53,Male,False,False,1
+Cheshire,2003,28,Male,False,True,1
+Cheshire,2003,34,Male,True,False,1
+Cheshire,2003,35,Unknown,False,False,1
+Cheshire,2004,39,Male,False,True,1
+Cheshire,2005,24,Unknown,False,False,1
+Cheshire,2005,83,Female,False,False,1
+Cheshire,2007,25,Male,True,False,1
+Cheshire,2007,35,Male,False,True,1
+Cheshire,2007,39,Male,True,False,1
+Cheshire,2007,46,Male,False,True,1
+Cheshire,2007,46,Male,True,False,1
+Cheshire,2007,62,Unknown,False,False,1
+Cheshire,2008,36,Male,False,False,1
+Cheshire,2009,18,Female,False,False,1
+Cheshire,2009,33,Unknown,False,False,1
+Cheshire,2010,18,Female,False,False,1
+Cheshire,2012,62,Female,False,False,1
+Cheshire,2013,35,Female,True,False,1
+Cheshire,2013,50,Male,False,False,1
+Cheshire,2014,67,Male,False,False,1
+Cheshire,2014,76,Male,False,False,1
+Cheshire,2015,35,Female,False,False,1
+Cheshire,2015,65,Male,False,False,1
+Cheshire,2015,85,Female,False,False,1
+Cheshire,2015,90,Female,False,False,1
+Cheshire,2017,20,Male,False,False,1
+Cheshire,2017,50,Male,False,False,1
+Cheshire,2017,62,Male,False,True,1
+Cheshire,2018,82,Male,False,False,1
+Chester,2004,36,Male,True,False,1
+Chester,2005,52,Male,False,True,1
+Chester,2006,18,Male,False,True,1
+Chester,2015,51,Male,True,True,1
+Chester,2016,20,Male,True,False,1
+Clinton,2006,29,Male,True,False,1
+Clinton,2007,19,Unknown,False,False,1
+Clinton,2010,39,Male,False,False,1
+Clinton,2014,40,Male,False,False,1
+Clinton,2016,56,Male,False,False,1
+Clinton,2017,60,Male,False,False,1
+Clinton,2017,78,Female,False,False,1
+Colchester,2003,33,Female,True,False,1
+Colchester,2003,82,Unknown,False,False,1
+Colchester,2004,44,Female,False,False,1
+Colchester,2004,48,Male,True,False,1
+Colchester,2006,53,Male,False,False,1
+Colchester,2006,60,Female,False,False,1
+Colchester,2007,18,Unknown,False,False,1
+Colchester,2007,63,Male,False,False,1
+Colchester,2008,51,Male,False,False,1
+Colchester,2009,24,Unknown,False,False,1
+Colchester,2010,52,Male,True,False,1
+Colchester,2010,58,Female,False,False,1
+Colchester,2011,18,Female,False,False,1
+Colchester,2012,47,Male,True,False,1
+Colchester,2012,63,Female,False,False,1
+Colchester,2013,27,Female,False,False,1
+Colchester,2014,22,Male,True,False,1
+Colchester,2016,67,Female,False,False,1
+Colchester,2017,63,Male,False,True,1
+Colchester,2017,91,Female,False,False,1
+Colchester,2018,18,Female,True,False,1
+Colchester,2018,46,Male,True,True,1
+Colchester,2018,91,Female,False,False,1
+Colchester,2019,37,Male,False,False,1
+Colebrook,2006,18,Unknown,False,False,1
+Colebrook,2014,54,Female,False,False,1
+Columbia,2003,79,Male,False,False,1
+Columbia,2006,82,Male,False,False,1
+Columbia,2007,38,Male,False,False,1
+Columbia,2007,56,Male,False,False,1
+Columbia,2008,30,Female,False,False,1
+Columbia,2010,31,Male,True,False,1
+Columbia,2011,21,Male,False,False,1
+Columbia,2012,22,Male,True,False,1
+Columbia,2014,34,Female,False,False,1
+Columbia,2015,19,Female,False,False,1
+Columbia,2015,19,Male,False,False,1
+Columbia,2016,24,Female,True,False,1
+Columbia,2017,40,Male,False,False,1
+Cornwall,2010,66,Male,False,False,1
+Cornwall,2018,27,Female,False,False,1
+Coventry,2003,46,Female,False,False,1
+Coventry,2004,17,Male,False,True,1
+Coventry,2005,23,Female,False,False,1
+Coventry,2005,56,Female,False,False,1
+Coventry,2006,29,Unknown,False,False,1
+Coventry,2006,36,Male,True,False,1
+Coventry,2008,67,Male,False,False,1
+Coventry,2010,44,Male,True,False,1
+Coventry,2010,82,Unknown,False,False,1
+Coventry,2013,20,Unknown,False,False,1
+Coventry,2013,25,Female,True,False,1
+Coventry,2013,71,Male,False,False,1
+Coventry,2014,32,Male,True,False,1
+Coventry,2015,22,Male,False,True,1
+Coventry,2015,31,Male,False,False,1
+Coventry,2016,29,Male,False,False,1
+Coventry,2017,28,Male,True,True,1
+Coventry,2018,20,Male,False,True,1
+Cromwell,2003,30,Female,False,False,1
+Cromwell,2004,32,Male,True,False,1
+Cromwell,2004,82,Male,True,False,1
+Cromwell,2005,41,Male,True,False,1
+Cromwell,2006,72,Male,False,False,1
+Cromwell,2007,42,Female,False,False,1
+Cromwell,2007,47,Male,False,False,1
+Cromwell,2007,51,Male,True,False,1
+Cromwell,2007,53,Unknown,False,False,1
+Cromwell,2008,26,Male,False,False,1
+Cromwell,2008,41,Male,False,True,1
+Cromwell,2009,23,Female,False,False,1
+Cromwell,2009,59,Male,False,True,1
+Cromwell,2010,24,Male,True,False,1
+Cromwell,2010,26,Unknown,False,False,1
+Cromwell,2010,33,Male,True,False,1
+Cromwell,2010,51,Male,True,False,1
+Cromwell,2012,70,Male,False,True,1
+Cromwell,2014,85,Female,False,False,1
+Cromwell,2015,22,Male,False,False,1
+Cromwell,2015,22,Male,False,True,1
+Cromwell,2015,51,Male,False,False,1
+Cromwell,2015,58,Male,False,False,1
+Cromwell,2017,50,Male,True,False,1
+Cromwell,2017,55,Male,False,False,1
+Cromwell,2018,28,Male,False,False,1
+Cromwell,2018,61,Male,False,False,1
+Danbury,2003,24,Unknown,False,False,1
+Danbury,2003,43,Male,False,False,1
+Danbury,2003,49,Male,False,True,1
+Danbury,2003,71,Male,False,False,1
+Danbury,2004,26,Female,True,False,1
+Danbury,2004,36,Female,False,False,1
+Danbury,2004,58,Male,False,False,1
+Danbury,2004,77,Male,False,False,1
+Danbury,2005,17,Male,True,False,1
+Danbury,2005,36,Female,True,False,1
+Danbury,2005,39,Male,True,False,1
+Danbury,2005,51,Male,False,False,1
+Danbury,2006,18,Unknown,False,False,1
+Danbury,2006,21,Female,True,False,1
+Danbury,2006,29,Male,False,True,1
+Danbury,2006,69,Male,False,False,1
+Danbury,2007,47,Male,False,False,1
+Danbury,2007,65,Male,False,False,1
+Danbury,2008,19,Male,True,False,1
+Danbury,2008,46,Male,True,False,1
+Danbury,2009,23,Male,False,False,1
+Danbury,2009,32,Unknown,False,False,1
+Danbury,2009,51,Male,False,False,1
+Danbury,2010,4,Male,False,False,1
+Danbury,2010,47,Male,True,False,1
+Danbury,2010,59,Male,False,True,1
+Danbury,2011,15,Unknown,False,False,1
+Danbury,2011,16,Unknown,False,False,1
+Danbury,2011,19,Male,False,False,1
+Danbury,2011,23,Male,True,False,1
+Danbury,2011,48,Unknown,False,False,1
+Danbury,2011,7,Male,False,False,1
+Danbury,2012,17,Male,False,True,1
+Danbury,2012,19,Female,False,True,1
+Danbury,2013,19,Female,True,False,1
+Danbury,2013,19,Male,True,False,1
+Danbury,2013,21,Unknown,False,False,1
+Danbury,2013,23,Unknown,False,False,1
+Danbury,2013,24,Male,False,False,1
+Danbury,2013,33,Male,False,False,1
+Danbury,2014,23,Female,False,False,1
+Danbury,2014,45,Male,False,False,1
+Danbury,2014,58,Female,False,False,1
+Danbury,2014,77,Unknown,False,False,1
+Danbury,2014,78,Female,False,False,1
+Danbury,2015,17,Female,False,False,1
+Danbury,2015,17,Male,False,True,1
+Danbury,2015,55,Male,False,False,1
+Danbury,2015,56,Male,False,False,1
+Danbury,2015,58,Male,False,False,1
+Danbury,2015,89,Male,False,False,1
+Danbury,2016,26,Female,False,False,1
+Danbury,2016,26,Male,False,True,1
+Danbury,2016,31,Male,False,True,1
+Danbury,2016,44,Male,False,False,1
+Danbury,2016,53,Female,True,False,1
+Danbury,2016,56,Male,False,False,1
+Danbury,2016,89,Male,False,False,1
+Danbury,2017,18,Male,False,False,1
+Danbury,2017,20,Male,False,True,1
+Danbury,2017,23,Male,True,True,1
+Danbury,2017,40,Male,True,False,1
+Danbury,2017,44,Male,False,True,1
+Danbury,2017,85,Female,False,False,1
+Danbury,2018,25,Male,False,False,1
+Danbury,2018,32,Male,False,False,1
+Danbury,2018,43,Male,False,False,1
+Danbury,2018,45,Male,False,False,1
+Danbury,2018,58,Male,False,False,1
+Danbury,2018,69,Female,False,False,1
+Danbury,2018,80,Female,False,False,1
+Darien,2003,18,Unknown,False,False,1
+Darien,2003,73,Male,False,False,1
+Darien,2004,23,Male,False,False,1
+Darien,2004,28,Unknown,False,False,1
+Darien,2007,33,Male,True,False,1
+Darien,2007,86,Male,False,False,1
+Darien,2010,19,Male,False,False,1
+Darien,2010,19,Unknown,False,False,1
+Darien,2010,21,Male,False,False,1
+Darien,2010,30,Female,False,True,1
+Darien,2010,86,Male,False,False,1
+Darien,2011,18,Unknown,False,False,1
+Darien,2011,42,Male,False,False,1
+Darien,2011,88,Male,False,False,1
+Darien,2013,28,Male,True,False,1
+Darien,2014,36,Male,True,False,1
+Darien,2016,35,Male,False,False,1
+Deep River,2004,42,Male,False,False,1
+Deep River,2009,24,Female,True,False,1
+Deep River,2009,69,Male,False,False,1
+Deep River,2010,24,Unknown,False,False,1
+Deep River,2015,31,Male,False,True,1
+Deep River,2016,55,Female,True,True,1
+Deep River,2016,67,Male,False,True,1
+Deep River,2017,33,Female,True,True,1
+Derby,2003,17,Male,False,False,1
+Derby,2003,73,Female,False,False,1
+Derby,2003,85,Male,False,False,1
+Derby,2004,16,Male,False,True,1
+Derby,2004,46,Female,True,False,1
+Derby,2004,54,Male,False,False,1
+Derby,2004,57,Male,True,False,1
+Derby,2004,58,Male,False,False,1
+Derby,2005,56,Male,False,False,1
+Derby,2005,59,Female,False,False,1
+Derby,2005,87,Unknown,False,False,1
+Derby,2007,81,Male,False,False,1
+Derby,2008,37,Male,True,False,1
+Derby,2008,86,Male,False,False,1
+Derby,2009,37,Male,True,False,1
+Derby,2010,34,Male,False,False,1
+Derby,2010,40,Female,False,False,1
+Derby,2012,85,Male,False,False,1
+Derby,2013,25,Female,True,False,1
+Derby,2015,33,Male,False,True,1
+Derby,2016,57,Male,True,False,1
+Derby,2017,30,Male,False,False,1
+Durham,2006,25,Unknown,False,False,1
+Durham,2007,50,Female,False,False,1
+Durham,2007,58,Male,True,False,1
+Durham,2007,80,Unknown,False,False,1
+Durham,2008,17,Female,False,True,1
+Durham,2008,33,Male,False,False,1
+Durham,2008,59,Male,False,False,1
+Durham,2008,84,Female,False,False,1
+Durham,2009,21,Male,True,False,1
+Durham,2009,46,Male,True,False,1
+Durham,2010,46,Male,True,False,1
+Durham,2011,69,Female,False,False,1
+Durham,2012,61,Female,False,False,1
+Durham,2013,36,Male,False,False,1
+Durham,2015,42,Male,False,False,1
+Durham,2016,28,Male,True,False,1
+Durham,2016,51,Male,True,True,1
+East Granby,2003,21,Male,True,False,1
+East Granby,2005,31,Male,False,False,1
+East Granby,2010,65,Female,False,False,1
+East Granby,2012,35,Male,True,False,1
+East Granby,2012,40,Male,False,True,1
+East Granby,2012,76,Female,False,False,1
+East Granby,2014,21,Male,False,False,1
+East Granby,2016,24,Male,True,True,1
+East Granby,2017,37,Male,False,False,1
+East Granby,2017,43,Female,False,False,1
+East Haddam,2004,20,Male,False,False,1
+East Haddam,2004,44,Male,True,False,1
+East Haddam,2004,58,Female,False,False,1
+East Haddam,2006,63,Unknown,False,False,1
+East Haddam,2006,66,Male,False,False,1
+East Haddam,2008,16,Male,False,True,1
+East Haddam,2008,24,Female,True,False,1
+East Haddam,2011,19,Male,True,False,1
+East Haddam,2011,53,Male,True,False,1
+East Haddam,2014,33,Male,False,True,1
+East Haddam,2015,42,Male,False,False,1
+East Haddam,2015,62,Male,False,False,1
+East Haddam,2016,22,Male,False,True,1
+East Haddam,2016,23,Male,False,False,1
+East Haddam,2016,60,Unknown,False,False,1
+East Haddam,2017,52,Male,False,False,1
+East Hampton,2003,21,Female,False,False,1
+East Hampton,2005,16,Unknown,False,False,1
+East Hampton,2005,46,Female,False,False,1
+East Hampton,2006,40,Female,False,False,1
+East Hampton,2008,48,Male,False,False,1
+East Hampton,2008,51,Female,False,False,1
+East Hampton,2009,19,Male,True,False,1
+East Hampton,2009,84,Unknown,False,False,1
+East Hampton,2010,25,Male,False,True,1
+East Hampton,2011,11,Unknown,False,False,1
+East Hampton,2011,58,Female,False,False,1
+East Hampton,2012,67,Male,True,False,1
+East Hampton,2013,42,Female,True,False,1
+East Hampton,2013,53,Male,False,False,1
+East Hampton,2013,63,Female,False,False,1
+East Hampton,2014,79,Male,False,False,1
+East Hampton,2015,47,Female,False,False,1
+East Hampton,2018,27,Male,False,False,1
+East Hartford,2003,24,Female,False,False,1
+East Hartford,2003,35,Unknown,False,False,1
+East Hartford,2003,37,Male,False,False,1
+East Hartford,2003,40,Male,False,False,1
+East Hartford,2003,44,Male,False,False,1
+East Hartford,2003,77,Unknown,False,False,1
+East Hartford,2004,13,Unknown,False,False,1
+East Hartford,2004,42,Female,False,False,1
+East Hartford,2004,58,Male,False,False,1
+East Hartford,2004,63,Male,True,False,1
+East Hartford,2004,65,Male,False,False,1
+East Hartford,2005,19,Female,False,False,1
+East Hartford,2005,33,Female,False,False,1
+East Hartford,2005,43,Male,False,False,1
+East Hartford,2005,48,Male,False,False,1
+East Hartford,2006,24,Male,False,False,1
+East Hartford,2006,40,Male,True,False,1
+East Hartford,2007,26,Male,False,False,1
+East Hartford,2007,33,Unknown,False,False,1
+East Hartford,2008,21,Male,True,False,1
+East Hartford,2008,40,Male,True,False,1
+East Hartford,2008,49,Male,False,False,1
+East Hartford,2008,50,Female,False,False,1
+East Hartford,2008,52,Male,False,False,1
+East Hartford,2008,63,Female,False,False,1
+East Hartford,2009,28,Male,True,False,1
+East Hartford,2009,42,Male,True,False,1
+East Hartford,2009,46,Male,False,False,1
+East Hartford,2009,61,Male,False,False,1
+East Hartford,2009,62,Male,False,True,1
+East Hartford,2010,24,Male,True,False,1
+East Hartford,2010,26,Male,True,False,1
+East Hartford,2010,52,Male,True,False,1
+East Hartford,2011,18,Female,False,False,1
+East Hartford,2011,20,Unknown,False,False,1
+East Hartford,2011,21,Female,False,False,1
+East Hartford,2011,24,Female,True,False,1
+East Hartford,2011,26,Male,True,False,1
+East Hartford,2011,40,Male,True,False,1
+East Hartford,2011,56,Male,False,False,1
+East Hartford,2012,23,Unknown,False,False,1
+East Hartford,2012,24,Male,False,False,1
+East Hartford,2012,25,Unknown,False,False,1
+East Hartford,2012,56,Female,False,False,1
+East Hartford,2012,75,Male,False,False,1
+East Hartford,2012,8,Male,False,False,1
+East Hartford,2013,16,Unknown,False,False,1
+East Hartford,2013,18,Unknown,False,False,1
+East Hartford,2013,2,Male,False,False,1
+East Hartford,2013,25,Male,True,False,1
+East Hartford,2013,25,Unknown,False,False,1
+East Hartford,2013,48,Male,False,False,1
+East Hartford,2013,48,Male,True,False,1
+East Hartford,2013,53,Unknown,False,False,1
+East Hartford,2013,63,Male,False,False,1
+East Hartford,2014,17,Male,False,False,1
+East Hartford,2014,36,Male,False,False,2
+East Hartford,2014,40,Male,False,False,1
+East Hartford,2014,51,Male,True,False,1
+East Hartford,2014,56,Female,False,False,1
+East Hartford,2014,88,Female,False,False,1
+East Hartford,2015,2,Male,False,False,1
+East Hartford,2015,20,Male,False,False,1
+East Hartford,2015,26,Male,False,True,1
+East Hartford,2015,31,Male,False,False,1
+East Hartford,2015,35,Male,True,True,1
+East Hartford,2015,43,Male,False,True,1
+East Hartford,2015,47,Female,False,False,1
+East Hartford,2015,8,Male,False,False,1
+East Hartford,2016,31,Male,True,True,1
+East Hartford,2016,34,Male,False,False,1
+East Hartford,2016,49,Male,False,False,1
+East Hartford,2016,70,Male,False,False,1
+East Hartford,2017,20,Female,False,False,1
+East Hartford,2017,71,Male,False,False,1
+East Hartford,2017,84,Male,False,False,1
+East Hartford,2018,47,Male,False,False,1
+East Hartford,2018,6,Male,False,False,1
+East Hartford,2018,65,Male,False,False,1
+East Haven,2003,24,Male,True,False,1
+East Haven,2004,31,Male,False,False,1
+East Haven,2005,20,Male,False,True,1
+East Haven,2005,24,Unknown,False,False,1
+East Haven,2005,55,Female,False,False,1
+East Haven,2006,20,Unknown,False,False,1
+East Haven,2006,35,Male,False,False,1
+East Haven,2006,57,Male,False,False,1
+East Haven,2006,72,Male,False,False,1
+East Haven,2008,22,Male,False,False,1
+East Haven,2008,51,Male,False,False,1
+East Haven,2009,15,Male,False,False,1
+East Haven,2009,57,Unknown,False,False,1
+East Haven,2009,66,Male,False,False,1
+East Haven,2009,83,Male,False,False,1
+East Haven,2009,9,Unknown,False,False,1
+East Haven,2011,16,Male,False,False,1
+East Haven,2011,38,Male,True,False,1
+East Haven,2012,51,Male,False,False,1
+East Haven,2012,73,Male,False,False,1
+East Haven,2013,43,Male,True,False,1
+East Haven,2013,78,Male,False,False,1
+East Haven,2014,23,Male,False,False,1
+East Haven,2014,29,Male,False,False,1
+East Haven,2015,46,Male,False,False,1
+East Haven,2015,81,Male,False,False,1
+East Haven,2015,86,Male,False,False,1
+East Haven,2016,16,Male,False,False,1
+East Haven,2016,27,Female,False,False,1
+East Haven,2016,40,Male,False,False,1
+East Haven,2016,48,Male,False,False,1
+East Haven,2016,59,Female,False,False,1
+East Haven,2017,47,Female,False,False,1
+East Haven,2017,61,Male,False,False,1
+East Haven,2018,34,Male,False,False,1
+East Lyme,2003,33,Unknown,False,False,1
+East Lyme,2004,38,Male,True,False,1
+East Lyme,2006,37,Male,False,False,1
+East Lyme,2007,33,Male,False,False,1
+East Lyme,2007,51,Male,False,False,1
+East Lyme,2007,54,Female,False,False,1
+East Lyme,2008,40,Male,True,False,1
+East Lyme,2011,25,Unknown,False,False,1
+East Lyme,2012,34,Unknown,False,False,1
+East Lyme,2012,35,Male,False,False,1
+East Lyme,2012,60,Female,True,False,1
+East Lyme,2013,49,Male,False,False,1
+East Lyme,2014,25,Male,False,True,1
+East Lyme,2014,63,Male,False,False,1
+East Lyme,2015,48,Male,True,True,1
+East Lyme,2015,55,Male,False,False,1
+East Lyme,2015,70,Male,False,False,1
+East Lyme,2016,28,Female,False,False,1
+East Lyme,2016,69,Unknown,False,False,1
+East Lyme,2018,35,Male,False,True,1
+East Windsor,2003,18,Male,False,True,1
+East Windsor,2003,19,Unknown,False,False,1
+East Windsor,2003,58,Female,False,False,1
+East Windsor,2004,59,Male,False,False,1
+East Windsor,2005,18,Unknown,False,False,1
+East Windsor,2006,20,Female,False,True,1
+East Windsor,2006,37,Male,True,False,1
+East Windsor,2007,18,Unknown,False,False,1
+East Windsor,2007,40,Male,True,False,1
+East Windsor,2007,42,Male,False,False,1
+East Windsor,2007,86,Unknown,False,False,1
+East Windsor,2008,15,Male,False,False,1
+East Windsor,2010,35,Female,True,False,1
+East Windsor,2010,53,Male,True,False,1
+East Windsor,2010,59,Male,False,False,1
+East Windsor,2010,64,Male,False,False,1
+East Windsor,2012,52,Male,False,False,1
+East Windsor,2012,66,Male,False,False,1
+East Windsor,2013,22,Female,True,False,1
+East Windsor,2013,49,Male,False,False,1
+East Windsor,2013,50,Male,False,False,1
+East Windsor,2015,27,Male,False,False,1
+East Windsor,2017,53,Male,False,False,1
+Eastford,2003,44,Unknown,False,False,1
+Eastford,2009,54,Female,True,False,1
+Eastford,2010,21,Unknown,False,False,1
+Eastford,2011,17,Unknown,False,False,1
+Eastford,2011,18,Male,True,False,1
+Eastford,2011,26,Male,False,False,1
+Eastford,2015,66,Male,False,False,1
+Eastford,2015,68,Male,False,False,1
+Eastford,2016,59,Male,False,False,1
+Eastford,2016,63,Male,False,True,1
+Easton,2004,20,Female,True,False,1
+Easton,2004,22,Female,False,True,1
+Easton,2008,23,Unknown,False,False,1
+Easton,2009,42,Male,True,False,1
+Easton,2011,18,Male,False,False,1
+Easton,2016,90,Male,False,False,1
+Ellington,2003,46,Male,True,False,1
+Ellington,2004,20,Male,True,False,1
+Ellington,2004,37,Male,True,False,1
+Ellington,2004,40,Female,True,False,1
+Ellington,2005,18,Unknown,False,False,1
+Ellington,2005,20,Male,False,False,2
+Ellington,2006,21,Male,False,False,1
+Ellington,2007,17,Male,False,False,1
+Ellington,2008,33,Male,False,False,1
+Ellington,2008,36,Male,True,False,1
+Ellington,2008,57,Male,True,False,1
+Ellington,2009,29,Male,True,False,1
+Ellington,2009,58,Male,False,False,1
+Ellington,2010,49,Male,False,False,1
+Ellington,2011,20,Male,True,False,1
+Ellington,2011,42,Female,False,False,1
+Ellington,2011,63,Female,False,False,1
+Ellington,2012,61,Male,False,False,1
+Ellington,2014,33,Male,False,False,1
+Ellington,2014,87,Female,False,False,1
+Ellington,2015,25,Female,False,False,1
+Ellington,2018,48,Male,False,False,1
+Enfield,2003,19,Male,False,True,1
+Enfield,2003,26,Male,False,False,1
+Enfield,2003,63,Female,False,True,1
+Enfield,2003,92,Male,False,False,1
+Enfield,2004,9,Unknown,False,False,1
+Enfield,2005,63,Female,False,False,1
+Enfield,2006,18,Unknown,False,False,1
+Enfield,2006,28,Unknown,False,False,1
+Enfield,2006,29,Male,True,False,1
+Enfield,2006,35,Female,False,False,1
+Enfield,2006,50,Male,False,False,1
+Enfield,2006,81,Female,False,False,1
+Enfield,2007,46,Male,False,False,1
+Enfield,2008,47,Male,False,False,1
+Enfield,2009,25,Male,False,True,1
+Enfield,2009,31,Male,False,False,1
+Enfield,2010,17,Unknown,False,False,1
+Enfield,2010,21,Unknown,False,False,1
+Enfield,2010,29,Female,True,False,1
+Enfield,2010,57,Male,False,False,2
+Enfield,2010,64,Male,False,False,1
+Enfield,2011,22,Male,True,False,1
+Enfield,2011,24,Male,True,False,1
+Enfield,2011,43,Male,True,False,1
+Enfield,2012,34,Male,False,False,1
+Enfield,2012,34,Unknown,False,False,1
+Enfield,2012,37,Male,True,False,1
+Enfield,2012,57,Unknown,False,False,1
+Enfield,2012,58,Female,False,False,1
+Enfield,2012,72,Male,False,True,1
+Enfield,2012,76,Female,False,False,1
+Enfield,2013,11,Male,False,False,1
+Enfield,2013,19,Female,True,False,1
+Enfield,2013,20,Male,False,True,1
+Enfield,2013,23,Male,False,True,1
+Enfield,2013,40,Male,False,False,1
+Enfield,2013,56,Male,False,False,1
+Enfield,2014,26,Male,False,True,1
+Enfield,2014,34,Male,True,False,1
+Enfield,2014,88,Female,False,False,1
+Enfield,2015,36,Male,False,True,1
+Enfield,2016,21,Male,False,False,1
+Enfield,2016,22,Female,False,False,1
+Enfield,2016,48,Female,False,False,1
+Enfield,2016,61,Female,False,False,1
+Enfield,2016,64,Male,True,False,1
+Enfield,2017,20,Female,False,False,1
+Enfield,2017,86,Male,False,False,1
+Enfield,2018,18,Male,False,False,1
+Enfield,2018,19,Male,False,False,1
+Enfield,2018,20,Male,False,False,1
+Enfield,2018,24,Female,False,False,1
+Enfield,2018,29,Female,False,False,1
+Enfield,2018,60,Male,False,False,1
+Enfield,2018,63,Male,False,False,1
+Essex,2003,38,Unknown,False,False,1
+Essex,2006,17,Unknown,False,False,1
+Essex,2011,41,Male,True,False,1
+Essex,2012,28,Female,True,False,1
+Essex,2012,54,Male,False,False,1
+Essex,2014,50,Male,False,True,1
+Essex,2014,50,Male,True,False,1
+Essex,2016,80,Male,False,True,1
+Essex,2017,38,Male,False,False,1
+Essex,2018,58,Male,False,True,1
+Fairfield,2003,19,Unknown,False,False,2
+Fairfield,2003,20,Male,False,False,1
+Fairfield,2003,20,Unknown,False,False,1
+Fairfield,2003,24,Unknown,False,False,1
+Fairfield,2003,25,Male,True,False,1
+Fairfield,2003,46,Male,True,False,1
+Fairfield,2003,78,Male,False,False,1
+Fairfield,2003,85,Male,False,False,1
+Fairfield,2004,19,Male,False,True,1
+Fairfield,2004,23,Female,False,False,1
+Fairfield,2004,25,Male,True,False,1
+Fairfield,2004,43,Male,True,False,1
+Fairfield,2004,49,Female,True,False,1
+Fairfield,2005,24,Unknown,False,False,1
+Fairfield,2005,26,Male,True,False,1
+Fairfield,2005,34,Male,False,False,1
+Fairfield,2005,42,Male,False,False,1
+Fairfield,2005,45,Male,False,False,1
+Fairfield,2005,73,Female,False,False,1
+Fairfield,2005,82,Female,False,False,1
+Fairfield,2006,28,Male,True,False,1
+Fairfield,2006,43,Female,False,False,1
+Fairfield,2006,67,Female,False,False,1
+Fairfield,2007,76,Male,False,False,1
+Fairfield,2008,36,Male,True,False,1
+Fairfield,2008,54,Male,True,False,1
+Fairfield,2008,76,Male,False,False,1
+Fairfield,2009,36,Male,False,True,1
+Fairfield,2009,38,Unknown,False,False,1
+Fairfield,2010,21,Male,False,True,1
+Fairfield,2010,67,Unknown,False,False,1
+Fairfield,2010,68,Unknown,False,False,1
+Fairfield,2010,88,Male,False,False,1
+Fairfield,2011,24,Male,False,False,1
+Fairfield,2011,44,Male,False,False,1
+Fairfield,2011,70,Female,False,False,1
+Fairfield,2012,22,Unknown,False,False,1
+Fairfield,2012,24,Female,True,False,1
+Fairfield,2012,40,Male,True,False,1
+Fairfield,2012,49,Male,False,False,1
+Fairfield,2012,52,Unknown,False,False,1
+Fairfield,2012,72,Female,False,False,1
+Fairfield,2012,93,Female,False,False,1
+Fairfield,2013,21,Male,True,False,1
+Fairfield,2013,24,Male,False,False,1
+Fairfield,2014,27,Female,True,False,1
+Fairfield,2014,82,Male,False,False,1
+Fairfield,2015,20,Male,False,False,1
+Fairfield,2015,32,Male,False,False,1
+Fairfield,2015,85,Male,False,False,1
+Fairfield,2016,31,Female,False,False,1
+Fairfield,2016,33,Male,False,True,1
+Fairfield,2016,48,Male,False,False,1
+Fairfield,2016,86,Female,False,False,1
+Fairfield,2017,22,Male,False,True,1
+Fairfield,2017,23,Male,True,False,1
+Fairfield,2017,43,Male,True,False,1
+Fairfield,2017,77,Male,False,False,1
+Fairfield,2018,22,Male,False,True,1
+Farmington,2003,19,Unknown,False,False,1
+Farmington,2003,20,Male,False,True,1
+Farmington,2003,20,Unknown,False,False,1
+Farmington,2004,16,Unknown,False,False,1
+Farmington,2004,18,Male,False,False,1
+Farmington,2004,45,Female,True,False,1
+Farmington,2005,61,Female,False,False,1
+Farmington,2006,45,Male,False,False,1
+Farmington,2006,82,Male,False,False,1
+Farmington,2007,31,Male,False,False,1
+Farmington,2007,32,Male,False,False,1
+Farmington,2007,56,Male,False,False,1
+Farmington,2007,60,Male,False,False,1
+Farmington,2008,23,Male,False,False,1
+Farmington,2008,29,Unknown,False,False,1
+Farmington,2008,34,Male,False,False,1
+Farmington,2008,49,Female,False,False,1
+Farmington,2008,71,Female,False,False,1
+Farmington,2009,28,Male,False,False,1
+Farmington,2009,55,Male,False,False,1
+Farmington,2010,19,Male,True,False,1
+Farmington,2010,34,Male,True,False,1
+Farmington,2010,42,Female,True,False,1
+Farmington,2011,24,Female,False,True,1
+Farmington,2011,44,Male,False,True,1
+Farmington,2011,64,Male,False,False,1
+Farmington,2012,14,Male,False,False,1
+Farmington,2012,22,Male,False,True,1
+Farmington,2012,40,Unknown,False,False,1
+Farmington,2012,53,Male,False,True,1
+Farmington,2012,64,Male,False,False,1
+Farmington,2012,83,Male,False,False,1
+Farmington,2013,21,Male,False,False,1
+Farmington,2013,26,Male,True,False,1
+Farmington,2013,27,Female,False,False,1
+Farmington,2013,33,Male,False,True,1
+Farmington,2013,38,Male,True,False,1
+Farmington,2013,50,Male,False,False,1
+Farmington,2013,72,Unknown,False,False,1
+Farmington,2013,86,Unknown,False,False,1
+Farmington,2014,58,Male,False,False,1
+Farmington,2014,85,Female,False,False,2
+Farmington,2015,37,Male,False,False,1
+Farmington,2015,79,Male,False,False,1
+Farmington,2016,66,Female,False,False,1
+Farmington,2017,66,Male,False,False,2
+Farmington,2018,24,Female,False,True,1
+Farmington,2018,49,Male,False,False,1
+Franklin,2006,68,Male,False,False,1
+Franklin,2012,23,Female,False,False,1
+Franklin,2012,28,Male,True,False,1
+Franklin,2013,23,Male,False,False,1
+Franklin,2014,50,Male,True,False,1
+Glastonbury,2003,23,Male,False,True,1
+Glastonbury,2003,23,Unknown,False,False,1
+Glastonbury,2003,75,Female,False,False,1
+Glastonbury,2004,35,Male,True,False,1
+Glastonbury,2005,38,Male,False,False,1
+Glastonbury,2007,18,Unknown,False,False,1
+Glastonbury,2007,83,Male,False,False,1
+Glastonbury,2008,19,Male,False,False,1
+Glastonbury,2010,21,Male,False,False,1
+Glastonbury,2010,43,Male,False,False,1
+Glastonbury,2010,83,Female,False,False,1
+Glastonbury,2011,78,Male,False,False,1
+Glastonbury,2011,86,Female,False,False,1
+Glastonbury,2012,73,Female,False,False,1
+Glastonbury,2013,17,Female,True,False,1
+Glastonbury,2015,18,Male,False,True,1
+Glastonbury,2015,91,Female,False,False,1
+Glastonbury,2017,76,Female,False,False,1
+Glastonbury,2018,27,Male,False,False,1
+Glastonbury,2018,43,Female,False,True,1
+Glastonbury,2018,51,Female,False,False,1
+Glastonbury,2018,82,Female,False,False,1
+Goshen,2005,35,Female,False,False,1
+Goshen,2007,41,Male,True,False,1
+Goshen,2007,64,Female,False,True,1
+Goshen,2011,29,Male,False,False,1
+Goshen,2014,75,Male,False,False,1
+Granby,2004,17,Female,False,False,1
+Granby,2004,62,Male,True,False,1
+Granby,2005,55,Male,False,False,1
+Granby,2006,18,Female,False,False,1
+Granby,2006,56,Male,False,False,1
+Granby,2010,32,Male,False,False,1
+Granby,2011,40,Female,False,False,1
+Granby,2011,47,Male,True,False,1
+Granby,2013,47,Male,False,False,1
+Granby,2014,1,Unknown,False,False,1
+Granby,2015,26,Male,False,False,1
+Granby,2015,58,Male,False,False,1
+Granby,2015,71,Male,False,False,1
+Granby,2017,34,Male,True,True,1
+Granby,2017,55,Male,False,False,1
+Greenwich,2003,23,Male,False,False,1
+Greenwich,2003,36,Male,False,False,1
+Greenwich,2003,69,Male,False,False,1
+Greenwich,2004,58,Male,True,False,1
+Greenwich,2005,17,Male,False,True,1
+Greenwich,2005,18,Male,True,False,1
+Greenwich,2005,18,Unknown,False,False,1
+Greenwich,2005,44,Male,True,False,1
+Greenwich,2005,51,Male,False,False,1
+Greenwich,2005,75,Female,False,True,1
+Greenwich,2006,22,Male,True,False,1
+Greenwich,2006,23,Female,False,False,1
+Greenwich,2006,24,Unknown,False,False,1
+Greenwich,2006,31,Male,True,False,1
+Greenwich,2006,36,Male,False,False,1
+Greenwich,2006,61,Female,False,False,1
+Greenwich,2006,72,Male,True,False,1
+Greenwich,2007,19,Male,True,False,1
+Greenwich,2007,19,Unknown,False,False,1
+Greenwich,2007,23,Male,False,False,1
+Greenwich,2007,26,Unknown,False,False,1
+Greenwich,2007,27,Male,True,False,1
+Greenwich,2007,44,Male,True,False,1
+Greenwich,2008,20,Male,False,False,1
+Greenwich,2008,30,Male,False,True,1
+Greenwich,2008,33,Male,False,False,1
+Greenwich,2008,63,Female,False,False,1
+Greenwich,2008,82,Female,False,False,1
+Greenwich,2009,24,Male,True,False,1
+Greenwich,2009,40,Male,False,True,1
+Greenwich,2009,49,Male,False,True,1
+Greenwich,2009,49,Male,True,False,1
+Greenwich,2009,79,Male,False,False,1
+Greenwich,2010,42,Male,False,False,1
+Greenwich,2010,65,Female,False,False,1
+Greenwich,2011,23,Male,True,False,1
+Greenwich,2011,29,Male,True,False,1
+Greenwich,2011,40,Unknown,False,False,1
+Greenwich,2012,34,Female,False,True,1
+Greenwich,2012,37,Male,False,False,1
+Greenwich,2013,19,Male,True,False,1
+Greenwich,2013,21,Female,False,False,1
+Greenwich,2013,57,Male,False,False,1
+Greenwich,2013,59,Female,False,False,1
+Greenwich,2015,51,Female,False,False,1
+Greenwich,2015,80,Male,False,False,1
+Greenwich,2016,24,Male,False,False,1
+Greenwich,2016,38,Female,False,False,1
+Greenwich,2016,43,Male,False,False,1
+Greenwich,2017,38,Male,False,False,1
+Greenwich,2017,62,Male,False,False,1
+Greenwich,2017,87,Male,False,False,1
+Greenwich,2018,58,Male,False,False,1
+Greenwich,2018,70,Male,False,False,1
+Griswold,2003,12,Male,False,False,1
+Griswold,2003,54,Male,True,False,1
+Griswold,2003,66,Male,False,False,1
+Griswold,2004,19,Male,False,True,1
+Griswold,2004,24,Male,True,False,1
+Griswold,2004,60,Unknown,False,False,1
+Griswold,2004,71,Unknown,False,False,1
+Griswold,2005,57,Male,True,False,1
+Griswold,2006,78,Male,False,False,1
+Griswold,2006,79,Unknown,False,False,1
+Griswold,2006,83,Male,False,False,1
+Griswold,2008,23,Male,False,False,1
+Griswold,2008,81,Male,False,False,1
+Griswold,2009,18,Unknown,False,False,1
+Griswold,2009,23,Male,False,True,1
+Griswold,2009,36,Male,True,False,1
+Griswold,2009,38,Female,True,False,1
+Griswold,2010,15,Unknown,False,False,1
+Griswold,2010,16,Male,False,True,1
+Griswold,2010,16,Unknown,False,False,2
+Griswold,2010,36,Male,True,False,1
+Griswold,2010,48,Male,False,False,1
+Griswold,2011,39,Male,True,False,1
+Griswold,2012,67,Female,True,False,1
+Griswold,2013,20,Male,False,False,1
+Griswold,2013,53,Female,False,False,1
+Griswold,2013,75,Unknown,False,False,1
+Griswold,2013,76,Female,False,False,1
+Griswold,2016,62,Unknown,False,False,1
+Griswold,2017,33,Male,True,True,1
+Griswold,2017,89,Male,False,False,1
+Griswold,2018,27,Male,True,True,1
+Griswold,2018,48,Male,False,False,1
+Groton,2003,18,Male,False,False,1
+Groton,2003,19,Male,True,False,1
+Groton,2003,25,Male,False,False,1
+Groton,2003,31,Male,True,False,1
+Groton,2004,20,Male,False,True,1
+Groton,2004,50,Male,False,False,1
+Groton,2004,60,Female,False,True,1
+Groton,2005,21,Male,False,False,1
+Groton,2005,23,Male,True,False,1
+Groton,2005,31,Unknown,False,False,1
+Groton,2005,64,Female,False,False,1
+Groton,2006,48,Female,False,False,1
+Groton,2006,71,Male,False,False,1
+Groton,2006,78,Female,False,False,1
+Groton,2007,16,Male,True,False,1
+Groton,2007,33,Unknown,False,False,1
+Groton,2007,43,Unknown,False,False,1
+Groton,2007,52,Male,False,False,1
+Groton,2008,30,Male,True,False,1
+Groton,2009,56,Male,False,False,1
+Groton,2010,26,Male,False,False,1
+Groton,2011,23,Male,False,True,1
+Groton,2011,27,Unknown,False,False,1
+Groton,2011,49,Male,False,False,1
+Groton,2011,51,Male,False,False,1
+Groton,2011,78,Male,False,True,1
+Groton,2012,28,Male,False,False,1
+Groton,2012,48,Male,True,False,1
+Groton,2015,35,Male,False,True,1
+Groton,2015,50,Male,False,False,1
+Groton,2016,4,Female,False,False,1
+Groton,2016,80,Male,False,False,1
+Groton,2017,22,Male,False,False,1
+Groton,2017,25,Male,True,False,1
+Groton,2018,41,Male,False,False,1
+Groton,2018,56,Male,False,True,1
+Groton,2018,88,Female,False,False,1
+Guilford,2003,35,Male,True,False,1
+Guilford,2005,16,Unknown,False,False,1
+Guilford,2005,22,Male,False,False,1
+Guilford,2005,45,Male,True,False,1
+Guilford,2005,76,Unknown,False,False,1
+Guilford,2006,27,Male,False,False,1
+Guilford,2006,59,Female,False,False,1
+Guilford,2007,21,Female,True,False,1
+Guilford,2008,40,Female,True,False,1
+Guilford,2008,66,Female,False,False,1
+Guilford,2008,85,Male,False,False,1
+Guilford,2009,17,Unknown,False,False,1
+Guilford,2009,57,Male,False,False,1
+Guilford,2010,39,Male,False,False,1
+Guilford,2010,43,Unknown,False,False,1
+Guilford,2010,50,Male,False,False,1
+Guilford,2011,67,Male,False,False,1
+Guilford,2012,18,Male,False,False,1
+Guilford,2012,46,Unknown,False,False,1
+Guilford,2012,52,Male,False,False,1
+Guilford,2013,23,Unknown,False,False,1
+Guilford,2013,33,Male,True,False,1
+Guilford,2014,40,Male,False,False,1
+Guilford,2014,81,Male,False,False,1
+Guilford,2015,21,Male,False,False,1
+Guilford,2015,28,Male,True,True,1
+Guilford,2015,44,Male,False,True,1
+Guilford,2015,73,Female,False,False,1
+Guilford,2016,18,Male,False,True,1
+Guilford,2017,38,Female,True,False,1
+Guilford,2018,43,Male,False,False,1
+Guilford,2018,72,Female,False,False,1
+Haddam,2003,22,Unknown,False,False,1
+Haddam,2003,28,Male,True,False,1
+Haddam,2004,40,Male,False,True,1
+Haddam,2004,51,Male,False,False,1
+Haddam,2005,22,Male,False,False,1
+Haddam,2005,46,Male,True,False,1
+Haddam,2005,55,Female,False,False,1
+Haddam,2005,73,Male,False,False,1
+Haddam,2005,86,Unknown,False,False,1
+Haddam,2006,22,Male,False,False,1
+Haddam,2006,39,Male,False,False,1
+Haddam,2006,42,Male,False,True,1
+Haddam,2007,62,Female,False,False,1
+Haddam,2010,46,Female,True,False,1
+Haddam,2010,60,Female,False,False,1
+Haddam,2010,66,Male,False,False,1
+Haddam,2011,55,Male,False,True,1
+Haddam,2012,40,Male,False,False,1
+Haddam,2013,83,Unknown,False,False,1
+Haddam,2015,56,Male,True,False,1
+Haddam,2016,57,Male,False,False,1
+Haddam,2018,41,Male,False,False,1
+Haddam,2018,41,Male,True,True,1
+Hamden,2003,22,Male,True,False,1
+Hamden,2003,66,Female,False,False,1
+Hamden,2004,52,Male,False,False,1
+Hamden,2005,20,Male,True,False,1
+Hamden,2005,25,Unknown,False,False,1
+Hamden,2005,30,Male,False,False,1
+Hamden,2006,47,Female,False,False,1
+Hamden,2007,18,Female,False,False,1
+Hamden,2007,23,Male,False,True,1
+Hamden,2007,49,Male,True,False,1
+Hamden,2007,76,Female,False,False,1
+Hamden,2008,28,Male,True,False,1
+Hamden,2008,50,Male,False,False,1
+Hamden,2008,79,Male,False,False,1
+Hamden,2008,85,Female,False,False,1
+Hamden,2009,16,Female,False,False,1
+Hamden,2009,36,Male,False,True,1
+Hamden,2010,51,Male,True,False,1
+Hamden,2011,22,Male,False,False,1
+Hamden,2011,42,Unknown,False,False,1
+Hamden,2011,50,Male,False,False,1
+Hamden,2011,86,Male,False,False,1
+Hamden,2012,58,Male,False,False,1
+Hamden,2013,15,Unknown,False,False,1
+Hamden,2013,24,Male,False,False,1
+Hamden,2013,36,Male,False,False,1
+Hamden,2014,36,Male,True,False,1
+Hamden,2014,67,Female,False,False,1
+Hamden,2015,51,Male,False,False,1
+Hamden,2016,46,Male,False,False,1
+Hamden,2016,58,Male,False,False,1
+Hamden,2017,38,Male,False,False,2
+Hamden,2017,47,Male,False,False,1
+Hamden,2017,68,Female,False,False,1
+Hamden,2018,21,Male,False,True,1
+Hamden,2018,26,Male,False,False,1
+Hamden,2018,29,Male,False,False,1
+Hamden,2018,47,Female,False,False,1
+Hamden,2018,50,Female,False,False,1
+Hamden,2018,50,Female,True,False,1
+Hamden,2018,50,Male,True,False,1
+Hamden,2018,59,Male,False,False,1
+Hampton,2003,41,Male,False,False,1
+Hampton,2007,62,Unknown,False,False,1
+Hampton,2008,38,Male,True,False,1
+Hampton,2010,27,Male,False,False,1
+Hampton,2010,48,Male,True,False,1
+Hampton,2010,88,Unknown,False,False,1
+Hampton,2016,74,Male,False,False,1
+Hampton,2017,32,Male,True,False,1
+Hartford,2003,19,Male,False,False,1
+Hartford,2003,21,Unknown,False,False,1
+Hartford,2003,26,Male,True,False,1
+Hartford,2003,31,Male,False,False,1
+Hartford,2003,32,Female,True,False,1
+Hartford,2003,34,Male,True,False,1
+Hartford,2003,34,Unknown,False,False,1
+Hartford,2003,35,Male,True,False,1
+Hartford,2003,37,Male,False,False,1
+Hartford,2003,77,Unknown,False,False,1
+Hartford,2003,85,Male,False,False,1
+Hartford,2004,22,Male,False,False,2
+Hartford,2004,25,Male,False,False,1
+Hartford,2004,26,Male,False,True,1
+Hartford,2004,26,Unknown,False,False,1
+Hartford,2004,28,Male,False,True,1
+Hartford,2004,31,Male,False,False,1
+Hartford,2004,38,Unknown,False,False,1
+Hartford,2004,42,Male,False,False,1
+Hartford,2004,43,Male,False,False,1
+Hartford,2004,45,Male,False,False,1
+Hartford,2004,62,Male,True,False,1
+Hartford,2005,19,Male,False,False,2
+Hartford,2005,20,Male,False,False,1
+Hartford,2005,23,Male,False,False,1
+Hartford,2005,24,Female,False,False,1
+Hartford,2005,26,Male,False,False,1
+Hartford,2005,29,Female,True,False,1
+Hartford,2005,40,Female,False,False,1
+Hartford,2006,15,Unknown,False,False,1
+Hartford,2006,16,Male,False,False,1
+Hartford,2006,16,Unknown,False,False,1
+Hartford,2006,20,Female,False,False,1
+Hartford,2006,20,Unknown,False,False,1
+Hartford,2006,24,Unknown,False,False,1
+Hartford,2006,25,Unknown,False,False,1
+Hartford,2006,26,Male,False,False,1
+Hartford,2006,27,Male,False,False,2
+Hartford,2006,29,Male,False,False,1
+Hartford,2006,32,Male,False,False,2
+Hartford,2006,35,Male,True,False,1
+Hartford,2006,37,Unknown,False,False,1
+Hartford,2006,60,Male,False,False,1
+Hartford,2006,63,Male,False,False,1
+Hartford,2007,19,Male,True,False,1
+Hartford,2007,19,Unknown,False,False,1
+Hartford,2007,20,Male,False,False,1
+Hartford,2007,21,Female,False,False,1
+Hartford,2007,21,Male,False,False,1
+Hartford,2007,22,Male,True,False,1
+Hartford,2007,24,Male,True,False,1
+Hartford,2007,28,Male,True,False,1
+Hartford,2007,30,Female,True,False,1
+Hartford,2007,30,Male,False,True,1
+Hartford,2007,37,Male,False,False,1
+Hartford,2007,43,Female,False,False,1
+Hartford,2007,77,Male,False,False,1
+Hartford,2007,77,Unknown,False,False,1
+Hartford,2007,84,Unknown,False,False,1
+Hartford,2008,14,Unknown,False,False,1
+Hartford,2008,19,Unknown,False,False,1
+Hartford,2008,21,Unknown,False,False,2
+Hartford,2008,22,Male,True,False,2
+Hartford,2008,22,Unknown,False,False,1
+Hartford,2008,24,Unknown,False,False,1
+Hartford,2008,25,Female,True,False,1
+Hartford,2008,36,Male,False,False,1
+Hartford,2008,37,Male,True,False,1
+Hartford,2008,50,Unknown,False,False,1
+Hartford,2008,51,Male,False,False,1
+Hartford,2008,73,Male,False,False,1
+Hartford,2009,16,Male,False,False,1
+Hartford,2009,26,Male,False,False,1
+Hartford,2009,29,Male,False,True,1
+Hartford,2009,31,Male,True,False,1
+Hartford,2009,36,Male,True,False,1
+Hartford,2009,41,Male,False,True,1
+Hartford,2009,43,Male,False,True,1
+Hartford,2009,56,Unknown,False,False,1
+Hartford,2009,72,Female,False,False,1
+Hartford,2010,14,Unknown,False,False,1
+Hartford,2010,16,Unknown,False,False,1
+Hartford,2010,19,Unknown,False,False,1
+Hartford,2010,22,Male,False,True,1
+Hartford,2010,22,Male,True,False,1
+Hartford,2010,22,Unknown,False,False,1
+Hartford,2010,26,Female,False,False,1
+Hartford,2010,26,Male,True,False,1
+Hartford,2010,29,Male,False,False,1
+Hartford,2010,4,Unknown,False,False,1
+Hartford,2010,46,Male,False,False,1
+Hartford,2010,52,Female,False,False,1
+Hartford,2010,56,Male,False,False,1
+Hartford,2010,57,Female,False,False,1
+Hartford,2010,73,Male,False,False,1
+Hartford,2011,10,Female,False,False,1
+Hartford,2011,23,Male,True,False,1
+Hartford,2011,25,Male,False,True,1
+Hartford,2011,3,Male,False,False,1
+Hartford,2011,32,Male,True,False,1
+Hartford,2011,45,Unknown,False,False,1
+Hartford,2012,17,Male,True,False,1
+Hartford,2012,21,Unknown,False,False,1
+Hartford,2012,22,Unknown,False,False,1
+Hartford,2012,29,Female,True,False,1
+Hartford,2012,29,Male,False,False,1
+Hartford,2012,30,Male,True,False,1
+Hartford,2012,39,Male,False,False,1
+Hartford,2012,44,Unknown,False,False,1
+Hartford,2012,46,Male,False,False,1
+Hartford,2012,50,Male,False,False,1
+Hartford,2012,50,Unknown,False,False,1
+Hartford,2012,59,Female,False,False,1
+Hartford,2013,15,Unknown,False,False,1
+Hartford,2013,18,Male,False,True,1
+Hartford,2013,20,Male,False,False,1
+Hartford,2013,27,Male,True,False,1
+Hartford,2013,38,Male,True,False,1
+Hartford,2013,41,Female,False,False,1
+Hartford,2013,44,Female,False,False,1
+Hartford,2013,48,Male,True,False,1
+Hartford,2013,68,Male,False,False,1
+Hartford,2013,76,Male,False,False,1
+Hartford,2013,99,Female,False,False,1
+Hartford,2014,18,Male,False,False,1
+Hartford,2014,43,Male,True,False,1
+Hartford,2015,25,Male,False,False,1
+Hartford,2015,27,Male,False,False,1
+Hartford,2015,27,Male,False,True,1
+Hartford,2015,29,Male,False,False,1
+Hartford,2015,30,Female,False,True,1
+Hartford,2015,38,Male,False,False,1
+Hartford,2015,56,Male,False,False,1
+Hartford,2015,60,Female,False,False,1
+Hartford,2015,69,Male,False,False,1
+Hartford,2016,13,Male,False,True,1
+Hartford,2016,24,Female,False,False,1
+Hartford,2016,24,Male,False,False,1
+Hartford,2016,25,Female,True,False,1
+Hartford,2016,27,Male,False,True,1
+Hartford,2016,34,Male,False,False,1
+Hartford,2016,36,Male,False,False,1
+Hartford,2016,40,Male,False,True,1
+Hartford,2016,42,Male,True,False,1
+Hartford,2016,88,Male,False,False,1
+Hartford,2017,26,Male,False,True,1
+Hartford,2017,27,Male,False,False,1
+Hartford,2017,43,Male,False,False,1
+Hartford,2017,46,Male,False,False,1
+Hartford,2017,52,Male,False,False,2
+Hartford,2017,56,Female,False,False,1
+Hartford,2017,58,Female,False,False,1
+Hartford,2017,70,Female,False,False,1
+Hartford,2017,83,Male,False,False,1
+Hartford,2018,20,Male,False,True,1
+Hartford,2018,22,Female,False,False,1
+Hartford,2018,22,Male,False,False,2
+Hartford,2018,22,Male,True,True,1
+Hartford,2018,23,Female,False,False,1
+Hartford,2018,24,Female,False,False,1
+Hartford,2018,24,Male,False,False,1
+Hartford,2018,26,Female,False,True,1
+Hartford,2018,27,Male,False,True,1
+Hartford,2018,30,Female,False,False,1
+Hartford,2018,32,Female,False,False,1
+Hartford,2018,32,Male,False,True,1
+Hartford,2018,38,Male,False,False,1
+Hartford,2018,40,Male,False,False,1
+Hartford,2018,47,Female,False,False,1
+Hartford,2018,51,Male,False,False,1
+Hartford,2018,52,Male,False,False,1
+Hartford,2018,57,Male,False,False,1
+Hartford,2018,58,Female,False,False,1
+Hartford,2018,80,Male,False,False,1
+Hartland,2003,17,Male,True,False,1
+Hartland,2006,18,Male,False,True,1
+Hartland,2006,53,Male,True,False,1
+Hartland,2009,20,Male,True,False,1
+Hartland,2013,44,Male,True,False,1
+Hartland,2016,61,Male,True,False,1
+Harwinton,2005,24,Male,False,True,1
+Harwinton,2006,18,Male,False,False,1
+Harwinton,2007,53,Male,False,False,1
+Harwinton,2007,82,Male,False,False,1
+Harwinton,2010,17,Unknown,False,False,1
+Harwinton,2010,18,Male,True,False,1
+Harwinton,2010,44,Male,True,False,1
+Harwinton,2011,33,Male,True,False,1
+Harwinton,2011,54,Male,False,False,1
+Harwinton,2012,48,Male,False,True,1
+Harwinton,2013,38,Male,True,False,1
+Harwinton,2013,68,Unknown,False,False,1
+Harwinton,2013,69,Male,False,False,1
+Harwinton,2013,90,Female,False,False,1
+Harwinton,2014,55,Male,False,False,1
+Harwinton,2015,26,Male,True,True,1
+Harwinton,2015,75,Female,False,False,1
+Harwinton,2016,50,Male,False,True,1
+Harwinton,2017,28,Male,True,False,1
+Harwinton,2017,53,Male,False,False,1
+Harwinton,2018,45,Male,False,False,1
+Hebron,2003,60,Male,False,False,1
+Hebron,2005,26,Male,True,False,1
+Hebron,2005,43,Unknown,False,False,1
+Hebron,2005,84,Female,False,False,1
+Hebron,2007,49,Male,False,False,1
+Hebron,2007,53,Male,False,False,1
+Hebron,2008,47,Male,False,False,1
+Hebron,2008,61,Female,False,False,1
+Hebron,2010,21,Male,True,False,1
+Hebron,2010,63,Male,True,False,1
+Hebron,2011,51,Female,False,False,1
+Hebron,2012,28,Male,True,False,1
+Hebron,2013,17,Unknown,False,False,1
+Hebron,2013,22,Male,True,False,1
+Hebron,2013,28,Male,True,False,1
+Hebron,2013,74,Female,False,False,1
+Hebron,2014,18,Male,False,False,1
+Hebron,2014,65,Female,False,False,1
+Hebron,2014,65,Male,False,False,1
+Hebron,2015,22,Male,False,False,1
+Hebron,2015,53,Male,True,False,1
+Hebron,2017,57,Male,False,False,1
+Hebron,2017,75,Female,False,False,1
+Kent,2004,18,Unknown,False,False,1
+Kent,2004,71,Male,False,False,1
+Kent,2007,19,Male,False,False,1
+Kent,2007,22,Male,True,False,1
+Kent,2009,52,Male,False,False,1
+Kent,2010,36,Male,False,True,1
+Kent,2010,50,Unknown,False,False,1
+Kent,2010,55,Male,False,False,1
+Kent,2012,50,Male,False,False,1
+Kent,2015,52,Male,False,True,1
+Kent,2018,22,Female,False,False,1
+Killingly,2003,22,Male,False,False,1
+Killingly,2003,22,Unknown,False,False,1
+Killingly,2003,29,Male,False,True,1
+Killingly,2003,31,Male,True,False,1
+Killingly,2003,74,Unknown,False,False,1
+Killingly,2004,18,Male,False,True,1
+Killingly,2004,19,Unknown,False,False,1
+Killingly,2004,30,Male,False,False,1
+Killingly,2004,30,Male,True,False,1
+Killingly,2004,31,Male,False,False,1
+Killingly,2004,31,Unknown,False,False,1
+Killingly,2004,34,Female,False,False,1
+Killingly,2004,36,Female,True,False,1
+Killingly,2005,38,Male,False,False,1
+Killingly,2006,18,Male,False,False,1
+Killingly,2006,26,Male,False,False,1
+Killingly,2007,27,Female,True,False,1
+Killingly,2007,36,Male,True,False,1
+Killingly,2008,91,Unknown,False,False,1
+Killingly,2009,34,Female,False,False,1
+Killingly,2009,38,Unknown,False,False,1
+Killingly,2009,43,Male,True,False,1
+Killingly,2009,83,Female,False,False,1
+Killingly,2010,22,Unknown,False,False,1
+Killingly,2010,23,Male,False,False,1
+Killingly,2010,39,Female,False,True,1
+Killingly,2010,68,Male,False,False,1
+Killingly,2013,38,Female,True,False,1
+Killingly,2013,68,Male,False,False,1
+Killingly,2014,50,Male,False,False,1
+Killingly,2014,51,Male,True,False,1
+Killingly,2014,67,Female,False,False,1
+Killingly,2014,78,Male,False,False,1
+Killingly,2015,19,Female,False,False,1
+Killingly,2015,24,Female,True,True,1
+Killingly,2016,20,Female,False,True,1
+Killingly,2016,46,Female,False,False,1
+Killingly,2016,52,Male,True,False,1
+Killingly,2016,76,Male,False,True,1
+Killingly,2017,26,Female,False,False,1
+Killingly,2017,34,Female,False,False,1
+Killingly,2017,76,Male,False,False,1
+Killingly,2018,22,Male,True,True,1
+Killingly,2018,23,Male,False,False,1
+Killingly,2018,37,Male,False,False,1
+Killingworth,2003,24,Male,True,False,1
+Killingworth,2004,25,Female,False,False,1
+Killingworth,2004,51,Unknown,False,False,1
+Killingworth,2010,38,Male,True,False,1
+Killingworth,2012,31,Male,True,False,1
+Killingworth,2014,21,Unknown,False,False,1
+Killingworth,2015,47,Female,False,False,1
+Lebanon,2003,21,Unknown,False,False,1
+Lebanon,2003,22,Male,True,False,1
+Lebanon,2003,35,Male,True,False,1
+Lebanon,2003,65,Female,True,False,1
+Lebanon,2004,22,Male,False,False,1
+Lebanon,2004,27,Male,False,False,1
+Lebanon,2004,44,Female,False,False,1
+Lebanon,2006,86,Female,False,False,1
+Lebanon,2007,21,Male,True,False,1
+Lebanon,2008,50,Unknown,False,False,1
+Lebanon,2009,53,Male,True,False,1
+Lebanon,2012,18,Female,False,True,1
+Lebanon,2012,81,Male,False,False,1
+Lebanon,2014,39,Male,True,False,1
+Lebanon,2015,27,Male,True,False,1
+Lebanon,2016,78,Male,False,False,1
+Lebanon,2017,42,Male,True,False,1
+Lebanon,2018,22,Male,False,True,1
+Lebanon,2018,78,Male,False,False,1
+Ledyard,2003,17,Female,False,True,1
+Ledyard,2003,20,Male,True,False,1
+Ledyard,2003,23,Male,True,False,1
+Ledyard,2004,20,Female,False,True,1
+Ledyard,2004,23,Male,False,True,1
+Ledyard,2004,30,Unknown,False,False,1
+Ledyard,2004,38,Female,False,False,1
+Ledyard,2006,0,Male,False,False,1
+Ledyard,2006,32,Female,True,False,1
+Ledyard,2006,71,Male,False,False,1
+Ledyard,2007,33,Male,True,False,1
+Ledyard,2007,87,Male,False,False,1
+Ledyard,2008,29,Male,True,False,1
+Ledyard,2009,31,Male,False,False,1
+Ledyard,2010,48,Unknown,False,False,1
+Ledyard,2013,23,Female,False,True,1
+Ledyard,2014,25,Male,True,False,1
+Ledyard,2014,31,Female,True,False,1
+Ledyard,2014,53,Male,True,False,1
+Ledyard,2015,37,Male,True,False,1
+Ledyard,2015,37,Male,True,True,1
+Ledyard,2016,22,Male,False,False,1
+Ledyard,2016,23,Female,False,True,1
+Ledyard,2016,64,Male,True,False,1
+Ledyard,2017,16,Male,False,False,1
+Ledyard,2017,79,Male,False,True,1
+Lisbon,2003,24,Female,True,False,1
+Lisbon,2004,21,Male,False,False,1
+Lisbon,2004,27,Unknown,False,False,1
+Lisbon,2004,49,Female,False,False,1
+Lisbon,2005,23,Unknown,False,False,1
+Lisbon,2005,45,Male,True,False,1
+Lisbon,2006,28,Male,False,False,1
+Lisbon,2006,63,Male,False,False,1
+Lisbon,2006,76,Male,False,False,1
+Lisbon,2009,78,Male,False,False,1
+Lisbon,2010,25,Male,True,False,1
+Lisbon,2010,50,Male,True,False,1
+Lisbon,2010,51,Male,False,False,1
+Lisbon,2011,75,Male,False,False,1
+Lisbon,2018,24,Male,True,True,1
+Litchfield,2003,75,Female,False,False,1
+Litchfield,2004,71,Male,False,False,1
+Litchfield,2004,72,Male,False,False,1
+Litchfield,2007,66,Male,True,False,1
+Litchfield,2013,23,Male,True,False,1
+Litchfield,2013,62,Male,False,False,1
+Litchfield,2014,32,Male,False,False,1
+Litchfield,2014,50,Male,True,False,1
+Litchfield,2016,33,Female,False,False,1
+Litchfield,2016,61,Male,False,True,1
+Lyme,2005,20,Male,False,False,1
+Lyme,2013,31,Male,False,False,1
+Lyme,2017,78,Male,False,False,1
+Madison,2003,21,Male,True,False,1
+Madison,2005,21,Unknown,False,False,1
+Madison,2005,76,Female,False,False,1
+Madison,2007,45,Male,False,False,1
+Madison,2009,49,Male,True,False,1
+Madison,2010,38,Male,False,False,1
+Madison,2010,49,Male,False,False,1
+Madison,2011,54,Male,True,False,1
+Madison,2011,58,Male,False,False,1
+Madison,2015,40,Male,False,False,1
+Madison,2016,59,Female,False,False,1
+Madison,2016,80,Female,False,False,1
+Madison,2017,32,Male,False,True,1
+Madison,2017,35,Female,False,True,1
+Madison,2017,84,Female,False,False,1
+Madison,2018,25,Female,False,False,1
+Manchester,2003,16,Unknown,False,False,1
+Manchester,2003,28,Unknown,False,False,1
+Manchester,2003,39,Male,False,False,1
+Manchester,2003,40,Male,False,False,1
+Manchester,2003,54,Female,False,False,1
+Manchester,2005,21,Male,False,True,1
+Manchester,2005,25,Male,True,False,1
+Manchester,2005,38,Female,True,False,1
+Manchester,2005,39,Male,False,False,1
+Manchester,2005,74,Male,False,False,1
+Manchester,2005,80,Male,False,False,1
+Manchester,2006,18,Male,False,True,1
+Manchester,2006,39,Male,False,False,1
+Manchester,2006,75,Unknown,False,False,1
+Manchester,2006,87,Male,False,False,1
+Manchester,2007,30,Male,False,False,1
+Manchester,2007,65,Female,True,False,1
+Manchester,2007,86,Female,False,False,1
+Manchester,2008,26,Unknown,False,False,1
+Manchester,2008,67,Male,False,False,1
+Manchester,2009,29,Female,False,False,1
+Manchester,2010,32,Female,False,False,1
+Manchester,2010,32,Unknown,False,False,1
+Manchester,2011,18,Male,False,False,1
+Manchester,2011,23,Male,True,False,1
+Manchester,2011,36,Male,False,True,1
+Manchester,2011,48,Male,False,True,1
+Manchester,2012,47,Male,False,False,1
+Manchester,2012,58,Male,False,False,1
+Manchester,2013,0,Unknown,False,False,1
+Manchester,2013,14,Male,False,False,1
+Manchester,2013,70,Male,False,False,1
+Manchester,2014,18,Female,True,False,1
+Manchester,2014,18,Male,False,True,1
+Manchester,2014,23,Unknown,False,False,1
+Manchester,2014,26,Male,True,False,1
+Manchester,2014,27,Male,True,False,1
+Manchester,2014,53,Male,False,False,1
+Manchester,2015,42,Female,False,False,1
+Manchester,2015,53,Male,False,False,1
+Manchester,2016,28,Male,True,True,1
+Manchester,2016,49,Male,True,True,1
+Manchester,2016,69,Male,False,False,1
+Manchester,2016,73,Male,True,False,1
+Manchester,2017,18,Male,False,False,1
+Manchester,2017,20,Male,False,False,1
+Manchester,2017,22,Female,False,False,1
+Manchester,2017,33,Male,True,True,1
+Manchester,2018,45,Male,True,True,1
+Mansfield,2003,21,Male,True,False,1
+Mansfield,2003,60,Male,False,False,1
+Mansfield,2004,20,Male,True,False,1
+Mansfield,2004,21,Unknown,False,False,1
+Mansfield,2004,63,Female,False,False,1
+Mansfield,2004,77,Male,False,False,1
+Mansfield,2005,21,Female,False,False,1
+Mansfield,2005,53,Male,False,False,1
+Mansfield,2005,71,Male,False,False,1
+Mansfield,2006,18,Male,True,False,1
+Mansfield,2007,19,Female,False,False,1
+Mansfield,2007,32,Male,False,False,1
+Mansfield,2007,39,Male,False,False,1
+Mansfield,2010,21,Female,True,False,1
+Mansfield,2010,24,Male,False,False,1
+Mansfield,2010,95,Unknown,False,False,1
+Mansfield,2011,20,Male,False,False,1
+Mansfield,2012,31,Male,True,False,1
+Mansfield,2012,59,Male,False,False,1
+Mansfield,2012,81,Male,False,False,1
+Mansfield,2013,30,Female,False,False,1
+Mansfield,2014,32,Male,True,False,1
+Mansfield,2014,62,Female,False,False,1
+Mansfield,2015,47,Male,True,True,1
+Mansfield,2015,50,Male,True,False,1
+Mansfield,2015,78,Male,False,False,1
+Mansfield,2015,79,Female,False,False,1
+Mansfield,2016,19,Female,True,False,1
+Mansfield,2017,26,Female,True,False,1
+Mansfield,2018,19,Female,False,False,1
+Mansfield,2018,69,Male,False,False,1
+Marlborough,2003,38,Unknown,False,False,1
+Marlborough,2003,39,Male,True,False,1
+Marlborough,2003,47,Female,False,False,1
+Marlborough,2003,49,Unknown,False,False,1
+Marlborough,2004,33,Male,False,False,1
+Marlborough,2004,38,Male,False,True,1
+Marlborough,2005,81,Female,False,False,1
+Marlborough,2006,19,Male,False,False,1
+Marlborough,2006,43,Female,True,False,1
+Marlborough,2007,47,Female,False,False,1
+Marlborough,2009,25,Male,False,False,1
+Marlborough,2010,21,Male,False,False,1
+Marlborough,2010,64,Male,False,True,1
+Marlborough,2011,46,Male,True,False,1
+Marlborough,2012,49,Male,True,False,1
+Marlborough,2012,68,Male,False,False,1
+Marlborough,2013,22,Unknown,False,False,1
+Marlborough,2013,32,Male,False,False,1
+Marlborough,2014,26,Unknown,False,False,1
+Marlborough,2014,28,Male,False,True,1
+Marlborough,2015,22,Female,False,False,2
+Marlborough,2017,22,Male,True,False,1
+Marlborough,2018,21,Male,False,False,1
+Meriden,2003,48,Female,True,False,1
+Meriden,2003,49,Male,True,False,1
+Meriden,2003,59,Male,False,False,1
+Meriden,2004,16,Unknown,False,False,1
+Meriden,2004,18,Female,False,False,1
+Meriden,2004,63,Female,False,False,1
+Meriden,2005,21,Male,False,True,1
+Meriden,2005,51,Male,False,False,1
+Meriden,2005,56,Female,False,False,1
+Meriden,2005,57,Male,False,False,1
+Meriden,2006,18,Unknown,False,False,1
+Meriden,2006,19,Female,False,True,1
+Meriden,2006,35,Male,True,False,1
+Meriden,2007,58,Female,False,False,1
+Meriden,2008,18,Female,False,False,1
+Meriden,2008,23,Unknown,False,False,1
+Meriden,2008,25,Male,False,False,1
+Meriden,2008,25,Unknown,False,False,1
+Meriden,2008,26,Male,False,False,1
+Meriden,2008,32,Male,True,False,1
+Meriden,2008,59,Male,False,False,1
+Meriden,2008,62,Male,False,False,1
+Meriden,2008,83,Male,False,False,1
+Meriden,2009,54,Male,False,True,1
+Meriden,2010,21,Female,False,False,1
+Meriden,2010,23,Male,False,False,1
+Meriden,2010,42,Male,False,False,1
+Meriden,2010,47,Unknown,False,False,1
+Meriden,2010,48,Male,False,False,1
+Meriden,2010,51,Male,False,False,1
+Meriden,2010,53,Male,False,False,1
+Meriden,2010,63,Female,False,False,1
+Meriden,2011,20,Male,False,True,1
+Meriden,2011,63,Male,False,False,1
+Meriden,2011,67,Female,False,False,1
+Meriden,2012,22,Male,False,False,1
+Meriden,2012,22,Male,True,False,1
+Meriden,2012,37,Male,False,False,1
+Meriden,2012,42,Male,False,False,1
+Meriden,2012,49,Female,False,True,1
+Meriden,2013,21,Male,False,True,1
+Meriden,2013,5,Unknown,False,False,1
+Meriden,2013,8,Unknown,False,False,1
+Meriden,2014,20,Male,False,False,1
+Meriden,2014,47,Female,False,False,1
+Meriden,2014,51,Male,False,True,1
+Meriden,2015,19,Male,True,True,1
+Meriden,2015,43,Male,False,False,1
+Meriden,2015,49,Male,False,False,1
+Meriden,2015,68,Male,False,False,1
+Meriden,2016,17,Male,False,False,1
+Meriden,2016,33,Male,True,True,1
+Meriden,2016,36,Male,False,False,1
+Meriden,2016,40,Female,False,False,1
+Meriden,2016,54,Male,False,False,1
+Meriden,2016,54,Male,False,True,1
+Meriden,2017,36,Male,False,False,1
+Meriden,2017,44,Male,False,False,1
+Meriden,2017,47,Male,False,False,1
+Meriden,2017,53,Male,False,False,1
+Meriden,2017,87,Female,False,False,1
+Meriden,2018,35,Female,False,False,1
+Meriden,2018,57,Female,False,False,1
+Meriden,2018,58,Male,False,True,1
+Middlebury,2003,16,Unknown,False,False,1
+Middlebury,2003,19,Female,True,False,1
+Middlebury,2003,27,Female,False,False,1
+Middlebury,2003,29,Male,False,False,1
+Middlebury,2003,45,Male,True,False,1
+Middlebury,2003,84,Male,False,False,1
+Middlebury,2005,36,Female,True,False,1
+Middlebury,2005,84,Male,False,False,1
+Middlebury,2005,85,Unknown,False,False,1
+Middlebury,2006,20,Male,True,False,1
+Middlebury,2006,43,Female,True,False,1
+Middlebury,2008,79,Female,False,False,1
+Middlebury,2009,85,Unknown,False,False,1
+Middlebury,2010,52,Male,False,False,1
+Middlebury,2011,27,Male,False,False,1
+Middlebury,2012,41,Female,False,False,1
+Middlebury,2013,39,Female,False,True,1
+Middlebury,2013,81,Female,False,False,1
+Middlebury,2014,21,Male,False,False,1
+Middlebury,2014,76,Male,False,False,1
+Middlebury,2015,51,Female,False,False,1
+Middlebury,2015,59,Male,False,False,1
+Middlebury,2016,45,Male,False,True,1
+Middlebury,2017,48,Male,True,True,1
+Middlebury,2018,26,Female,False,True,1
+Middlebury,2018,41,Male,False,False,1
+Middlefield,2005,20,Unknown,False,False,1
+Middlefield,2005,66,Male,True,False,1
+Middlefield,2006,43,Male,True,False,1
+Middlefield,2006,75,Female,False,False,1
+Middlefield,2007,38,Male,False,False,1
+Middlefield,2008,76,Male,False,False,1
+Middlefield,2009,63,Male,False,False,1
+Middlefield,2012,27,Male,False,True,1
+Middlefield,2015,23,Female,False,False,1
+Middletown,2003,37,Male,True,False,1
+Middletown,2003,41,Male,False,False,1
+Middletown,2003,59,Male,False,False,1
+Middletown,2004,12,Unknown,False,False,1
+Middletown,2004,22,Male,False,False,1
+Middletown,2004,40,Unknown,False,False,1
+Middletown,2004,53,Male,False,False,1
+Middletown,2005,16,Male,False,True,1
+Middletown,2005,18,Female,False,False,1
+Middletown,2005,20,Male,False,True,1
+Middletown,2005,25,Male,True,False,1
+Middletown,2005,46,Male,False,False,1
+Middletown,2005,63,Male,False,False,1
+Middletown,2005,72,Female,False,False,1
+Middletown,2006,43,Male,False,False,1
+Middletown,2006,61,Male,False,False,1
+Middletown,2007,26,Male,True,False,1
+Middletown,2007,33,Female,False,False,1
+Middletown,2007,46,Male,False,False,1
+Middletown,2008,21,Female,True,False,1
+Middletown,2009,20,Male,False,True,1
+Middletown,2009,29,Male,True,False,1
+Middletown,2009,53,Male,True,False,1
+Middletown,2010,18,Unknown,False,False,1
+Middletown,2010,19,Male,True,False,1
+Middletown,2010,32,Male,False,False,1
+Middletown,2011,20,Unknown,False,False,1
+Middletown,2011,25,Female,False,False,1
+Middletown,2011,59,Male,False,False,1
+Middletown,2012,10,Unknown,False,False,1
+Middletown,2012,15,Female,False,False,1
+Middletown,2012,23,Male,False,False,1
+Middletown,2012,53,Male,False,False,1
+Middletown,2012,55,Female,False,False,1
+Middletown,2012,59,Male,False,False,1
+Middletown,2013,21,Male,False,False,1
+Middletown,2013,54,Male,False,False,1
+Middletown,2013,56,Male,False,False,1
+Middletown,2014,23,Female,False,False,1
+Middletown,2014,24,Male,False,True,1
+Middletown,2014,52,Female,False,False,1
+Middletown,2014,71,Female,False,False,1
+Middletown,2015,54,Female,False,False,1
+Middletown,2015,55,Female,False,False,1
+Middletown,2016,61,Female,False,False,1
+Middletown,2016,67,Male,False,False,1
+Middletown,2016,79,Female,False,False,1
+Middletown,2017,40,Male,True,False,1
+Middletown,2018,29,Male,False,True,1
+Middletown,2018,83,Female,False,False,1
+Milford,2003,2,Female,False,False,1
+Milford,2003,22,Male,False,True,1
+Milford,2003,30,Male,False,True,1
+Milford,2003,48,Unknown,False,False,1
+Milford,2003,49,Male,False,False,1
+Milford,2003,58,Male,False,True,1
+Milford,2003,61,Male,False,False,1
+Milford,2004,45,Male,False,False,1
+Milford,2004,48,Male,True,False,1
+Milford,2004,62,Male,False,False,1
+Milford,2005,21,Male,False,False,1
+Milford,2005,39,Male,False,False,1
+Milford,2005,47,Male,False,False,1
+Milford,2005,48,Male,True,False,1
+Milford,2005,76,Male,True,False,1
+Milford,2005,83,Male,False,False,1
+Milford,2006,27,Male,True,False,1
+Milford,2007,23,Female,True,False,1
+Milford,2007,39,Male,False,False,1
+Milford,2007,46,Male,True,False,1
+Milford,2007,47,Male,False,False,1
+Milford,2007,48,Female,False,False,1
+Milford,2007,49,Male,False,False,1
+Milford,2007,60,Male,False,False,1
+Milford,2007,85,Male,False,False,1
+Milford,2008,17,Male,False,False,1
+Milford,2008,18,Unknown,False,False,1
+Milford,2008,20,Female,True,False,1
+Milford,2008,21,Male,True,False,1
+Milford,2008,26,Male,False,True,1
+Milford,2008,45,Unknown,False,False,1
+Milford,2008,46,Male,True,False,1
+Milford,2008,47,Male,False,False,1
+Milford,2008,53,Male,True,False,2
+Milford,2008,77,Male,False,False,1
+Milford,2009,68,Female,False,False,1
+Milford,2009,68,Male,False,True,1
+Milford,2010,15,Unknown,False,False,1
+Milford,2010,19,Male,False,True,1
+Milford,2010,20,Male,False,False,1
+Milford,2010,35,Male,False,False,1
+Milford,2010,44,Male,False,False,1
+Milford,2010,56,Male,False,False,1
+Milford,2011,19,Female,False,False,1
+Milford,2012,24,Male,False,False,1
+Milford,2012,26,Male,False,False,1
+Milford,2012,72,Female,False,False,1
+Milford,2013,44,Female,True,False,1
+Milford,2013,51,Female,False,False,1
+Milford,2013,53,Male,False,False,1
+Milford,2014,27,Male,False,False,1
+Milford,2014,38,Male,False,False,1
+Milford,2014,53,Male,True,False,1
+Milford,2014,58,Male,False,False,1
+Milford,2016,24,Male,False,False,2
+Milford,2016,60,Female,False,False,1
+Milford,2016,85,Male,False,False,1
+Milford,2017,20,Male,True,False,1
+Milford,2017,52,Female,False,False,1
+Milford,2017,85,Female,False,False,1
+Milford,2018,19,Male,False,False,1
+Milford,2018,24,Male,False,False,1
+Milford,2018,63,Male,False,False,1
+Monroe,2003,18,Unknown,False,False,1
+Monroe,2003,51,Female,False,False,1
+Monroe,2004,18,Male,False,False,1
+Monroe,2004,75,Male,False,False,1
+Monroe,2006,18,Male,True,False,1
+Monroe,2006,37,Female,False,False,1
+Monroe,2008,50,Male,False,False,1
+Monroe,2008,81,Unknown,False,False,1
+Monroe,2008,82,Male,False,False,1
+Monroe,2012,42,Male,True,False,1
+Monroe,2012,57,Male,True,False,1
+Monroe,2013,27,Male,False,False,1
+Monroe,2014,29,Male,True,False,1
+Monroe,2016,19,Female,False,False,1
+Monroe,2016,24,Male,True,False,1
+Monroe,2016,68,Male,False,False,1
+Montville,2003,21,Unknown,False,False,1
+Montville,2003,31,Unknown,False,False,1
+Montville,2003,33,Male,False,False,1
+Montville,2003,51,Unknown,False,False,1
+Montville,2004,25,Male,False,False,1
+Montville,2004,52,Unknown,False,False,1
+Montville,2004,68,Male,False,False,1
+Montville,2005,28,Male,False,True,1
+Montville,2005,37,Male,False,True,1
+Montville,2006,31,Male,True,False,1
+Montville,2006,45,Male,False,False,1
+Montville,2006,49,Male,False,False,1
+Montville,2006,93,Male,False,False,1
+Montville,2007,18,Male,False,False,1
+Montville,2007,19,Male,False,False,1
+Montville,2007,26,Male,False,False,1
+Montville,2007,28,Female,True,False,1
+Montville,2007,30,Male,False,False,1
+Montville,2007,31,Male,True,False,1
+Montville,2007,45,Female,False,False,1
+Montville,2007,60,Female,False,False,1
+Montville,2008,59,Male,False,False,1
+Montville,2009,20,Unknown,False,False,1
+Montville,2009,39,Unknown,False,False,1
+Montville,2009,77,Female,False,False,1
+Montville,2010,27,Unknown,False,False,1
+Montville,2012,33,Male,False,False,1
+Montville,2012,62,Female,False,False,1
+Montville,2012,73,Female,False,False,1
+Montville,2013,24,Male,False,False,1
+Montville,2013,43,Male,False,False,1
+Montville,2014,45,Male,False,False,1
+Montville,2014,87,Male,False,False,1
+Montville,2015,16,Male,False,False,1
+Montville,2015,27,Male,False,True,1
+Montville,2015,28,Male,False,False,1
+Montville,2015,40,Male,True,False,1
+Montville,2016,28,Male,False,False,1
+Montville,2016,60,Male,False,False,1
+Montville,2018,48,Male,False,False,1
+Morris,2003,28,Male,True,False,1
+Morris,2005,30,Male,False,False,1
+Morris,2007,49,Male,False,False,1
+Morris,2014,43,Male,False,True,1
+Naugatuck,2004,15,Unknown,False,False,1
+Naugatuck,2004,47,Male,False,False,1
+Naugatuck,2005,41,Male,True,False,1
+Naugatuck,2006,46,Female,False,False,1
+Naugatuck,2006,83,Female,False,False,1
+Naugatuck,2007,57,Male,False,False,1
+Naugatuck,2010,64,Female,False,False,1
+Naugatuck,2010,77,Male,False,False,2
+Naugatuck,2011,25,Male,True,False,1
+Naugatuck,2012,24,Male,False,False,1
+Naugatuck,2013,29,Male,True,False,1
+Naugatuck,2014,47,Male,True,False,1
+Naugatuck,2016,14,Male,False,False,1
+Naugatuck,2017,27,Female,True,False,1
+Naugatuck,2018,43,Male,False,False,1
+New Britain,2003,16,Unknown,False,False,1
+New Britain,2003,20,Male,False,False,1
+New Britain,2003,24,Male,False,True,1
+New Britain,2003,25,Male,False,True,1
+New Britain,2003,26,Male,False,False,1
+New Britain,2003,39,Male,False,True,1
+New Britain,2004,21,Unknown,False,False,1
+New Britain,2004,37,Male,False,False,1
+New Britain,2004,53,Male,False,False,1
+New Britain,2005,54,Male,False,False,1
+New Britain,2005,79,Unknown,False,False,1
+New Britain,2006,12,Female,False,False,1
+New Britain,2006,22,Male,True,False,1
+New Britain,2006,27,Male,False,True,1
+New Britain,2006,46,Male,False,False,1
+New Britain,2006,51,Male,True,False,1
+New Britain,2006,85,Male,False,False,1
+New Britain,2007,13,Male,False,False,1
+New Britain,2007,16,Female,False,True,1
+New Britain,2007,19,Male,True,False,1
+New Britain,2008,42,Male,False,False,1
+New Britain,2008,87,Male,False,False,1
+New Britain,2009,26,Male,True,False,1
+New Britain,2009,35,Male,False,False,1
+New Britain,2009,47,Male,False,False,1
+New Britain,2009,56,Male,False,False,1
+New Britain,2010,21,Male,True,False,1
+New Britain,2010,45,Male,False,False,1
+New Britain,2010,53,Male,False,False,1
+New Britain,2010,60,Male,False,False,1
+New Britain,2011,29,Male,False,True,1
+New Britain,2011,43,Male,False,True,1
+New Britain,2011,47,Male,False,False,1
+New Britain,2012,17,Male,False,False,1
+New Britain,2012,21,Male,True,False,1
+New Britain,2012,31,Male,False,False,1
+New Britain,2012,57,Female,False,False,1
+New Britain,2012,81,Male,False,False,1
+New Britain,2013,39,Male,True,False,1
+New Britain,2013,43,Male,False,False,1
+New Britain,2013,65,Male,False,False,1
+New Britain,2014,28,Male,True,False,1
+New Britain,2014,29,Male,False,False,1
+New Britain,2014,33,Male,True,False,1
+New Britain,2014,36,Unknown,False,False,1
+New Britain,2015,35,Male,False,False,1
+New Britain,2015,50,Male,False,False,1
+New Britain,2016,21,Male,False,False,1
+New Britain,2016,26,Female,False,False,1
+New Britain,2016,30,Male,True,False,1
+New Britain,2016,55,Male,False,True,1
+New Britain,2016,55,Male,True,False,1
+New Britain,2016,57,Male,False,False,1
+New Britain,2017,33,Male,False,True,1
+New Britain,2017,37,Male,False,False,1
+New Britain,2017,62,Male,False,False,1
+New Britain,2018,26,Male,False,True,1
+New Britain,2018,40,Male,False,False,1
+New Britain,2018,47,Male,False,False,1
+New Britain,2018,48,Male,False,True,1
+New Britain,2018,5,Male,False,False,1
+New Britain,2018,56,Male,False,False,1
+New Britain,2018,62,Female,False,False,1
+New Britain,2018,65,Male,False,False,1
+New Britain,2019,39,Male,False,True,1
+New Canaan,2003,53,Unknown,False,False,1
+New Canaan,2003,81,Male,False,False,1
+New Canaan,2004,32,Male,True,False,1
+New Canaan,2004,35,Male,False,False,1
+New Canaan,2004,79,Male,False,False,1
+New Canaan,2004,81,Unknown,False,False,1
+New Canaan,2005,50,Male,True,False,1
+New Canaan,2005,69,Male,False,False,1
+New Canaan,2006,92,Male,False,False,1
+New Canaan,2009,55,Male,False,False,1
+New Canaan,2010,82,Female,False,False,1
+New Canaan,2010,82,Male,False,False,1
+New Canaan,2011,24,Male,True,False,1
+New Canaan,2011,28,Male,True,False,1
+New Canaan,2011,74,Unknown,False,False,1
+New Canaan,2012,46,Male,False,False,1
+New Canaan,2014,71,Male,False,False,1
+New Canaan,2018,71,Female,False,False,1
+New Canaan,2018,76,Male,False,False,1
+New Fairfield,2007,21,Male,True,False,1
+New Fairfield,2009,41,Male,True,False,1
+New Fairfield,2013,79,Unknown,False,False,1
+New Fairfield,2015,54,Female,False,False,1
+New Fairfield,2016,32,Male,False,False,1
+New Fairfield,2016,51,Male,False,False,1
+New Fairfield,2017,42,Male,True,True,1
+New Hartford,2003,51,Male,True,False,1
+New Hartford,2004,38,Male,False,False,1
+New Hartford,2005,43,Male,False,False,1
+New Hartford,2005,44,Female,False,False,1
+New Hartford,2005,79,Female,False,False,1
+New Hartford,2007,22,Female,False,False,1
+New Hartford,2008,22,Male,True,False,1
+New Hartford,2010,65,Female,False,False,1
+New Hartford,2014,23,Female,False,False,1
+New Hartford,2014,23,Unknown,False,False,1
+New Hartford,2016,69,Male,False,False,1
+New Hartford,2016,70,Male,True,False,1
+New Hartford,2017,33,Male,False,True,1
+New Hartford,2017,42,Male,False,False,1
+New Hartford,2017,43,Male,False,False,1
+New Hartford,2018,24,Male,False,False,1
+New Hartford,2018,61,Male,False,False,1
+New Haven,2003,12,Male,False,False,1
+New Haven,2003,16,Unknown,False,False,1
+New Haven,2003,17,Female,False,True,1
+New Haven,2003,19,Unknown,False,False,1
+New Haven,2003,20,Male,False,False,1
+New Haven,2003,21,Male,False,False,1
+New Haven,2003,22,Female,True,False,1
+New Haven,2003,22,Male,True,False,1
+New Haven,2003,28,Male,False,False,1
+New Haven,2003,33,Male,True,False,1
+New Haven,2003,40,Male,False,False,1
+New Haven,2003,46,Male,True,False,1
+New Haven,2003,49,Male,False,False,1
+New Haven,2003,7,Unknown,False,False,1
+New Haven,2004,17,Male,False,False,1
+New Haven,2004,21,Male,False,True,1
+New Haven,2004,21,Unknown,False,False,1
+New Haven,2004,23,Male,True,False,1
+New Haven,2004,29,Unknown,False,False,1
+New Haven,2004,38,Male,False,False,1
+New Haven,2004,39,Male,False,True,1
+New Haven,2004,41,Male,True,False,1
+New Haven,2004,54,Male,False,False,1
+New Haven,2005,12,Male,False,False,1
+New Haven,2005,18,Male,False,False,1
+New Haven,2005,22,Male,False,False,1
+New Haven,2005,22,Male,True,False,1
+New Haven,2005,28,Male,False,True,1
+New Haven,2005,31,Male,False,False,1
+New Haven,2005,34,Male,False,False,1
+New Haven,2005,39,Male,False,False,1
+New Haven,2005,40,Unknown,False,False,1
+New Haven,2005,78,Male,False,True,1
+New Haven,2005,80,Male,False,False,1
+New Haven,2006,21,Male,False,True,1
+New Haven,2006,21,Male,True,False,1
+New Haven,2006,21,Unknown,False,False,2
+New Haven,2006,22,Male,False,False,1
+New Haven,2006,25,Female,False,False,1
+New Haven,2006,25,Unknown,False,False,1
+New Haven,2006,38,Female,False,False,1
+New Haven,2006,38,Male,False,False,1
+New Haven,2007,29,Female,True,False,1
+New Haven,2007,32,Male,True,False,1
+New Haven,2007,39,Male,False,True,1
+New Haven,2007,48,Male,False,False,1
+New Haven,2007,49,Male,True,False,1
+New Haven,2007,57,Male,True,False,1
+New Haven,2007,64,Male,False,False,1
+New Haven,2007,82,Male,False,False,1
+New Haven,2008,11,Female,False,False,1
+New Haven,2008,20,Unknown,False,False,1
+New Haven,2008,23,Female,True,False,1
+New Haven,2008,23,Male,False,False,1
+New Haven,2008,27,Female,False,False,1
+New Haven,2008,43,Male,False,False,1
+New Haven,2008,47,Male,True,False,1
+New Haven,2008,64,Male,False,False,1
+New Haven,2008,80,Male,False,False,1
+New Haven,2008,84,Male,False,False,1
+New Haven,2009,1,Unknown,False,False,1
+New Haven,2009,29,Unknown,False,False,1
+New Haven,2009,30,Male,False,False,1
+New Haven,2009,31,Male,True,False,1
+New Haven,2009,56,Male,False,False,1
+New Haven,2009,61,Male,False,True,1
+New Haven,2009,68,Female,False,False,1
+New Haven,2010,100,Male,False,False,1
+New Haven,2010,20,Male,False,False,1
+New Haven,2010,21,Male,True,False,1
+New Haven,2010,25,Male,False,False,1
+New Haven,2010,26,Unknown,False,False,1
+New Haven,2010,27,Male,True,False,1
+New Haven,2010,29,Female,True,False,1
+New Haven,2010,31,Male,True,False,1
+New Haven,2010,32,Male,False,True,1
+New Haven,2010,33,Male,False,False,1
+New Haven,2010,38,Male,False,False,1
+New Haven,2010,47,Male,False,False,1
+New Haven,2010,47,Male,True,False,1
+New Haven,2010,51,Male,False,False,1
+New Haven,2011,14,Male,False,False,1
+New Haven,2011,29,Male,True,False,1
+New Haven,2011,29,Unknown,False,False,1
+New Haven,2011,44,Male,False,False,1
+New Haven,2011,53,Male,False,True,1
+New Haven,2011,54,Male,False,False,1
+New Haven,2012,19,Unknown,False,False,1
+New Haven,2012,31,Male,False,True,1
+New Haven,2012,32,Male,False,False,1
+New Haven,2012,46,Male,False,False,1
+New Haven,2012,59,Male,False,False,1
+New Haven,2013,25,Male,False,False,1
+New Haven,2013,27,Male,False,False,1
+New Haven,2013,29,Female,False,False,1
+New Haven,2013,30,Male,False,False,1
+New Haven,2013,32,Unknown,False,False,1
+New Haven,2013,34,Male,False,False,1
+New Haven,2013,35,Unknown,False,False,1
+New Haven,2013,63,Male,False,False,1
+New Haven,2013,64,Male,False,False,1
+New Haven,2014,20,Unknown,False,False,1
+New Haven,2014,22,Unknown,False,False,1
+New Haven,2014,23,Male,False,False,1
+New Haven,2014,33,Male,False,False,1
+New Haven,2014,36,Unknown,False,False,1
+New Haven,2014,38,Male,True,False,1
+New Haven,2014,49,Male,False,False,1
+New Haven,2014,50,Male,False,False,1
+New Haven,2014,52,Male,False,False,1
+New Haven,2014,52,Male,True,False,1
+New Haven,2014,53,Female,False,False,1
+New Haven,2015,20,Male,True,True,1
+New Haven,2015,32,Male,False,False,1
+New Haven,2015,34,Female,False,False,1
+New Haven,2015,4,Female,False,False,1
+New Haven,2015,59,Male,False,False,1
+New Haven,2015,65,Male,False,False,1
+New Haven,2015,88,Female,False,False,1
+New Haven,2016,20,Female,True,True,1
+New Haven,2016,20,Male,False,True,1
+New Haven,2016,27,Male,False,False,1
+New Haven,2016,29,Female,False,False,1
+New Haven,2016,31,Male,False,False,1
+New Haven,2016,36,Male,True,False,1
+New Haven,2016,37,Male,True,True,1
+New Haven,2016,38,Male,True,False,1
+New Haven,2016,52,Male,False,False,1
+New Haven,2016,53,Male,False,False,1
+New Haven,2016,54,Male,False,False,1
+New Haven,2016,55,Female,False,False,1
+New Haven,2016,56,Male,False,True,1
+New Haven,2016,58,Male,False,False,1
+New Haven,2017,20,Male,False,False,1
+New Haven,2017,21,Male,False,False,1
+New Haven,2017,23,Male,True,True,1
+New Haven,2017,27,Female,True,False,1
+New Haven,2017,30,Male,False,True,1
+New Haven,2017,35,Male,False,False,1
+New Haven,2017,38,Female,False,False,1
+New Haven,2017,42,Female,False,False,1
+New Haven,2017,45,Male,False,False,1
+New Haven,2017,53,Male,False,True,1
+New Haven,2017,55,Male,False,False,1
+New Haven,2017,59,Female,False,False,1
+New Haven,2018,22,Female,False,False,1
+New Haven,2018,22,Male,False,False,1
+New Haven,2018,27,Female,False,False,1
+New Haven,2018,28,Male,False,False,2
+New Haven,2018,29,Male,False,False,1
+New Haven,2018,32,Male,False,False,1
+New Haven,2018,32,Male,False,True,1
+New Haven,2018,33,Male,False,False,1
+New Haven,2018,37,Male,False,False,1
+New Haven,2018,40,Male,False,False,1
+New Haven,2018,51,Male,False,False,1
+New Haven,2018,59,Male,False,False,2
+New Haven,2018,84,Male,False,False,1
+New Haven,2019,49,Male,False,False,1
+New Haven,2019,58,Male,False,False,1
+New London,2003,27,Female,True,False,1
+New London,2004,79,Male,False,False,1
+New London,2006,45,Male,True,False,1
+New London,2006,49,Male,False,False,1
+New London,2006,59,Female,False,False,1
+New London,2007,34,Male,False,False,1
+New London,2007,40,Unknown,False,False,1
+New London,2007,46,Female,False,False,1
+New London,2008,64,Male,False,False,1
+New London,2009,47,Male,False,False,1
+New London,2010,44,Male,True,False,1
+New London,2010,48,Female,False,False,1
+New London,2010,53,Male,True,False,1
+New London,2011,22,Unknown,False,False,2
+New London,2013,26,Male,False,False,1
+New London,2014,51,Female,False,False,1
+New London,2014,64,Male,False,False,1
+New London,2015,20,Male,True,False,1
+New London,2015,24,Male,False,True,1
+New Milford,2003,24,Male,False,False,1
+New Milford,2003,36,Male,True,False,1
+New Milford,2003,62,Male,False,False,1
+New Milford,2004,16,Male,False,False,1
+New Milford,2004,17,Male,True,False,1
+New Milford,2004,22,Male,True,False,1
+New Milford,2004,69,Male,False,False,1
+New Milford,2004,86,Unknown,False,False,1
+New Milford,2005,28,Male,True,False,1
+New Milford,2005,50,Male,True,False,1
+New Milford,2007,22,Male,True,False,1
+New Milford,2007,37,Male,True,False,1
+New Milford,2008,24,Male,True,False,1
+New Milford,2008,49,Female,False,False,1
+New Milford,2008,55,Male,True,False,1
+New Milford,2008,66,Male,True,False,1
+New Milford,2009,21,Male,False,False,1
+New Milford,2009,84,Male,False,False,1
+New Milford,2010,41,Male,False,False,1
+New Milford,2012,25,Male,False,True,1
+New Milford,2012,52,Male,True,False,1
+New Milford,2012,57,Male,False,False,1
+New Milford,2013,21,Male,False,False,1
+New Milford,2013,34,Male,False,True,1
+New Milford,2013,67,Male,False,False,1
+New Milford,2014,57,Male,False,False,1
+New Milford,2014,66,Male,False,False,1
+New Milford,2015,24,Male,True,False,1
+New Milford,2015,40,Male,True,False,1
+New Milford,2015,79,Male,False,False,1
+New Milford,2016,28,Female,False,True,1
+New Milford,2016,64,Male,True,False,1
+New Milford,2017,40,Male,True,False,1
+New Milford,2018,37,Male,True,True,1
+Newington,2003,20,Male,False,False,1
+Newington,2005,40,Male,False,False,1
+Newington,2005,62,Unknown,False,False,1
+Newington,2006,39,Male,False,False,1
+Newington,2006,42,Male,False,False,1
+Newington,2007,16,Unknown,False,False,1
+Newington,2007,43,Male,False,False,1
+Newington,2010,14,Male,False,False,1
+Newington,2010,92,Female,False,False,1
+Newington,2011,28,Male,True,False,1
+Newington,2011,47,Female,False,False,1
+Newington,2012,28,Female,False,False,1
+Newington,2012,82,Female,False,False,1
+Newington,2014,56,Unknown,False,False,1
+Newington,2014,59,Male,False,False,1
+Newington,2015,41,Male,False,False,1
+Newington,2015,41,Male,True,False,1
+Newington,2015,51,Female,False,False,1
+Newington,2015,60,Female,False,False,1
+Newington,2015,94,Male,False,False,1
+Newington,2016,64,Male,True,False,1
+Newington,2016,76,Female,False,False,1
+Newington,2018,34,Male,False,False,1
+Newington,2018,56,Male,False,False,1
+Newtown,2003,20,Male,False,False,1
+Newtown,2003,62,Female,False,False,1
+Newtown,2004,21,Male,True,False,1
+Newtown,2004,88,Male,False,False,1
+Newtown,2005,36,Male,False,False,1
+Newtown,2006,24,Female,True,False,1
+Newtown,2006,51,Male,False,False,1
+Newtown,2006,74,Female,False,False,1
+Newtown,2008,64,Unknown,False,False,1
+Newtown,2009,25,Male,False,True,1
+Newtown,2010,51,Male,False,False,1
+Newtown,2010,87,Unknown,False,False,1
+Newtown,2011,28,Male,False,False,1
+Newtown,2012,18,Male,False,False,1
+Newtown,2012,22,Unknown,False,False,1
+Newtown,2013,55,Male,False,True,1
+Newtown,2014,49,Male,False,False,1
+Newtown,2016,90,Male,False,False,1
+Newtown,2017,27,Female,False,True,1
+Newtown,2017,27,Male,True,False,1
+Newtown,2017,37,Male,False,True,1
+Newtown,2017,42,Male,True,False,1
+Newtown,2017,64,Male,False,False,1
+Newtown,2017,86,Female,False,False,1
+Newtown,2018,48,Male,False,False,1
+Norfolk,2004,18,Female,True,False,1
+Norfolk,2004,47,Male,False,False,1
+Norfolk,2006,50,Male,False,True,1
+Norfolk,2008,22,Unknown,False,False,1
+Norfolk,2013,50,Male,True,False,1
+Norfolk,2018,65,Female,False,False,1
+North Branford,2007,51,Female,False,False,1
+North Branford,2009,18,Male,False,True,1
+North Branford,2009,23,Unknown,False,False,1
+North Branford,2009,48,Male,True,False,1
+North Branford,2012,64,Male,False,False,1
+North Branford,2014,28,Female,False,False,1
+North Branford,2014,78,Male,False,False,1
+North Branford,2015,22,Male,False,True,1
+North Branford,2016,51,Male,False,False,1
+North Branford,2016,67,Male,False,False,1
+North Branford,2018,21,Male,False,True,1
+North Branford,2018,60,Male,False,False,1
+North Branford,2018,85,Female,False,False,1
+North Branford,2018,86,Male,False,False,1
+North Canaan,2004,46,Male,True,False,1
+North Canaan,2005,35,Male,True,False,1
+North Canaan,2006,26,Male,True,False,1
+North Canaan,2007,19,Male,False,False,1
+North Canaan,2007,23,Male,False,True,1
+North Canaan,2007,45,Male,True,False,1
+North Canaan,2010,21,Male,False,True,1
+North Canaan,2010,43,Unknown,False,False,1
+North Canaan,2012,21,Female,True,False,1
+North Canaan,2013,26,Male,True,False,1
+North Canaan,2015,19,Male,False,False,1
+North Canaan,2015,51,Male,False,False,1
+North Canaan,2016,74,Male,False,False,1
+North Canaan,2018,60,Male,False,False,1
+North Haven,2003,19,Male,True,False,1
+North Haven,2003,21,Male,False,False,1
+North Haven,2003,27,Male,True,False,1
+North Haven,2003,75,Female,False,False,1
+North Haven,2004,27,Male,True,False,1
+North Haven,2004,31,Female,False,False,1
+North Haven,2005,27,Female,True,False,1
+North Haven,2005,43,Female,False,False,1
+North Haven,2006,18,Female,True,False,1
+North Haven,2006,20,Female,True,False,1
+North Haven,2006,21,Unknown,False,False,1
+North Haven,2006,28,Female,True,False,1
+North Haven,2006,28,Male,False,True,1
+North Haven,2006,54,Female,False,False,1
+North Haven,2006,58,Male,False,False,1
+North Haven,2007,19,Unknown,False,False,1
+North Haven,2007,40,Male,False,False,1
+North Haven,2007,45,Unknown,False,False,1
+North Haven,2007,69,Female,False,False,1
+North Haven,2008,18,Unknown,False,False,1
+North Haven,2008,32,Male,True,False,1
+North Haven,2008,34,Male,False,False,1
+North Haven,2008,40,Male,True,False,1
+North Haven,2008,63,Male,False,False,1
+North Haven,2008,65,Unknown,False,False,1
+North Haven,2009,19,Male,False,True,1
+North Haven,2009,23,Male,True,False,1
+North Haven,2010,18,Male,True,False,1
+North Haven,2010,23,Female,False,False,1
+North Haven,2010,24,Male,True,False,1
+North Haven,2010,25,Male,False,False,1
+North Haven,2010,45,Male,False,True,1
+North Haven,2010,48,Female,False,False,1
+North Haven,2010,68,Female,False,False,1
+North Haven,2011,58,Male,False,False,1
+North Haven,2012,16,Male,False,False,1
+North Haven,2012,24,Male,True,False,1
+North Haven,2012,29,Male,True,False,1
+North Haven,2012,37,Male,False,False,1
+North Haven,2012,41,Female,False,False,1
+North Haven,2012,47,Male,True,False,1
+North Haven,2012,69,Male,False,False,1
+North Haven,2012,80,Male,False,True,1
+North Haven,2013,17,Male,False,False,1
+North Haven,2013,20,Unknown,False,False,1
+North Haven,2013,27,Male,False,False,1
+North Haven,2013,47,Female,False,False,1
+North Haven,2013,68,Male,True,False,1
+North Haven,2014,20,Male,False,False,1
+North Haven,2014,43,Male,False,False,1
+North Haven,2015,50,Male,False,False,1
+North Haven,2015,57,Female,False,True,1
+North Haven,2016,23,Female,False,False,1
+North Haven,2016,24,Female,False,False,1
+North Haven,2016,26,Male,False,False,1
+North Haven,2016,46,Female,False,True,1
+North Haven,2016,6,Male,False,False,1
+North Haven,2017,34,Male,True,True,1
+North Haven,2017,46,Male,False,False,2
+North Haven,2018,18,Female,False,False,1
+North Haven,2018,26,Male,True,False,1
+North Haven,2018,52,Male,False,True,1
+North Haven,2018,60,Male,False,False,1
+North Haven,2018,65,Female,False,False,1
+North Haven,2019,48,Male,False,False,1
+North Stonington,2003,21,Male,False,False,1
+North Stonington,2003,21,Unknown,False,False,1
+North Stonington,2003,49,Unknown,False,False,1
+North Stonington,2004,19,Unknown,False,False,1
+North Stonington,2006,26,Male,False,True,1
+North Stonington,2006,60,Male,False,False,1
+North Stonington,2007,16,Unknown,False,False,1
+North Stonington,2007,18,Male,False,False,1
+North Stonington,2007,56,Male,False,False,1
+North Stonington,2008,19,Female,False,False,1
+North Stonington,2009,47,Male,True,False,1
+North Stonington,2010,21,Male,True,False,1
+North Stonington,2010,67,Male,False,False,1
+North Stonington,2011,32,Male,True,False,1
+North Stonington,2011,33,Male,True,False,1
+North Stonington,2013,24,Male,False,False,1
+North Stonington,2013,25,Unknown,False,False,1
+North Stonington,2013,35,Male,True,False,1
+North Stonington,2014,63,Male,False,False,1
+North Stonington,2015,52,Male,False,False,1
+North Stonington,2015,61,Male,False,True,1
+North Stonington,2017,41,Male,False,False,1
+North Stonington,2018,21,Male,True,True,1
+North Stonington,2018,25,Female,False,False,1
+North Stonington,2018,61,Female,False,False,1
+North Stonington,2018,76,Male,False,False,1
+Norwalk,2003,16,Unknown,False,False,1
+Norwalk,2003,19,Unknown,False,False,1
+Norwalk,2003,22,Unknown,False,False,1
+Norwalk,2003,29,Male,False,True,1
+Norwalk,2003,47,Unknown,False,False,1
+Norwalk,2003,72,Male,False,False,1
+Norwalk,2004,18,Male,True,False,1
+Norwalk,2004,21,Unknown,False,False,1
+Norwalk,2004,25,Female,True,False,1
+Norwalk,2004,79,Male,False,False,1
+Norwalk,2004,9,Unknown,False,False,1
+Norwalk,2005,23,Unknown,False,False,1
+Norwalk,2005,25,Unknown,False,False,1
+Norwalk,2005,48,Male,False,False,1
+Norwalk,2005,52,Male,False,False,1
+Norwalk,2005,58,Male,False,False,1
+Norwalk,2005,62,Male,False,False,1
+Norwalk,2006,23,Male,True,False,1
+Norwalk,2006,24,Male,True,False,1
+Norwalk,2006,30,Male,False,False,1
+Norwalk,2006,35,Male,True,False,1
+Norwalk,2006,38,Male,False,False,1
+Norwalk,2006,46,Male,False,False,1
+Norwalk,2006,78,Male,False,False,1
+Norwalk,2006,83,Unknown,False,False,1
+Norwalk,2007,18,Male,True,False,1
+Norwalk,2007,36,Female,False,False,1
+Norwalk,2007,43,Male,False,False,1
+Norwalk,2007,49,Unknown,False,False,1
+Norwalk,2007,52,Male,False,False,1
+Norwalk,2007,74,Male,False,False,2
+Norwalk,2008,17,Female,False,False,1
+Norwalk,2008,93,Female,False,False,1
+Norwalk,2009,30,Male,False,False,1
+Norwalk,2009,33,Male,True,False,1
+Norwalk,2009,64,Male,False,False,1
+Norwalk,2010,17,Male,False,False,1
+Norwalk,2010,19,Female,False,True,1
+Norwalk,2010,21,Female,False,False,1
+Norwalk,2010,23,Male,True,False,1
+Norwalk,2010,26,Male,False,True,1
+Norwalk,2010,38,Unknown,False,False,1
+Norwalk,2011,21,Male,False,False,1
+Norwalk,2011,21,Male,True,False,1
+Norwalk,2011,22,Male,True,False,1
+Norwalk,2011,26,Unknown,False,False,1
+Norwalk,2012,29,Female,False,False,1
+Norwalk,2012,29,Male,False,True,1
+Norwalk,2012,40,Female,False,False,1
+Norwalk,2012,44,Male,False,False,1
+Norwalk,2012,55,Female,False,False,1
+Norwalk,2012,63,Male,False,False,1
+Norwalk,2013,25,Unknown,False,False,1
+Norwalk,2013,32,Unknown,False,False,1
+Norwalk,2013,38,Male,True,False,1
+Norwalk,2013,43,Male,True,False,1
+Norwalk,2013,45,Male,False,False,1
+Norwalk,2014,27,Male,False,False,1
+Norwalk,2014,29,Male,True,False,1
+Norwalk,2014,43,Male,False,False,2
+Norwalk,2015,32,Male,False,False,1
+Norwalk,2015,40,Male,False,True,1
+Norwalk,2015,44,Male,False,False,1
+Norwalk,2015,49,Female,False,False,1
+Norwalk,2015,55,Male,False,False,1
+Norwalk,2015,78,Male,False,False,1
+Norwalk,2015,85,Female,False,False,1
+Norwalk,2016,26,Female,False,False,1
+Norwalk,2016,5,Male,False,False,1
+Norwalk,2016,79,Male,False,False,1
+Norwalk,2017,20,Male,False,False,1
+Norwalk,2017,22,Male,False,True,1
+Norwalk,2017,49,Male,False,False,1
+Norwalk,2017,65,Male,False,False,1
+Norwalk,2017,88,Female,False,False,1
+Norwalk,2018,19,Male,False,True,1
+Norwalk,2018,30,Male,False,False,1
+Norwalk,2018,34,Male,True,False,1
+Norwalk,2018,40,Male,False,False,1
+Norwalk,2018,46,Female,False,True,1
+Norwalk,2018,50,Male,False,False,1
+Norwalk,2018,58,Male,False,False,1
+Norwich,2003,15,Unknown,False,False,1
+Norwich,2003,29,Male,False,False,1
+Norwich,2003,32,Male,True,False,1
+Norwich,2003,48,Male,False,False,1
+Norwich,2004,18,Unknown,False,False,1
+Norwich,2004,19,Male,False,True,1
+Norwich,2004,22,Female,True,False,1
+Norwich,2004,23,Male,False,True,1
+Norwich,2004,23,Unknown,False,False,1
+Norwich,2004,27,Male,False,False,1
+Norwich,2004,73,Male,True,False,1
+Norwich,2005,46,Male,False,False,1
+Norwich,2006,17,Female,False,True,1
+Norwich,2006,20,Male,False,False,1
+Norwich,2006,31,Female,False,False,1
+Norwich,2007,19,Male,False,False,1
+Norwich,2007,45,Male,False,False,1
+Norwich,2008,35,Unknown,False,False,1
+Norwich,2008,47,Male,False,False,1
+Norwich,2009,24,Male,False,False,1
+Norwich,2009,59,Female,False,False,1
+Norwich,2010,23,Male,False,True,1
+Norwich,2010,37,Male,True,False,1
+Norwich,2010,55,Male,False,False,1
+Norwich,2011,24,Male,True,False,1
+Norwich,2012,30,Male,False,True,1
+Norwich,2012,52,Unknown,False,False,1
+Norwich,2013,20,Male,False,False,1
+Norwich,2013,39,Male,False,True,1
+Norwich,2013,42,Male,True,False,1
+Norwich,2013,52,Unknown,False,False,1
+Norwich,2013,65,Unknown,False,False,1
+Norwich,2013,68,Unknown,False,False,1
+Norwich,2014,27,Male,False,True,1
+Norwich,2014,55,Male,True,False,1
+Norwich,2014,83,Female,False,False,1
+Norwich,2015,18,Male,False,False,1
+Norwich,2015,31,Female,False,True,1
+Norwich,2015,37,Male,True,True,1
+Norwich,2015,50,Male,False,False,1
+Norwich,2016,37,Male,True,True,1
+Norwich,2016,62,Male,False,False,1
+Norwich,2016,63,Male,False,False,1
+Norwich,2016,74,Male,False,False,1
+Norwich,2017,23,Male,False,True,1
+Norwich,2017,25,Male,False,False,1
+Norwich,2017,32,Female,False,False,1
+Norwich,2017,35,Male,False,True,1
+Norwich,2018,37,Male,False,False,1
+Norwich,2018,51,Male,True,True,1
+Old Lyme,2004,28,Female,False,False,1
+Old Lyme,2004,40,Male,False,False,1
+Old Lyme,2004,47,Unknown,False,False,1
+Old Lyme,2004,93,Unknown,False,False,1
+Old Lyme,2006,26,Female,True,False,1
+Old Lyme,2010,25,Female,False,False,1
+Old Lyme,2010,25,Female,False,True,1
+Old Lyme,2011,24,Male,False,False,1
+Old Lyme,2012,63,Unknown,False,False,1
+Old Lyme,2012,71,Female,False,False,1
+Old Lyme,2012,90,Unknown,False,False,1
+Old Lyme,2013,49,Male,True,False,1
+Old Lyme,2013,85,Male,False,False,1
+Old Lyme,2014,58,Unknown,False,False,1
+Old Lyme,2015,38,Female,False,False,1
+Old Lyme,2015,61,Female,False,False,1
+Old Lyme,2015,73,Male,False,False,1
+Old Lyme,2016,19,Male,True,True,1
+Old Lyme,2016,31,Female,True,False,1
+Old Lyme,2016,87,Female,False,False,1
+Old Lyme,2016,90,Male,False,True,1
+Old Lyme,2017,19,Male,False,False,1
+Old Lyme,2017,71,Female,False,False,3
+Old Saybrook,2003,54,Male,False,False,1
+Old Saybrook,2004,71,Unknown,False,False,1
+Old Saybrook,2004,83,Unknown,False,False,1
+Old Saybrook,2008,44,Female,False,False,1
+Old Saybrook,2012,48,Male,False,False,1
+Old Saybrook,2013,27,Male,True,False,1
+Old Saybrook,2013,44,Male,False,False,1
+Old Saybrook,2013,58,Female,False,False,1
+Old Saybrook,2014,73,Female,True,False,1
+Old Saybrook,2015,59,Male,False,True,1
+Old Saybrook,2016,22,Female,True,True,1
+Old Saybrook,2016,89,Male,False,False,1
+Orange,2003,17,Male,False,True,1
+Orange,2003,80,Male,False,False,1
+Orange,2004,18,Male,False,True,1
+Orange,2004,24,Unknown,False,False,1
+Orange,2004,28,Female,False,False,1
+Orange,2004,59,Female,False,False,1
+Orange,2005,36,Unknown,False,False,1
+Orange,2005,45,Male,False,False,1
+Orange,2006,17,Male,False,False,1
+Orange,2006,47,Female,False,True,1
+Orange,2006,49,Male,False,False,1
+Orange,2006,75,Male,False,False,1
+Orange,2007,17,Male,True,False,1
+Orange,2007,22,Unknown,False,False,1
+Orange,2008,17,Unknown,False,False,1
+Orange,2008,18,Male,False,False,1
+Orange,2008,26,Unknown,False,False,1
+Orange,2008,43,Male,True,False,1
+Orange,2008,63,Male,False,False,1
+Orange,2008,65,Male,False,False,1
+Orange,2009,19,Male,False,False,1
+Orange,2009,19,Unknown,False,False,1
+Orange,2010,25,Unknown,False,False,1
+Orange,2010,41,Male,False,False,1
+Orange,2011,31,Female,False,True,1
+Orange,2011,60,Male,False,False,1
+Orange,2011,62,Male,False,False,1
+Orange,2012,27,Male,True,False,1
+Orange,2012,57,Male,False,True,1
+Orange,2013,18,Male,False,False,1
+Orange,2013,21,Male,False,False,1
+Orange,2014,29,Male,True,False,1
+Orange,2014,60,Male,False,False,1
+Orange,2014,76,Female,True,False,1
+Orange,2015,74,Female,False,False,1
+Orange,2016,22,Male,False,True,1
+Orange,2016,35,Female,False,False,1
+Orange,2016,54,Male,False,True,1
+Orange,2017,44,Male,False,False,1
+Orange,2017,67,Male,False,False,1
+Orange,2018,29,Male,False,False,1
+Orange,2018,29,Male,False,True,1
+Orange,2018,34,Male,True,False,1
+Orange,2018,39,Female,False,False,1
+Oxford,2003,21,Male,True,False,1
+Oxford,2003,25,Unknown,False,False,1
+Oxford,2004,32,Female,False,False,1
+Oxford,2006,31,Male,True,False,1
+Oxford,2006,35,Male,False,False,1
+Oxford,2006,62,Male,False,False,1
+Oxford,2008,25,Male,True,False,1
+Oxford,2008,75,Female,False,False,1
+Oxford,2008,83,Unknown,False,False,1
+Oxford,2008,84,Female,False,False,1
+Oxford,2009,46,Male,True,False,1
+Oxford,2009,62,Male,False,False,1
+Oxford,2010,23,Male,False,False,1
+Oxford,2010,24,Male,True,False,1
+Oxford,2010,41,Male,True,False,1
+Oxford,2011,62,Male,False,False,1
+Oxford,2012,15,Unknown,False,False,1
+Oxford,2013,3,Unknown,False,False,1
+Oxford,2013,56,Male,False,False,1
+Oxford,2016,23,Male,False,False,1
+Oxford,2016,41,Male,False,False,1
+Plainfield,2003,45,Unknown,False,False,1
+Plainfield,2004,21,Male,False,False,1
+Plainfield,2006,18,Male,False,True,1
+Plainfield,2006,45,Male,False,False,1
+Plainfield,2006,53,Male,True,False,1
+Plainfield,2007,68,Male,False,True,1
+Plainfield,2008,47,Male,True,False,1
+Plainfield,2008,50,Male,True,False,1
+Plainfield,2009,18,Male,False,False,1
+Plainfield,2009,24,Male,False,False,1
+Plainfield,2009,25,Male,True,False,1
+Plainfield,2009,26,Unknown,False,False,1
+Plainfield,2009,28,Male,True,False,1
+Plainfield,2009,29,Male,False,False,1
+Plainfield,2009,57,Male,False,True,1
+Plainfield,2010,84,Male,False,False,1
+Plainfield,2011,20,Female,False,False,1
+Plainfield,2012,21,Unknown,False,False,1
+Plainfield,2012,54,Unknown,False,False,1
+Plainfield,2013,20,Male,False,True,1
+Plainfield,2014,22,Male,False,False,1
+Plainfield,2015,24,Male,False,False,1
+Plainfield,2015,28,Male,False,False,1
+Plainfield,2015,46,Male,False,False,1
+Plainfield,2016,0,Female,False,False,1
+Plainfield,2017,48,Female,False,False,1
+Plainfield,2018,17,Female,False,True,1
+Plainfield,2018,42,Male,False,False,1
+Plainville,2003,65,Male,False,False,1
+Plainville,2004,33,Female,False,False,1
+Plainville,2004,38,Unknown,False,False,1
+Plainville,2004,39,Male,True,False,1
+Plainville,2005,39,Male,True,False,1
+Plainville,2006,37,Unknown,False,False,1
+Plainville,2006,40,Male,False,False,1
+Plainville,2008,21,Male,False,False,1
+Plainville,2008,26,Male,False,False,1
+Plainville,2008,31,Male,True,False,1
+Plainville,2009,26,Male,True,False,1
+Plainville,2009,36,Male,False,True,1
+Plainville,2010,32,Male,True,False,1
+Plainville,2010,53,Unknown,False,False,1
+Plainville,2011,22,Male,True,False,1
+Plainville,2011,48,Male,True,False,1
+Plainville,2014,20,Male,True,False,1
+Plainville,2015,30,Female,False,True,1
+Plainville,2015,31,Male,True,False,1
+Plainville,2016,45,Female,False,False,1
+Plainville,2017,18,Female,False,False,1
+Plainville,2017,59,Female,False,False,1
+Plainville,2018,35,Male,True,False,1
+Plainville,2018,77,Female,False,False,1
+Plymouth,2003,57,Male,True,False,1
+Plymouth,2004,15,Male,False,False,1
+Plymouth,2004,52,Male,True,False,1
+Plymouth,2004,9,Female,False,False,1
+Plymouth,2008,18,Male,False,True,1
+Plymouth,2008,62,Male,False,False,1
+Plymouth,2015,29,Female,False,False,1
+Plymouth,2015,5,Male,False,False,1
+Plymouth,2017,17,Male,False,False,1
+Plymouth,2018,93,Female,False,False,1
+Pomfret,2003,19,Female,False,False,1
+Pomfret,2007,84,Male,False,False,1
+Pomfret,2011,23,Male,False,False,1
+Pomfret,2013,58,Male,True,False,1
+Pomfret,2014,49,Male,False,False,1
+Pomfret,2017,35,Female,False,False,1
+Pomfret,2018,46,Female,False,False,1
+Portland,2005,65,Male,False,False,1
+Portland,2006,17,Male,False,True,1
+Portland,2009,28,Female,False,True,1
+Portland,2010,24,Male,False,True,1
+Portland,2010,31,Unknown,False,False,1
+Portland,2011,35,Male,False,True,1
+Portland,2013,20,Unknown,False,False,1
+Portland,2013,24,Male,False,True,1
+Portland,2013,30,Unknown,False,False,1
+Portland,2013,42,Unknown,False,False,1
+Portland,2013,51,Male,False,False,1
+Portland,2013,52,Male,True,False,1
+Portland,2014,21,Female,True,False,1
+Portland,2015,52,Male,False,True,1
+Portland,2015,73,Male,False,False,1
+Portland,2016,34,Male,False,False,1
+Portland,2016,60,Male,False,False,1
+Portland,2017,22,Male,False,False,1
+Portland,2017,87,Female,False,False,1
+Portland,2018,26,Male,False,False,1
+Preston,2003,34,Unknown,False,False,1
+Preston,2003,38,Male,False,True,1
+Preston,2004,21,Female,False,False,1
+Preston,2004,46,Male,False,False,1
+Preston,2004,52,Female,True,False,1
+Preston,2004,64,Male,False,True,1
+Preston,2005,43,Female,False,True,1
+Preston,2005,85,Unknown,False,False,1
+Preston,2006,20,Male,False,False,2
+Preston,2006,49,Female,False,False,1
+Preston,2008,61,Male,False,False,1
+Preston,2008,62,Male,True,False,1
+Preston,2009,20,Male,True,False,1
+Preston,2009,29,Female,False,False,1
+Preston,2009,39,Female,False,False,1
+Preston,2010,42,Female,False,False,1
+Preston,2010,43,Male,True,False,1
+Preston,2011,26,Male,True,False,1
+Preston,2013,28,Male,False,False,1
+Preston,2013,62,Female,False,False,1
+Preston,2013,63,Unknown,False,False,1
+Preston,2014,53,Male,False,False,1
+Preston,2015,46,Male,False,False,1
+Preston,2016,45,Female,False,False,1
+Preston,2016,63,Male,False,False,1
+Preston,2016,68,Male,True,False,1
+Preston,2016,85,Male,False,False,1
+Preston,2017,73,Male,False,False,1
+Prospect,2003,21,Female,False,False,1
+Prospect,2003,21,Unknown,False,False,2
+Prospect,2004,43,Male,False,False,1
+Prospect,2006,20,Unknown,False,False,1
+Prospect,2006,21,Male,True,False,1
+Prospect,2007,14,Male,False,False,1
+Prospect,2007,47,Male,True,False,1
+Prospect,2007,71,Male,False,False,1
+Prospect,2009,85,Female,False,False,1
+Prospect,2010,17,Unknown,False,False,1
+Prospect,2010,21,Unknown,False,False,1
+Prospect,2010,88,Male,False,False,1
+Prospect,2011,78,Female,False,False,1
+Prospect,2013,79,Female,False,False,1
+Prospect,2014,84,Male,False,False,1
+Prospect,2016,23,Male,True,False,1
+Prospect,2017,68,Female,False,True,1
+Prospect,2018,22,Male,False,False,1
+Prospect,2018,67,Male,False,False,1
+Putnam,2003,25,Male,False,False,1
+Putnam,2003,43,Male,False,False,1
+Putnam,2004,95,Female,False,False,1
+Putnam,2006,22,Male,False,False,1
+Putnam,2006,44,Male,False,False,1
+Putnam,2006,58,Male,True,False,1
+Putnam,2007,61,Female,False,False,1
+Putnam,2008,36,Male,True,False,1
+Putnam,2008,38,Unknown,False,False,1
+Putnam,2008,52,Male,False,False,1
+Putnam,2008,70,Male,True,False,1
+Putnam,2009,25,Male,False,False,1
+Putnam,2009,70,Female,False,False,1
+Putnam,2009,77,Male,False,True,1
+Putnam,2010,41,Male,True,False,1
+Putnam,2010,45,Unknown,False,False,1
+Putnam,2011,36,Male,False,False,1
+Putnam,2011,88,Unknown,False,False,1
+Putnam,2013,88,Male,False,False,1
+Putnam,2014,55,Female,False,False,1
+Putnam,2015,31,Male,False,False,1
+Putnam,2015,48,Male,False,False,1
+Putnam,2017,16,Male,False,False,1
+Putnam,2017,24,Female,True,True,1
+Putnam,2017,52,Male,True,False,1
+Putnam,2018,70,Male,False,False,1
+Redding,2003,33,Unknown,False,False,1
+Redding,2004,33,Male,True,False,1
+Redding,2004,43,Male,False,True,1
+Redding,2006,46,Male,True,False,1
+Redding,2006,55,Male,True,False,1
+Redding,2008,26,Female,True,False,1
+Redding,2010,51,Male,False,False,1
+Redding,2011,48,Unknown,False,False,1
+Redding,2012,19,Female,False,False,1
+Redding,2012,21,Unknown,False,False,1
+Redding,2012,69,Female,False,False,1
+Ridgefield,2003,31,Female,False,False,1
+Ridgefield,2004,31,Unknown,False,False,1
+Ridgefield,2005,46,Male,False,False,1
+Ridgefield,2008,29,Unknown,False,False,1
+Ridgefield,2009,19,Male,False,True,1
+Ridgefield,2010,20,Male,True,False,1
+Ridgefield,2011,16,Female,True,False,1
+Ridgefield,2012,56,Male,True,False,1
+Ridgefield,2013,56,Male,False,False,1
+Ridgefield,2014,15,Female,False,False,1
+Rocky Hill,2004,80,Male,False,False,1
+Rocky Hill,2006,43,Male,False,False,1
+Rocky Hill,2006,55,Female,False,False,1
+Rocky Hill,2006,59,Female,False,False,1
+Rocky Hill,2007,19,Male,False,False,1
+Rocky Hill,2007,31,Male,False,True,1
+Rocky Hill,2008,33,Male,False,True,1
+Rocky Hill,2008,34,Male,False,False,1
+Rocky Hill,2009,24,Male,False,False,1
+Rocky Hill,2009,81,Female,False,False,1
+Rocky Hill,2009,84,Unknown,False,False,1
+Rocky Hill,2012,23,Unknown,False,False,1
+Rocky Hill,2012,26,Male,True,False,1
+Rocky Hill,2012,27,Unknown,False,False,1
+Rocky Hill,2012,72,Female,False,False,1
+Rocky Hill,2016,21,Male,False,False,1
+Rocky Hill,2016,25,Male,False,False,1
+Rocky Hill,2016,27,Male,True,True,1
+Rocky Hill,2016,37,Male,False,True,1
+Rocky Hill,2016,55,Female,False,False,1
+Rocky Hill,2017,21,Male,False,False,1
+Rocky Hill,2017,25,Male,True,True,1
+Rocky Hill,2017,30,Male,False,False,1
+Rocky Hill,2017,51,Male,False,False,1
+Rocky Hill,2018,60,Male,False,False,1
+Roxbury,2004,45,Male,False,True,1
+Roxbury,2008,49,Male,False,False,1
+Roxbury,2013,23,Female,True,False,1
+Roxbury,2013,26,Unknown,False,False,1
+Roxbury,2014,11,Male,False,True,1
+Salem,2004,43,Male,False,False,1
+Salem,2004,81,Male,False,False,1
+Salem,2005,14,Male,False,False,1
+Salem,2005,75,Unknown,False,False,1
+Salem,2005,79,Female,False,False,1
+Salem,2005,84,Male,False,False,1
+Salem,2006,45,Male,False,False,1
+Salem,2007,1,Unknown,False,False,1
+Salem,2008,44,Male,True,False,1
+Salem,2010,20,Male,True,False,1
+Salem,2012,20,Male,False,False,1
+Salem,2013,55,Male,False,True,1
+Salem,2014,21,Male,True,False,1
+Salem,2017,89,Female,False,False,1
+Salisbury,2007,30,Female,True,False,1
+Salisbury,2008,53,Male,False,False,1
+Salisbury,2009,16,Female,False,True,1
+Salisbury,2012,82,Male,False,False,1
+Salisbury,2013,48,Male,True,False,1
+Salisbury,2016,64,Male,True,False,1
+Salisbury,2016,75,Female,False,False,1
+Salisbury,2017,85,Female,False,False,1
+Salisbury,2018,18,Male,False,False,1
+Salisbury,2018,74,Male,False,False,1
+Salisbury,2018,84,Male,False,False,1
+Salisbury,2018,95,Female,False,False,1
+Scotland,2003,43,Male,True,False,1
+Scotland,2011,57,Male,True,False,1
+Seymour,2003,38,Male,True,False,1
+Seymour,2003,78,Male,False,False,1
+Seymour,2004,23,Unknown,False,False,1
+Seymour,2005,26,Unknown,False,False,1
+Seymour,2005,46,Male,False,False,1
+Seymour,2007,18,Unknown,False,False,1
+Seymour,2007,24,Male,True,False,1
+Seymour,2007,42,Male,False,False,1
+Seymour,2007,66,Male,False,False,1
+Seymour,2008,54,Female,True,False,1
+Seymour,2009,20,Unknown,False,False,1
+Seymour,2009,23,Male,True,False,1
+Seymour,2009,31,Male,True,False,1
+Seymour,2010,73,Unknown,False,False,1
+Seymour,2011,37,Male,False,False,1
+Seymour,2012,19,Unknown,False,False,1
+Seymour,2012,33,Male,False,False,1
+Seymour,2013,51,Male,True,False,1
+Seymour,2014,19,Male,False,False,1
+Seymour,2016,61,Male,False,False,1
+Seymour,2017,20,Male,False,False,1
+Sharon,2006,44,Female,True,False,1
+Sharon,2011,93,Male,False,False,1
+Sharon,2018,22,Male,False,False,1
+Shelton,2003,40,Male,True,False,1
+Shelton,2003,42,Female,False,False,1
+Shelton,2003,45,Male,False,False,1
+Shelton,2003,51,Male,True,False,1
+Shelton,2004,46,Female,False,True,1
+Shelton,2004,54,Unknown,False,False,1
+Shelton,2004,63,Male,False,False,1
+Shelton,2005,12,Unknown,False,False,1
+Shelton,2005,57,Male,False,False,1
+Shelton,2006,20,Male,False,False,1
+Shelton,2006,21,Male,True,False,1
+Shelton,2007,14,Unknown,False,False,1
+Shelton,2007,75,Male,False,False,1
+Shelton,2007,81,Unknown,False,False,1
+Shelton,2008,18,Male,False,False,1
+Shelton,2008,20,Unknown,False,False,1
+Shelton,2008,25,Male,False,False,1
+Shelton,2008,32,Male,False,False,1
+Shelton,2008,46,Male,True,False,1
+Shelton,2009,18,Unknown,False,False,1
+Shelton,2009,19,Male,True,False,1
+Shelton,2009,22,Male,True,False,1
+Shelton,2009,29,Male,True,False,1
+Shelton,2010,23,Male,True,False,1
+Shelton,2010,32,Male,True,False,1
+Shelton,2010,43,Male,False,False,1
+Shelton,2010,52,Male,False,False,1
+Shelton,2010,64,Male,False,False,1
+Shelton,2011,30,Male,True,False,1
+Shelton,2011,34,Unknown,False,False,1
+Shelton,2011,47,Female,True,False,1
+Shelton,2012,24,Male,False,False,1
+Shelton,2012,30,Male,False,False,1
+Shelton,2012,67,Male,True,False,1
+Shelton,2013,30,Male,False,False,1
+Shelton,2013,54,Unknown,False,False,1
+Shelton,2013,69,Female,False,False,1
+Shelton,2013,92,Male,False,False,1
+Shelton,2014,53,Male,False,False,1
+Shelton,2015,20,Male,False,False,1
+Shelton,2015,21,Male,False,True,1
+Shelton,2015,24,Female,False,False,1
+Shelton,2015,31,Male,False,False,1
+Shelton,2015,6,Female,False,False,1
+Shelton,2015,62,Female,False,False,1
+Shelton,2016,17,Male,False,False,1
+Shelton,2016,29,Female,False,False,1
+Shelton,2016,30,Male,False,False,1
+Shelton,2016,48,Male,False,False,1
+Shelton,2016,53,Male,True,True,1
+Shelton,2016,54,Female,False,False,1
+Shelton,2016,69,Female,False,False,1
+Shelton,2017,27,Male,False,False,1
+Shelton,2017,53,Male,False,False,1
+Shelton,2017,65,Male,False,False,1
+Shelton,2018,18,Female,False,False,1
+Shelton,2018,23,Female,False,False,1
+Sherman,2003,22,Male,True,False,1
+Sherman,2003,58,Male,False,False,1
+Sherman,2004,49,Male,True,False,1
+Sherman,2009,45,Male,True,False,1
+Sherman,2011,50,Unknown,False,False,1
+Sherman,2015,71,Male,False,False,1
+Sherman,2016,21,Male,False,False,1
+Simsbury,2004,17,Male,False,True,1
+Simsbury,2004,51,Male,True,False,1
+Simsbury,2005,18,Male,True,False,1
+Simsbury,2005,35,Unknown,False,False,1
+Simsbury,2005,39,Unknown,False,False,1
+Simsbury,2006,53,Female,True,False,1
+Simsbury,2006,57,Male,False,False,1
+Simsbury,2010,19,Male,False,False,1
+Simsbury,2011,17,Unknown,False,False,1
+Simsbury,2013,22,Male,True,False,1
+Simsbury,2015,44,Male,False,False,1
+Simsbury,2015,51,Female,False,False,1
+Simsbury,2016,59,Female,False,False,1
+Simsbury,2017,64,Female,False,False,1
+Somers,2003,23,Male,True,False,1
+Somers,2003,43,Male,False,False,1
+Somers,2004,73,Female,False,False,1
+Somers,2004,9,Unknown,False,False,1
+Somers,2012,25,Male,False,False,1
+Somers,2012,28,Male,False,False,1
+Somers,2014,60,Male,True,False,1
+Somers,2016,24,Male,True,True,1
+Somers,2016,52,Male,True,False,1
+Somers,2017,42,Male,False,False,1
+Somers,2017,69,Female,False,False,1
+Somers,2017,72,Female,False,False,1
+South Windsor,2003,17,Female,False,False,1
+South Windsor,2006,24,Male,False,False,1
+South Windsor,2008,81,Male,False,False,1
+South Windsor,2011,24,Male,True,False,1
+South Windsor,2011,29,Female,False,False,1
+South Windsor,2011,70,Female,True,False,1
+South Windsor,2013,15,Unknown,False,False,1
+South Windsor,2013,18,Unknown,False,False,1
+South Windsor,2014,25,Unknown,False,False,1
+South Windsor,2014,55,Male,True,False,1
+Southbury,2003,28,Female,False,False,1
+Southbury,2003,28,Male,False,False,1
+Southbury,2003,51,Unknown,False,False,1
+Southbury,2003,75,Unknown,False,False,1
+Southbury,2005,18,Unknown,False,False,1
+Southbury,2005,25,Unknown,False,False,1
+Southbury,2005,85,Male,False,True,1
+Southbury,2006,52,Male,False,False,1
+Southbury,2009,27,Male,True,False,1
+Southbury,2009,56,Female,True,False,1
+Southbury,2009,90,Female,False,False,1
+Southbury,2010,24,Female,False,False,1
+Southbury,2010,90,Male,False,False,1
+Southbury,2013,25,Female,False,False,1
+Southbury,2014,67,Female,False,False,1
+Southbury,2015,22,Male,True,False,1
+Southbury,2015,38,Female,False,False,1
+Southbury,2016,26,Male,False,False,1
+Southbury,2016,59,Female,False,False,1
+Southbury,2016,68,Male,False,False,1
+Southbury,2016,69,Female,False,False,1
+Southbury,2016,69,Male,False,False,1
+Southbury,2016,85,Female,False,False,1
+Southbury,2018,43,Male,False,False,1
+Southington,2003,20,Male,True,False,1
+Southington,2003,21,Unknown,False,False,2
+Southington,2003,32,Male,False,True,1
+Southington,2003,39,Female,False,False,1
+Southington,2004,13,Unknown,False,False,1
+Southington,2004,17,Male,False,False,1
+Southington,2004,21,Male,False,False,1
+Southington,2004,41,Male,False,True,1
+Southington,2005,20,Male,True,False,1
+Southington,2005,28,Male,False,False,1
+Southington,2005,88,Male,False,False,1
+Southington,2006,18,Male,False,False,1
+Southington,2006,26,Male,True,False,1
+Southington,2006,40,Male,False,False,1
+Southington,2008,22,Female,False,False,1
+Southington,2008,47,Female,True,False,1
+Southington,2008,50,Male,False,False,1
+Southington,2008,50,Male,True,False,1
+Southington,2008,52,Male,False,False,1
+Southington,2008,70,Male,False,False,1
+Southington,2008,77,Unknown,False,False,1
+Southington,2009,28,Male,True,False,1
+Southington,2009,43,Male,False,False,1
+Southington,2010,27,Male,False,False,1
+Southington,2010,36,Female,False,False,1
+Southington,2010,61,Male,False,False,1
+Southington,2011,22,Female,False,False,1
+Southington,2011,29,Male,True,False,1
+Southington,2011,36,Male,False,False,1
+Southington,2012,27,Male,True,False,1
+Southington,2012,61,Female,False,False,1
+Southington,2013,17,Unknown,False,False,1
+Southington,2013,19,Male,True,False,1
+Southington,2013,20,Male,False,False,1
+Southington,2013,23,Female,False,False,1
+Southington,2013,30,Male,False,False,1
+Southington,2014,26,Unknown,False,False,1
+Southington,2014,36,Male,True,False,1
+Southington,2014,37,Male,False,False,1
+Southington,2014,40,Male,True,False,1
+Southington,2015,14,Female,False,False,1
+Southington,2015,16,Female,False,False,1
+Southington,2015,52,Male,False,False,2
+Southington,2015,58,Male,False,False,1
+Southington,2016,26,Female,False,False,1
+Southington,2016,29,Male,True,False,1
+Southington,2016,41,Male,True,True,1
+Southington,2016,44,Male,False,False,1
+Southington,2016,50,Female,False,False,1
+Southington,2016,71,Male,False,False,1
+Southington,2017,19,Male,False,True,1
+Southington,2017,32,Male,False,False,1
+Southington,2018,75,Male,False,True,1
+Southington,2018,83,Male,False,False,1
+Sprague,2012,35,Male,False,False,1
+Sprague,2014,54,Male,False,False,1
+Sprague,2017,22,Male,True,False,1
+Stafford,2004,18,Male,True,False,1
+Stafford,2004,21,Male,False,True,1
+Stafford,2005,17,Female,False,True,1
+Stafford,2005,26,Male,False,False,1
+Stafford,2007,35,Male,False,True,1
+Stafford,2007,60,Male,False,True,1
+Stafford,2008,14,Male,False,False,1
+Stafford,2008,20,Female,False,True,1
+Stafford,2008,20,Unknown,False,False,1
+Stafford,2008,81,Female,False,False,1
+Stafford,2010,33,Male,False,False,1
+Stafford,2010,39,Male,False,False,1
+Stafford,2010,65,Male,True,False,1
+Stafford,2010,74,Male,False,False,1
+Stafford,2012,61,Male,False,False,1
+Stafford,2016,46,Male,True,False,1
+Stafford,2016,55,Male,True,True,1
+Stafford,2017,32,Male,True,False,1
+Stamford,2003,55,Male,True,False,1
+Stamford,2003,58,Female,True,False,1
+Stamford,2003,62,Female,False,True,1
+Stamford,2004,19,Unknown,False,False,1
+Stamford,2004,21,Male,True,False,1
+Stamford,2004,23,Male,True,False,1
+Stamford,2004,31,Male,True,False,1
+Stamford,2004,72,Female,False,False,1
+Stamford,2005,17,Unknown,False,False,1
+Stamford,2005,20,Male,False,False,1
+Stamford,2005,21,Unknown,False,False,1
+Stamford,2005,22,Male,True,False,1
+Stamford,2005,23,Unknown,False,False,1
+Stamford,2005,29,Male,True,False,1
+Stamford,2005,58,Unknown,False,False,1
+Stamford,2005,72,Male,False,False,1
+Stamford,2005,77,Female,False,False,1
+Stamford,2005,83,Male,False,False,1
+Stamford,2006,24,Male,True,False,1
+Stamford,2006,33,Unknown,False,False,1
+Stamford,2006,44,Unknown,False,False,1
+Stamford,2007,23,Female,False,False,1
+Stamford,2007,40,Male,False,False,1
+Stamford,2007,42,Male,False,False,1
+Stamford,2007,81,Female,False,False,1
+Stamford,2008,21,Male,False,False,1
+Stamford,2008,29,Male,False,True,1
+Stamford,2008,43,Unknown,False,False,1
+Stamford,2008,46,Female,True,False,1
+Stamford,2008,59,Female,False,False,1
+Stamford,2008,88,Male,False,False,1
+Stamford,2009,25,Male,False,False,1
+Stamford,2009,51,Male,True,False,1
+Stamford,2010,20,Unknown,False,False,1
+Stamford,2010,24,Male,True,False,1
+Stamford,2010,27,Unknown,False,False,1
+Stamford,2010,28,Male,False,False,1
+Stamford,2010,57,Unknown,False,False,1
+Stamford,2010,84,Unknown,False,False,1
+Stamford,2010,87,Female,False,False,1
+Stamford,2011,19,Male,False,False,1
+Stamford,2011,38,Male,True,False,1
+Stamford,2012,25,Male,False,False,1
+Stamford,2012,50,Male,False,False,1
+Stamford,2012,81,Unknown,False,False,1
+Stamford,2013,36,Male,False,False,1
+Stamford,2013,68,Male,False,False,1
+Stamford,2013,73,Female,True,False,1
+Stamford,2013,79,Female,False,False,1
+Stamford,2013,89,Unknown,False,False,1
+Stamford,2014,18,Male,False,False,1
+Stamford,2014,34,Female,False,False,1
+Stamford,2014,38,Male,True,False,1
+Stamford,2014,48,Male,False,False,1
+Stamford,2014,50,Unknown,False,False,1
+Stamford,2014,57,Male,False,False,1
+Stamford,2014,58,Female,False,False,1
+Stamford,2014,64,Male,False,False,1
+Stamford,2014,65,Male,False,False,1
+Stamford,2014,70,Female,False,False,1
+Stamford,2014,70,Unknown,False,False,1
+Stamford,2015,67,Male,False,False,1
+Stamford,2015,90,Male,False,False,1
+Stamford,2015,96,Female,False,False,1
+Stamford,2016,18,Female,False,False,1
+Stamford,2016,30,Male,False,False,1
+Stamford,2016,72,Male,False,False,1
+Stamford,2016,81,Male,False,False,1
+Stamford,2017,17,Male,True,True,1
+Stamford,2017,19,Male,False,False,1
+Stamford,2017,20,Male,False,False,1
+Stamford,2017,31,Female,False,False,1
+Stamford,2017,44,Female,False,False,1
+Stamford,2017,68,Male,False,False,1
+Stamford,2017,72,Male,False,False,1
+Stamford,2017,89,Male,False,False,1
+Stamford,2018,25,Male,False,False,2
+Stamford,2018,26,Male,False,False,1
+Stamford,2018,28,Male,False,False,1
+Stamford,2018,59,Female,False,False,1
+Stamford,2018,63,Male,False,False,1
+Sterling,2004,19,Female,False,True,1
+Sterling,2006,13,Unknown,False,False,1
+Sterling,2006,21,Female,True,False,1
+Sterling,2006,64,Female,False,False,1
+Sterling,2010,21,Unknown,False,False,1
+Sterling,2013,47,Unknown,False,False,1
+Sterling,2016,50,Male,False,False,1
+Stonington,2003,22,Unknown,False,False,1
+Stonington,2003,34,Unknown,False,False,1
+Stonington,2003,36,Male,False,True,1
+Stonington,2003,77,Female,False,False,1
+Stonington,2004,38,Male,False,False,1
+Stonington,2006,31,Female,False,False,1
+Stonington,2006,60,Female,False,False,1
+Stonington,2007,18,Unknown,False,False,1
+Stonington,2007,42,Unknown,False,False,1
+Stonington,2007,44,Male,False,False,1
+Stonington,2008,20,Male,False,False,1
+Stonington,2008,33,Male,True,False,1
+Stonington,2010,36,Male,False,False,1
+Stonington,2010,46,Male,False,False,1
+Stonington,2010,48,Male,False,False,1
+Stonington,2010,88,Female,False,False,1
+Stonington,2011,15,Unknown,False,False,1
+Stonington,2011,22,Male,False,True,1
+Stonington,2013,26,Female,False,False,1
+Stonington,2014,21,Male,False,False,1
+Stonington,2014,44,Male,True,False,1
+Stonington,2014,51,Male,False,False,1
+Stonington,2014,60,Male,True,False,1
+Stonington,2015,26,Female,False,False,1
+Stonington,2015,31,Male,False,False,1
+Stonington,2015,7,Male,False,False,1
+Stonington,2016,77,Male,False,False,1
+Stonington,2017,68,Male,False,False,1
+Stratford,2003,46,Male,False,False,1
+Stratford,2003,49,Female,False,False,1
+Stratford,2003,49,Male,False,True,1
+Stratford,2004,48,Male,False,False,1
+Stratford,2005,28,Male,False,True,1
+Stratford,2005,45,Male,False,False,1
+Stratford,2006,22,Male,True,False,1
+Stratford,2006,35,Male,True,False,1
+Stratford,2006,61,Male,True,False,1
+Stratford,2007,50,Male,True,False,1
+Stratford,2007,57,Female,False,False,1
+Stratford,2007,6,Unknown,False,False,1
+Stratford,2007,84,Male,False,True,1
+Stratford,2007,9,Unknown,False,False,1
+Stratford,2008,25,Male,True,False,1
+Stratford,2009,39,Male,False,False,1
+Stratford,2009,57,Female,False,False,1
+Stratford,2009,59,Male,False,False,1
+Stratford,2009,74,Male,False,False,1
+Stratford,2010,53,Male,False,False,1
+Stratford,2011,25,Unknown,False,False,1
+Stratford,2011,32,Male,True,False,1
+Stratford,2011,34,Male,True,False,1
+Stratford,2011,90,Female,False,False,1
+Stratford,2012,44,Male,False,False,1
+Stratford,2012,47,Male,False,False,1
+Stratford,2013,32,Male,True,False,1
+Stratford,2013,89,Male,False,False,1
+Stratford,2014,26,Male,False,False,1
+Stratford,2014,55,Male,False,False,1
+Stratford,2015,27,Male,False,False,1
+Stratford,2015,53,Female,False,False,1
+Stratford,2015,56,Male,True,False,1
+Stratford,2016,33,Male,False,True,1
+Stratford,2016,35,Female,False,True,1
+Stratford,2016,40,Male,False,False,1
+Stratford,2016,49,Male,True,True,1
+Stratford,2016,55,Male,False,False,1
+Stratford,2017,27,Male,True,True,1
+Stratford,2017,47,Male,True,False,1
+Stratford,2017,56,Male,True,False,1
+Stratford,2017,64,Female,False,False,1
+Stratford,2018,21,Male,False,False,1
+Stratford,2018,32,Male,False,True,1
+Suffield,2003,16,Female,False,True,1
+Suffield,2003,26,Male,True,False,1
+Suffield,2003,68,Female,False,False,1
+Suffield,2006,47,Male,False,False,1
+Suffield,2008,18,Male,False,True,1
+Suffield,2008,26,Male,False,False,1
+Suffield,2008,37,Female,False,False,1
+Suffield,2008,60,Male,False,True,1
+Suffield,2010,45,Unknown,False,False,1
+Suffield,2012,53,Male,False,False,1
+Suffield,2012,60,Male,False,False,1
+Suffield,2012,65,Female,False,False,1
+Suffield,2014,12,Male,False,False,1
+Suffield,2014,17,Male,False,False,1
+Suffield,2014,46,Male,False,True,1
+Suffield,2015,49,Male,True,True,1
+Suffield,2015,54,Male,True,False,1
+Suffield,2015,61,Male,False,False,1
+Suffield,2018,59,Male,False,True,1
+Suffield,2018,85,Female,False,False,1
+Thomaston,2005,55,Unknown,False,False,1
+Thomaston,2007,51,Male,False,False,1
+Thomaston,2010,48,Female,True,False,1
+Thomaston,2011,55,Male,False,False,1
+Thomaston,2011,58,Male,False,False,1
+Thomaston,2015,58,Female,True,False,1
+Thomaston,2017,52,Female,False,False,1
+Thomaston,2018,28,Female,False,False,1
+Thomaston,2018,48,Male,False,False,1
+Thompson,2003,32,Male,False,True,1
+Thompson,2003,71,Unknown,False,False,1
+Thompson,2004,41,Male,True,False,1
+Thompson,2005,21,Male,True,False,1
+Thompson,2005,36,Male,False,False,1
+Thompson,2005,53,Male,False,False,1
+Thompson,2006,37,Male,False,False,1
+Thompson,2006,54,Male,False,False,1
+Thompson,2007,18,Male,False,True,1
+Thompson,2007,21,Female,True,False,1
+Thompson,2007,75,Unknown,False,False,1
+Thompson,2008,19,Male,False,False,1
+Thompson,2008,47,Male,False,False,1
+Thompson,2008,52,Unknown,False,False,1
+Thompson,2008,77,Female,False,False,1
+Thompson,2009,28,Male,False,False,1
+Thompson,2009,36,Male,False,False,1
+Thompson,2009,75,Female,False,False,1
+Thompson,2011,83,Female,False,False,1
+Thompson,2013,40,Male,False,False,1
+Thompson,2014,22,Male,True,False,1
+Thompson,2014,23,Male,False,False,1
+Thompson,2015,15,Male,False,True,1
+Thompson,2015,48,Male,False,False,1
+Thompson,2015,49,Female,False,False,1
+Thompson,2015,50,Female,False,False,1
+Thompson,2018,55,Male,False,True,1
+Tolland,2003,57,Male,False,False,1
+Tolland,2004,34,Unknown,False,False,1
+Tolland,2005,17,Male,False,True,1
+Tolland,2005,51,Male,False,False,1
+Tolland,2006,41,Male,False,False,1
+Tolland,2007,27,Male,False,True,1
+Tolland,2007,45,Male,False,False,1
+Tolland,2009,23,Unknown,False,False,1
+Tolland,2010,23,Male,True,False,1
+Tolland,2012,20,Female,False,True,1
+Tolland,2012,62,Male,True,False,1
+Tolland,2013,24,Male,False,False,1
+Tolland,2014,37,Male,False,False,1
+Tolland,2015,50,Male,False,False,1
+Tolland,2016,57,Male,True,True,1
+Tolland,2017,63,Male,False,False,1
+Tolland,2018,49,Male,False,True,1
+Tolland,2018,51,Male,True,True,1
+Tolland,2018,52,Female,False,False,1
+Tolland,2018,65,Male,False,False,1
+Torrington,2003,66,Unknown,False,False,1
+Torrington,2004,64,Female,False,False,1
+Torrington,2005,18,Male,False,False,1
+Torrington,2005,25,Male,False,False,1
+Torrington,2005,49,Unknown,False,False,1
+Torrington,2006,33,Male,True,False,1
+Torrington,2006,57,Male,False,False,1
+Torrington,2007,49,Female,False,False,1
+Torrington,2008,15,Male,False,False,1
+Torrington,2008,64,Unknown,False,False,1
+Torrington,2008,82,Male,False,False,1
+Torrington,2010,16,Male,False,False,1
+Torrington,2010,32,Male,False,False,1
+Torrington,2010,35,Unknown,False,False,1
+Torrington,2010,52,Female,False,True,1
+Torrington,2010,57,Unknown,False,False,1
+Torrington,2010,77,Male,False,False,1
+Torrington,2010,82,Female,False,False,1
+Torrington,2011,23,Male,False,False,1
+Torrington,2011,52,Male,False,False,1
+Torrington,2011,67,Male,False,False,1
+Torrington,2012,22,Male,True,False,1
+Torrington,2012,29,Male,True,False,1
+Torrington,2012,42,Male,False,True,1
+Torrington,2012,46,Male,False,False,1
+Torrington,2012,76,Unknown,False,False,1
+Torrington,2012,79,Male,False,False,1
+Torrington,2013,22,Male,False,False,1
+Torrington,2014,22,Male,False,False,1
+Torrington,2014,51,Male,False,False,1
+Torrington,2014,53,Male,True,False,1
+Torrington,2015,25,Male,False,False,1
+Torrington,2015,25,Male,True,False,1
+Torrington,2015,37,Male,False,False,1
+Torrington,2015,53,Male,False,False,1
+Torrington,2016,54,Male,False,True,1
+Torrington,2017,29,Male,False,True,1
+Torrington,2017,79,Female,False,False,1
+Torrington,2018,19,Male,False,True,1
+Trumbull,2003,16,Unknown,False,False,1
+Trumbull,2003,17,Female,False,False,1
+Trumbull,2003,53,Male,False,True,1
+Trumbull,2004,26,Male,False,False,1
+Trumbull,2005,21,Male,False,True,1
+Trumbull,2005,68,Male,False,False,1
+Trumbull,2006,16,Female,False,False,1
+Trumbull,2006,24,Female,False,True,1
+Trumbull,2007,21,Male,True,False,1
+Trumbull,2007,23,Female,True,False,1
+Trumbull,2007,26,Male,False,False,1
+Trumbull,2007,42,Male,False,False,1
+Trumbull,2008,27,Female,False,False,1
+Trumbull,2008,42,Unknown,False,False,1
+Trumbull,2008,50,Male,False,False,1
+Trumbull,2008,55,Male,False,True,1
+Trumbull,2008,63,Male,True,False,1
+Trumbull,2009,16,Unknown,False,False,1
+Trumbull,2009,18,Male,True,False,1
+Trumbull,2009,26,Male,False,True,1
+Trumbull,2009,40,Female,False,True,1
+Trumbull,2009,50,Male,False,False,1
+Trumbull,2010,24,Unknown,False,False,1
+Trumbull,2010,29,Male,False,False,1
+Trumbull,2010,56,Male,False,False,1
+Trumbull,2011,19,Male,False,False,1
+Trumbull,2011,50,Male,False,False,2
+Trumbull,2011,86,Male,False,False,1
+Trumbull,2012,20,Male,True,False,1
+Trumbull,2012,28,Unknown,False,False,1
+Trumbull,2012,43,Male,False,False,1
+Trumbull,2012,71,Unknown,False,False,1
+Trumbull,2012,79,Female,False,False,1
+Trumbull,2013,30,Unknown,False,False,1
+Trumbull,2013,76,Male,False,False,1
+Trumbull,2014,44,Male,False,False,1
+Trumbull,2014,48,Male,False,False,1
+Trumbull,2015,24,Male,False,True,1
+Trumbull,2015,50,Male,False,False,1
+Trumbull,2015,63,Female,False,True,1
+Trumbull,2016,27,Male,True,False,1
+Trumbull,2016,39,Male,True,False,1
+Trumbull,2016,58,Male,False,False,1
+Trumbull,2016,61,Male,False,False,1
+Trumbull,2017,55,Male,False,False,1
+Trumbull,2018,22,Female,False,False,1
+Trumbull,2018,24,Male,False,False,1
+Trumbull,2019,24,Male,False,False,1
+Union,2003,19,Unknown,False,False,1
+Union,2008,19,Male,False,False,1
+Union,2008,44,Male,False,False,1
+Union,2008,50,Male,False,False,1
+Union,2010,66,Male,False,True,1
+Union,2011,37,Male,False,False,1
+Union,2011,75,Unknown,False,False,1
+Union,2012,19,Unknown,False,False,1
+Union,2012,31,Unknown,False,False,1
+Union,2016,18,Female,False,False,1
+Union,2017,23,Male,False,True,1
+Union,2017,27,Male,True,True,1
+Union,2018,19,Male,True,True,1
+Vernon,2003,22,Female,True,False,1
+Vernon,2003,25,Male,True,False,1
+Vernon,2003,82,Unknown,False,False,1
+Vernon,2004,22,Male,True,False,1
+Vernon,2004,47,Male,False,False,1
+Vernon,2007,24,Unknown,False,False,1
+Vernon,2009,41,Male,False,False,1
+Vernon,2009,50,Female,True,False,1
+Vernon,2012,29,Male,False,False,1
+Vernon,2012,35,Male,False,True,1
+Vernon,2012,52,Female,False,False,1
+Vernon,2012,65,Male,False,False,1
+Vernon,2013,20,Male,False,False,1
+Vernon,2013,53,Female,False,False,1
+Vernon,2013,56,Male,False,False,1
+Vernon,2014,19,Male,True,False,1
+Vernon,2014,58,Female,False,False,1
+Vernon,2015,63,Male,True,True,1
+Vernon,2016,75,Male,False,True,1
+Vernon,2017,64,Male,True,False,1
+Vernon,2018,46,Male,False,False,1
+Vernon,2018,55,Female,True,False,1
+Vernon,2018,66,Female,False,False,1
+Voluntown,2004,46,Male,True,False,1
+Voluntown,2005,21,Male,False,True,1
+Voluntown,2010,19,Male,False,False,1
+Voluntown,2011,24,Male,False,True,1
+Voluntown,2016,37,Male,False,False,1
+Voluntown,2017,25,Male,True,True,1
+Wallingford,2003,44,Male,True,False,1
+Wallingford,2003,48,Female,False,True,1
+Wallingford,2003,73,Male,False,False,1
+Wallingford,2004,18,Unknown,False,False,1
+Wallingford,2004,24,Female,False,True,1
+Wallingford,2004,33,Male,False,False,1
+Wallingford,2004,35,Male,False,True,1
+Wallingford,2004,57,Male,False,False,1
+Wallingford,2004,82,Male,False,False,1
+Wallingford,2005,26,Male,True,False,1
+Wallingford,2005,28,Male,False,False,1
+Wallingford,2005,30,Male,True,False,1
+Wallingford,2005,31,Male,False,False,1
+Wallingford,2005,50,Male,False,False,1
+Wallingford,2005,54,Unknown,False,False,1
+Wallingford,2005,64,Male,False,False,1
+Wallingford,2005,69,Female,False,False,1
+Wallingford,2006,16,Unknown,False,False,1
+Wallingford,2006,24,Unknown,False,False,1
+Wallingford,2006,25,Male,True,False,1
+Wallingford,2006,33,Male,False,False,1
+Wallingford,2006,42,Unknown,False,False,1
+Wallingford,2006,44,Female,True,False,1
+Wallingford,2006,80,Male,False,False,1
+Wallingford,2007,55,Male,False,False,1
+Wallingford,2007,94,Female,False,False,1
+Wallingford,2008,15,Unknown,False,False,1
+Wallingford,2008,16,Male,False,False,1
+Wallingford,2008,54,Male,False,False,3
+Wallingford,2008,63,Female,False,False,1
+Wallingford,2008,67,Female,False,False,1
+Wallingford,2008,80,Female,False,False,1
+Wallingford,2008,83,Male,False,False,1
+Wallingford,2008,96,Unknown,False,False,1
+Wallingford,2009,17,Unknown,False,False,1
+Wallingford,2009,38,Male,True,False,1
+Wallingford,2010,23,Unknown,False,False,1
+Wallingford,2010,26,Unknown,False,False,1
+Wallingford,2010,43,Female,False,False,1
+Wallingford,2010,45,Male,False,False,1
+Wallingford,2010,86,Female,False,False,1
+Wallingford,2011,82,Male,False,False,1
+Wallingford,2013,29,Male,False,False,1
+Wallingford,2013,51,Male,False,False,1
+Wallingford,2013,52,Male,False,False,1
+Wallingford,2014,38,Male,False,False,1
+Wallingford,2014,54,Male,False,False,1
+Wallingford,2014,7,Unknown,False,False,1
+Wallingford,2014,86,Male,False,False,1
+Wallingford,2015,26,Male,False,False,1
+Wallingford,2015,26,Male,False,True,1
+Wallingford,2015,51,Male,False,True,1
+Wallingford,2015,73,Male,False,False,1
+Wallingford,2016,25,Male,False,True,1
+Wallingford,2016,48,Male,False,False,1
+Wallingford,2016,72,Female,False,False,1
+Wallingford,2017,32,Male,True,False,1
+Wallingford,2017,66,Female,False,False,1
+Wallingford,2017,77,Female,False,False,1
+Wallingford,2017,90,Male,False,False,1
+Wallingford,2018,28,Male,False,False,1
+Wallingford,2018,29,Male,True,False,1
+Wallingford,2018,41,Male,False,False,1
+Wallingford,2018,56,Female,False,False,1
+Wallingford,2018,81,Female,False,False,1
+Warren,2004,59,Male,False,False,1
+Warren,2010,18,Male,False,False,1
+Warren,2015,65,Male,False,False,1
+Warren,2017,92,Male,False,False,1
+Washington,2003,17,Male,False,False,1
+Washington,2004,17,Male,True,False,1
+Washington,2004,58,Male,True,False,1
+Washington,2005,42,Unknown,False,False,1
+Washington,2009,16,Male,False,False,1
+Washington,2009,21,Male,True,False,1
+Washington,2010,25,Male,False,False,1
+Washington,2012,65,Male,False,False,1
+Washington,2013,70,Male,False,False,1
+Washington,2017,22,Female,True,False,1
+Washington,2017,25,Female,False,False,1
+Washington,2017,25,Male,False,True,1
+Washington,2017,25,Male,True,True,1
+Waterbury,2003,22,Male,False,False,1
+Waterbury,2003,23,Female,False,False,1
+Waterbury,2003,26,Male,True,False,1
+Waterbury,2003,29,Unknown,False,False,1
+Waterbury,2003,36,Male,True,False,1
+Waterbury,2003,5,Unknown,False,False,1
+Waterbury,2003,57,Male,False,False,1
+Waterbury,2004,28,Male,True,False,1
+Waterbury,2004,32,Female,False,True,1
+Waterbury,2004,33,Unknown,False,False,1
+Waterbury,2004,35,Male,False,False,1
+Waterbury,2004,47,Male,True,False,1
+Waterbury,2005,31,Female,False,False,1
+Waterbury,2005,54,Male,False,False,1
+Waterbury,2006,18,Male,False,False,1
+Waterbury,2006,20,Male,True,False,1
+Waterbury,2006,24,Male,True,False,1
+Waterbury,2006,27,Male,True,False,1
+Waterbury,2006,36,Male,False,True,1
+Waterbury,2006,36,Male,True,False,1
+Waterbury,2006,49,Male,True,False,1
+Waterbury,2006,64,Male,False,False,1
+Waterbury,2006,78,Male,False,False,1
+Waterbury,2006,8,Male,False,False,1
+Waterbury,2007,19,Male,False,True,1
+Waterbury,2007,20,Male,False,True,1
+Waterbury,2007,22,Unknown,False,False,1
+Waterbury,2007,25,Male,False,False,1
+Waterbury,2007,30,Female,True,False,1
+Waterbury,2007,37,Unknown,False,False,1
+Waterbury,2007,39,Male,False,False,1
+Waterbury,2007,46,Unknown,False,False,1
+Waterbury,2007,54,Male,True,False,1
+Waterbury,2007,81,Male,False,False,1
+Waterbury,2007,88,Female,False,False,1
+Waterbury,2007,91,Male,False,False,1
+Waterbury,2008,22,Male,False,False,1
+Waterbury,2008,23,Male,False,False,1
+Waterbury,2008,23,Unknown,False,False,1
+Waterbury,2008,27,Male,False,False,1
+Waterbury,2008,28,Male,True,False,1
+Waterbury,2008,32,Male,True,False,1
+Waterbury,2008,33,Male,False,True,1
+Waterbury,2008,43,Male,False,False,1
+Waterbury,2008,61,Male,False,False,1
+Waterbury,2008,71,Female,False,False,1
+Waterbury,2008,79,Male,False,False,1
+Waterbury,2008,88,Male,False,False,1
+Waterbury,2009,19,Unknown,False,False,1
+Waterbury,2009,20,Male,True,False,1
+Waterbury,2009,21,Unknown,False,False,1
+Waterbury,2009,27,Male,False,False,1
+Waterbury,2009,33,Female,True,False,1
+Waterbury,2009,4,Male,False,False,1
+Waterbury,2009,50,Male,False,False,1
+Waterbury,2010,19,Male,True,False,1
+Waterbury,2010,3,Male,False,False,1
+Waterbury,2010,37,Male,False,True,1
+Waterbury,2010,43,Unknown,False,False,1
+Waterbury,2010,46,Male,True,False,1
+Waterbury,2011,15,Male,False,True,1
+Waterbury,2011,21,Male,True,False,1
+Waterbury,2011,22,Male,True,False,2
+Waterbury,2011,33,Male,False,False,1
+Waterbury,2011,39,Unknown,False,False,1
+Waterbury,2011,64,Male,False,False,1
+Waterbury,2011,91,Female,False,False,1
+Waterbury,2012,17,Male,False,False,1
+Waterbury,2012,20,Unknown,False,False,1
+Waterbury,2012,29,Male,False,False,1
+Waterbury,2012,34,Female,False,False,2
+Waterbury,2012,35,Male,True,False,1
+Waterbury,2012,35,Unknown,False,False,1
+Waterbury,2012,36,Male,False,True,1
+Waterbury,2012,41,Male,False,False,1
+Waterbury,2012,61,Female,False,True,1
+Waterbury,2012,62,Male,False,False,1
+Waterbury,2012,62,Unknown,False,False,1
+Waterbury,2012,89,Female,False,False,1
+Waterbury,2012,90,Female,False,False,1
+Waterbury,2013,1,Unknown,False,False,1
+Waterbury,2013,18,Unknown,False,False,1
+Waterbury,2013,19,Male,False,False,1
+Waterbury,2013,20,Male,False,False,1
+Waterbury,2013,22,Female,True,False,1
+Waterbury,2013,23,Male,False,False,1
+Waterbury,2013,28,Female,True,False,1
+Waterbury,2013,32,Unknown,False,False,1
+Waterbury,2013,36,Male,True,False,1
+Waterbury,2013,55,Male,True,False,1
+Waterbury,2014,18,Male,False,False,1
+Waterbury,2014,22,Unknown,False,False,1
+Waterbury,2014,36,Male,False,False,1
+Waterbury,2014,39,Male,True,False,1
+Waterbury,2014,47,Male,False,False,1
+Waterbury,2014,92,Female,False,False,1
+Waterbury,2015,13,Male,False,False,1
+Waterbury,2015,14,Male,False,False,1
+Waterbury,2015,15,Female,False,False,1
+Waterbury,2015,19,Male,False,True,1
+Waterbury,2015,20,Female,False,False,2
+Waterbury,2015,23,Male,False,False,2
+Waterbury,2015,24,Male,False,True,1
+Waterbury,2015,24,Male,True,False,1
+Waterbury,2015,27,Female,False,False,1
+Waterbury,2015,28,Male,True,True,1
+Waterbury,2015,32,Male,False,True,1
+Waterbury,2015,38,Male,False,True,1
+Waterbury,2015,47,Male,False,False,1
+Waterbury,2015,48,Female,True,False,1
+Waterbury,2015,61,Female,False,False,1
+Waterbury,2015,75,Male,False,False,1
+Waterbury,2016,19,Female,False,False,1
+Waterbury,2016,22,Female,False,False,1
+Waterbury,2016,25,Male,True,True,1
+Waterbury,2016,26,Male,False,True,1
+Waterbury,2016,26,Male,True,False,1
+Waterbury,2016,28,Male,False,True,1
+Waterbury,2016,35,Male,True,False,1
+Waterbury,2016,40,Male,False,True,1
+Waterbury,2016,45,Male,False,False,1
+Waterbury,2016,56,Male,False,False,1
+Waterbury,2016,58,Male,True,False,1
+Waterbury,2016,59,Female,False,False,1
+Waterbury,2016,71,Female,False,False,1
+Waterbury,2017,19,Male,False,False,1
+Waterbury,2017,22,Male,False,True,1
+Waterbury,2017,24,Male,False,True,1
+Waterbury,2017,25,Female,False,False,1
+Waterbury,2017,26,Male,False,True,1
+Waterbury,2017,27,Male,True,True,1
+Waterbury,2017,3,Male,False,False,1
+Waterbury,2017,32,Male,True,True,1
+Waterbury,2017,41,Female,True,False,1
+Waterbury,2017,47,Male,False,False,2
+Waterbury,2017,52,Male,False,False,1
+Waterbury,2017,54,Male,False,False,1
+Waterbury,2017,55,Male,False,False,1
+Waterbury,2017,55,Male,False,True,1
+Waterbury,2017,60,Male,True,True,1
+Waterbury,2017,64,Female,False,False,1
+Waterbury,2017,64,Male,False,False,1
+Waterbury,2017,73,Female,False,False,1
+Waterbury,2017,74,Male,False,False,1
+Waterbury,2017,75,Female,False,False,1
+Waterbury,2018,22,Female,False,False,1
+Waterbury,2018,22,Male,True,False,1
+Waterbury,2018,29,Male,False,True,1
+Waterbury,2018,34,Female,False,False,1
+Waterbury,2018,39,Female,False,False,1
+Waterbury,2018,42,Male,False,False,1
+Waterbury,2018,43,Male,False,False,1
+Waterbury,2018,54,Male,False,False,1
+Waterford,2003,69,Male,False,False,1
+Waterford,2004,21,Male,True,False,2
+Waterford,2004,76,Female,False,True,1
+Waterford,2005,21,Male,True,False,1
+Waterford,2005,21,Unknown,False,False,1
+Waterford,2005,47,Male,False,False,1
+Waterford,2006,18,Male,False,False,1
+Waterford,2006,21,Male,True,False,1
+Waterford,2006,21,Unknown,False,False,1
+Waterford,2007,21,Female,True,False,1
+Waterford,2007,21,Unknown,False,False,1
+Waterford,2007,25,Male,False,False,1
+Waterford,2007,45,Male,False,False,1
+Waterford,2007,48,Male,False,False,1
+Waterford,2008,39,Male,False,False,1
+Waterford,2009,21,Unknown,False,False,1
+Waterford,2009,22,Unknown,False,False,1
+Waterford,2009,23,Male,False,False,1
+Waterford,2009,24,Male,True,False,1
+Waterford,2009,37,Unknown,False,False,1
+Waterford,2010,95,Male,False,False,1
+Waterford,2011,45,Unknown,False,False,1
+Waterford,2012,82,Male,False,False,1
+Waterford,2013,44,Male,False,False,1
+Waterford,2014,2,Unknown,False,False,1
+Waterford,2014,26,Unknown,False,False,1
+Waterford,2014,33,Unknown,False,False,1
+Waterford,2014,9,Unknown,False,False,1
+Waterford,2016,24,Female,False,False,1
+Waterford,2017,25,Male,True,True,1
+Waterford,2017,61,Male,False,False,1
+Waterford,2018,23,Male,False,True,1
+Waterford,2018,35,Female,False,False,1
+Waterford,2018,56,Male,False,False,1
+Watertown,2003,18,Male,False,False,1
+Watertown,2003,22,Male,False,True,1
+Watertown,2004,23,Male,True,False,1
+Watertown,2005,18,Male,True,False,1
+Watertown,2005,22,Male,True,False,1
+Watertown,2006,19,Male,False,False,1
+Watertown,2006,21,Male,False,False,1
+Watertown,2006,28,Unknown,False,False,1
+Watertown,2006,42,Male,True,False,1
+Watertown,2006,48,Male,False,False,1
+Watertown,2006,54,Male,True,False,1
+Watertown,2008,68,Male,False,False,1
+Watertown,2008,82,Male,False,False,1
+Watertown,2010,71,Male,False,False,1
+Watertown,2010,83,Female,False,False,1
+Watertown,2011,53,Male,True,False,1
+Watertown,2012,41,Male,True,False,1
+Watertown,2012,61,Male,True,False,1
+Watertown,2012,66,Male,False,False,1
+Watertown,2012,85,Unknown,False,False,1
+Watertown,2014,24,Male,False,False,1
+Watertown,2014,37,Female,False,False,1
+Watertown,2015,29,Male,False,False,1
+Watertown,2015,43,Male,False,False,1
+Watertown,2016,40,Male,False,False,1
+Watertown,2016,70,Female,False,False,1
+Watertown,2018,24,Male,False,False,1
+Watertown,2018,74,Male,False,False,1
+West Hartford,2003,17,Male,False,True,1
+West Hartford,2003,27,Male,False,False,1
+West Hartford,2003,38,Male,True,False,1
+West Hartford,2004,15,Unknown,False,False,1
+West Hartford,2004,26,Male,True,False,1
+West Hartford,2005,86,Male,False,False,1
+West Hartford,2006,19,Male,True,False,1
+West Hartford,2006,19,Unknown,False,False,1
+West Hartford,2006,34,Female,False,False,1
+West Hartford,2006,46,Unknown,False,False,1
+West Hartford,2006,57,Female,False,False,1
+West Hartford,2006,65,Male,False,False,1
+West Hartford,2006,82,Female,False,False,1
+West Hartford,2007,22,Male,True,False,1
+West Hartford,2007,26,Male,True,False,1
+West Hartford,2008,19,Female,False,False,1
+West Hartford,2008,22,Unknown,False,False,1
+West Hartford,2008,23,Unknown,False,False,1
+West Hartford,2008,27,Unknown,False,False,1
+West Hartford,2008,50,Male,False,False,1
+West Hartford,2009,16,Unknown,False,False,1
+West Hartford,2009,49,Male,False,False,1
+West Hartford,2009,57,Male,False,False,1
+West Hartford,2009,76,Male,False,False,1
+West Hartford,2011,47,Male,False,False,1
+West Hartford,2013,19,Male,False,True,1
+West Hartford,2013,20,Male,False,False,1
+West Hartford,2013,93,Unknown,False,False,1
+West Hartford,2014,32,Male,False,False,1
+West Hartford,2014,35,Male,True,False,1
+West Hartford,2014,43,Unknown,False,False,1
+West Hartford,2014,64,Female,False,False,1
+West Hartford,2015,53,Male,False,False,1
+West Hartford,2016,33,Female,False,True,2
+West Hartford,2016,64,Male,False,False,1
+West Hartford,2017,22,Male,False,True,1
+West Hartford,2017,30,Male,False,False,1
+West Haven,2003,18,Male,True,False,1
+West Haven,2003,19,Unknown,False,False,1
+West Haven,2003,21,Male,False,False,1
+West Haven,2004,38,Unknown,False,False,2
+West Haven,2005,43,Male,False,True,1
+West Haven,2005,58,Male,False,False,1
+West Haven,2005,58,Male,False,True,1
+West Haven,2006,26,Male,False,False,1
+West Haven,2006,35,Male,True,False,1
+West Haven,2007,23,Male,True,False,1
+West Haven,2007,41,Female,False,False,1
+West Haven,2007,82,Male,False,False,1
+West Haven,2008,14,Male,False,False,1
+West Haven,2008,26,Female,True,False,1
+West Haven,2008,30,Male,False,False,1
+West Haven,2008,49,Male,False,False,1
+West Haven,2008,52,Male,False,False,1
+West Haven,2008,57,Male,True,False,1
+West Haven,2008,72,Male,False,False,1
+West Haven,2008,74,Female,False,False,1
+West Haven,2009,29,Male,False,False,1
+West Haven,2009,42,Male,True,False,1
+West Haven,2011,28,Male,False,False,1
+West Haven,2011,33,Unknown,False,False,1
+West Haven,2011,43,Female,False,True,1
+West Haven,2012,21,Male,False,True,2
+West Haven,2012,38,Male,False,False,1
+West Haven,2012,50,Male,False,False,1
+West Haven,2012,87,Male,False,False,1
+West Haven,2013,24,Male,False,False,1
+West Haven,2013,29,Male,True,False,1
+West Haven,2013,43,Male,False,False,1
+West Haven,2013,50,Male,False,False,1
+West Haven,2013,68,Male,False,False,1
+West Haven,2015,67,Male,False,False,1
+West Haven,2016,37,Male,False,False,1
+West Haven,2016,46,Male,False,False,1
+West Haven,2016,55,Male,True,False,1
+West Haven,2016,60,Male,False,False,1
+West Haven,2017,22,Male,False,False,1
+West Haven,2017,23,Female,False,False,1
+West Haven,2017,51,Male,False,True,1
+West Haven,2017,54,Male,False,False,1
+West Haven,2017,85,Female,False,False,1
+West Haven,2018,26,Male,True,False,1
+West Haven,2018,35,Female,False,False,1
+West Haven,2018,40,Male,False,False,1
+West Haven,2018,49,Female,False,False,1
+West Haven,2018,62,Female,False,False,1
+West Haven,2018,67,Male,False,False,1
+West Haven,2019,62,Male,False,False,1
+Westbrook,2004,24,Unknown,False,False,1
+Westbrook,2005,60,Male,False,False,1
+Westbrook,2007,28,Male,True,False,1
+Westbrook,2007,66,Male,False,False,1
+Westbrook,2008,47,Unknown,False,False,1
+Westbrook,2008,50,Female,False,False,1
+Westbrook,2009,23,Male,False,False,1
+Westbrook,2010,55,Female,True,False,1
+Westbrook,2010,91,Male,False,False,1
+Westbrook,2011,21,Male,False,False,1
+Westbrook,2014,26,Male,False,False,1
+Westbrook,2015,63,Male,False,False,1
+Westbrook,2015,72,Male,False,False,1
+Westbrook,2016,20,Male,True,False,1
+Westbrook,2018,35,Male,False,False,1
+Westbrook,2018,48,Female,False,False,1
+Weston,2006,32,Male,False,False,1
+Weston,2008,79,Male,False,True,1
+Weston,2009,26,Male,False,True,1
+Weston,2010,25,Male,True,False,1
+Weston,2012,85,Female,False,False,1
+Westport,2003,21,Female,False,False,1
+Westport,2003,57,Male,False,False,1
+Westport,2004,55,Female,False,False,1
+Westport,2004,57,Male,False,False,1
+Westport,2006,1,Unknown,False,False,1
+Westport,2006,62,Female,False,False,1
+Westport,2007,12,Unknown,False,False,1
+Westport,2007,40,Male,True,False,1
+Westport,2007,40,Unknown,False,False,1
+Westport,2007,41,Male,False,False,1
+Westport,2007,42,Male,False,False,1
+Westport,2007,44,Unknown,False,False,1
+Westport,2007,46,Male,False,False,1
+Westport,2007,57,Female,False,False,1
+Westport,2007,79,Female,False,False,1
+Westport,2008,49,Male,False,False,1
+Westport,2009,21,Female,True,False,1
+Westport,2009,24,Unknown,False,False,1
+Westport,2009,63,Female,False,False,1
+Westport,2010,34,Male,False,False,1
+Westport,2010,39,Female,False,False,1
+Westport,2010,62,Female,False,False,1
+Westport,2010,70,Male,False,False,1
+Westport,2010,93,Male,False,False,1
+Westport,2011,21,Male,True,False,1
+Westport,2011,92,Unknown,False,False,1
+Westport,2012,25,Unknown,False,False,1
+Westport,2012,27,Male,False,False,1
+Westport,2012,37,Male,True,False,1
+Westport,2012,46,Unknown,False,False,1
+Westport,2013,23,Female,True,False,1
+Westport,2013,37,Male,True,False,1
+Westport,2013,68,Male,False,False,1
+Westport,2014,22,Male,False,True,1
+Westport,2014,22,Male,True,False,1
+Westport,2015,43,Male,False,True,1
+Westport,2016,32,Male,False,False,1
+Westport,2016,43,Male,False,False,1
+Westport,2016,51,Female,False,False,1
+Westport,2016,64,Male,False,False,1
+Westport,2016,83,Male,False,False,1
+Westport,2017,76,Male,False,False,1
+Westport,2017,76,Male,False,True,1
+Westport,2017,9,Male,False,False,1
+Westport,2018,20,Male,False,False,1
+Westport,2019,43,Female,False,False,1
+Wethersfield,2003,56,Male,False,False,1
+Wethersfield,2003,79,Male,True,False,1
+Wethersfield,2006,22,Male,True,False,1
+Wethersfield,2007,30,Female,False,False,1
+Wethersfield,2007,47,Female,True,False,1
+Wethersfield,2007,67,Unknown,False,False,1
+Wethersfield,2008,18,Unknown,False,False,1
+Wethersfield,2008,20,Unknown,False,False,1
+Wethersfield,2009,30,Female,True,False,1
+Wethersfield,2010,64,Male,False,False,1
+Wethersfield,2011,60,Male,False,True,1
+Wethersfield,2012,72,Female,False,False,1
+Wethersfield,2012,83,Male,False,False,1
+Wethersfield,2012,88,Male,False,False,1
+Wethersfield,2013,50,Female,False,False,1
+Wethersfield,2013,82,Male,False,False,1
+Wethersfield,2014,37,Female,False,False,1
+Wethersfield,2015,53,Male,False,False,1
+Wethersfield,2015,64,Male,True,False,1
+Wethersfield,2016,76,Female,False,False,1
+Wethersfield,2016,80,Female,False,False,1
+Wethersfield,2017,36,Male,True,False,1
+Wethersfield,2017,40,Female,False,False,1
+Wethersfield,2017,48,Male,True,True,1
+Wethersfield,2017,49,Male,True,False,1
+Wethersfield,2017,51,Female,True,True,1
+Wethersfield,2018,35,Male,False,False,1
+Wethersfield,2019,52,Male,False,False,1
+Willington,2003,22,Female,True,False,1
+Willington,2003,39,Unknown,False,False,1
+Willington,2005,18,Unknown,False,False,1
+Willington,2005,20,Female,False,False,1
+Willington,2005,69,Male,False,False,1
+Willington,2007,48,Male,True,False,1
+Willington,2007,74,Male,False,False,1
+Willington,2009,55,Male,False,True,1
+Willington,2010,21,Unknown,False,False,1
+Willington,2010,29,Unknown,False,False,1
+Willington,2010,30,Unknown,False,False,1
+Willington,2010,35,Male,False,True,1
+Willington,2011,63,Male,False,False,1
+Willington,2013,24,Female,True,False,1
+Willington,2013,46,Male,True,False,1
+Willington,2013,47,Male,False,False,1
+Willington,2013,58,Male,False,False,1
+Willington,2013,60,Male,False,False,1
+Willington,2014,45,Male,True,False,1
+Willington,2014,60,Male,True,False,1
+Willington,2015,65,Female,False,False,1
+Willington,2016,52,Male,False,False,1
+Willington,2018,21,Male,True,True,1
+Wilton,2003,16,Unknown,False,False,1
+Wilton,2005,87,Female,False,False,1
+Wilton,2008,22,Male,False,False,1
+Wilton,2008,55,Male,False,False,1
+Wilton,2008,61,Male,False,False,1
+Wilton,2009,50,Male,False,False,1
+Wilton,2009,59,Unknown,False,False,1
+Wilton,2011,71,Male,True,False,1
+Wilton,2011,71,Unknown,False,False,1
+Wilton,2012,51,Male,False,True,1
+Wilton,2012,75,Male,False,False,1
+Wilton,2014,66,Male,False,False,1
+Wilton,2015,53,Female,False,True,1
+Wilton,2016,75,Male,False,False,1
+Wilton,2017,68,Male,False,False,1
+Winchester,2004,75,Female,False,False,1
+Winchester,2004,88,Female,False,False,1
+Winchester,2006,56,Male,False,False,1
+Winchester,2010,67,Female,False,False,1
+Winchester,2011,83,Male,False,False,1
+Winchester,2018,37,Male,False,False,1
+Windham,2003,53,Male,True,False,1
+Windham,2004,23,Unknown,False,False,1
+Windham,2004,34,Male,False,False,1
+Windham,2005,23,Male,False,False,1
+Windham,2005,39,Male,True,False,1
+Windham,2005,40,Male,False,False,1
+Windham,2005,42,Unknown,False,False,1
+Windham,2006,0,Unknown,False,False,1
+Windham,2006,28,Male,False,False,1
+Windham,2006,55,Female,False,False,1
+Windham,2008,28,Male,False,False,1
+Windham,2008,31,Male,True,False,1
+Windham,2008,37,Male,False,False,1
+Windham,2009,33,Female,False,False,1
+Windham,2009,46,Male,False,False,1
+Windham,2009,72,Male,False,False,1
+Windham,2009,76,Unknown,False,False,1
+Windham,2010,32,Male,True,False,1
+Windham,2010,52,Male,True,False,1
+Windham,2010,55,Male,False,False,1
+Windham,2011,27,Male,False,False,2
+Windham,2011,47,Female,False,True,1
+Windham,2011,57,Unknown,False,False,1
+Windham,2014,38,Male,True,False,1
+Windham,2014,44,Unknown,False,False,1
+Windham,2014,48,Male,False,False,1
+Windham,2015,20,Female,True,True,1
+Windham,2016,20,Male,False,False,1
+Windham,2016,42,Male,False,True,1
+Windham,2016,65,Male,False,False,1
+Windham,2017,30,Male,False,True,1
+Windham,2017,47,Female,True,False,1
+Windham,2018,28,Male,False,True,1
+Windsor,2004,33,Male,False,False,1
+Windsor,2004,43,Male,True,False,1
+Windsor,2005,37,Male,False,False,1
+Windsor,2005,46,Male,False,False,1
+Windsor,2006,56,Male,False,True,1
+Windsor,2006,88,Female,False,False,1
+Windsor,2007,18,Unknown,False,False,1
+Windsor,2007,24,Unknown,False,False,1
+Windsor,2007,67,Female,False,False,1
+Windsor,2007,75,Unknown,False,False,1
+Windsor,2008,46,Unknown,False,False,1
+Windsor,2008,47,Male,True,False,1
+Windsor,2009,41,Male,False,True,1
+Windsor,2009,47,Male,True,False,1
+Windsor,2010,21,Male,False,False,1
+Windsor,2010,36,Female,False,False,1
+Windsor,2010,45,Male,True,False,1
+Windsor,2010,52,Male,True,False,1
+Windsor,2010,63,Female,False,False,1
+Windsor,2012,17,Unknown,False,False,1
+Windsor,2012,21,Female,False,False,1
+Windsor,2012,64,Female,False,False,1
+Windsor,2013,35,Female,True,False,1
+Windsor,2013,46,Male,False,False,1
+Windsor,2013,52,Unknown,False,False,1
+Windsor,2016,28,Male,True,False,1
+Windsor,2018,23,Male,True,False,1
+Windsor,2018,36,Male,False,False,1
+Windsor,2018,41,Female,False,False,1
+Windsor Locks,2004,19,Unknown,False,False,1
+Windsor Locks,2004,20,Unknown,False,False,1
+Windsor Locks,2005,24,Male,False,False,1
+Windsor Locks,2005,48,Male,True,False,1
+Windsor Locks,2005,56,Unknown,False,False,1
+Windsor Locks,2005,57,Male,False,False,1
+Windsor Locks,2005,63,Male,False,False,1
+Windsor Locks,2007,22,Male,True,False,1
+Windsor Locks,2007,47,Female,False,False,1
+Windsor Locks,2008,24,Female,True,False,1
+Windsor Locks,2008,55,Male,True,False,1
+Windsor Locks,2010,15,Male,False,False,1
+Windsor Locks,2013,25,Unknown,False,False,1
+Windsor Locks,2015,52,Male,False,False,1
+Windsor Locks,2016,46,Male,False,False,1
+Windsor Locks,2016,68,Female,False,False,1
+Windsor Locks,2018,64,Male,False,False,1
+Windsor Locks,2018,65,Male,False,False,1
+Wolcott,2003,54,Male,True,False,1
+Wolcott,2007,14,Unknown,False,False,1
+Wolcott,2007,15,Unknown,False,False,1
+Wolcott,2007,17,Male,False,True,1
+Wolcott,2008,27,Male,True,False,1
+Wolcott,2009,23,Female,False,True,1
+Wolcott,2010,24,Male,False,False,1
+Wolcott,2010,49,Male,True,False,1
+Wolcott,2013,53,Male,False,False,1
+Woodbridge,2004,12,Unknown,False,False,1
+Woodbridge,2004,24,Male,False,False,1
+Woodbridge,2005,22,Unknown,False,False,1
+Woodbridge,2007,17,Unknown,False,False,1
+Woodbridge,2007,18,Unknown,False,False,1
+Woodbridge,2007,47,Male,True,False,1
+Woodbridge,2007,75,Male,False,False,1
+Woodbridge,2009,29,Male,True,False,1
+Woodbridge,2010,25,Male,False,True,1
+Woodbridge,2010,38,Male,False,False,1
+Woodbridge,2010,48,Male,False,False,1
+Woodbridge,2011,34,Male,True,False,1
+Woodbridge,2012,36,Male,False,False,1
+Woodbridge,2013,20,Male,False,False,1
+Woodbridge,2015,33,Female,False,False,1
+Woodbridge,2015,68,Female,False,False,1
+Woodbridge,2016,22,Male,False,True,1
+Woodbridge,2016,49,Male,False,False,1
+Woodbury,2003,45,Male,False,False,1
+Woodbury,2003,79,Female,False,False,1
+Woodbury,2006,35,Male,True,False,1
+Woodbury,2007,70,Unknown,False,False,1
+Woodbury,2009,40,Unknown,False,False,1
+Woodbury,2013,19,Male,False,False,1
+Woodbury,2013,21,Unknown,False,False,1
+Woodbury,2015,26,Male,True,False,1
+Woodbury,2017,49,Male,True,False,1
+Woodbury,2017,67,Female,True,True,1
+Woodbury,2017,87,Male,False,False,1
+Woodbury,2018,64,Male,False,False,1
+Woodstock,2005,42,Male,False,False,1
+Woodstock,2006,55,Male,True,False,1
+Woodstock,2007,16,Male,False,False,1
+Woodstock,2008,25,Male,True,False,1
+Woodstock,2010,21,Male,False,False,1
+Woodstock,2010,49,Male,False,False,1
+Woodstock,2010,79,Male,False,False,1
+Woodstock,2011,77,Male,False,False,1
+Woodstock,2013,54,Male,False,False,1
+Woodstock,2014,76,Male,False,False,2
+Woodstock,2017,29,Male,True,False,1
+Woodstock,2017,73,Male,False,False,1
