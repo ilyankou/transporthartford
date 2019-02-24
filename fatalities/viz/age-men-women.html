@@ -22,7 +22,7 @@
     <div id="container"></div>
 
     <pre id="csv" style="display: none">
-      Age,Female,Male,Unknown
+      Age,Female,Male,"Unknown Gender"
       0,1,1,2
       1,1,1,6
       2,1,2,2
@@ -137,6 +137,9 @@
           fontFamily: 'Arial',
         }
       },
+      credits: {
+        enabled: false,
+      },
       title: {
         text: 'Crash Fatalities by Age by Sex in 2003-2017'
       },
@@ -161,6 +164,7 @@
         headerFormat: '<b>Age {point.x}</b>',
         pointFormat: '<br><br> {point.y} {series.name} fatalities',
         valueDecimals: 0,
+        shared: true,
         /*formatter: function() {
           console.log(this)
         }*/
@@ -168,10 +172,11 @@
       plotOptions: {
         column: {
           pointPadding: 0,
-          borderWidth: 0
+          borderWidth: 0,
+          groupPadding: 0,
         }
       },
-      series: [{color: 'red'}, {color: 'blue'}, {color: 'green'}]
+      series: [{color: '#7fc97f'}, {color: '#beaed4'}, {color: '#fdc086', visible: false,}]
     });
     </script>
 
