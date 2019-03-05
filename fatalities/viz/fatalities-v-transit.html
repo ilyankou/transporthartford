@@ -209,7 +209,8 @@
 
       var regressionData = [];
       for (var i = 0; i < 31; i++) {
-        regressionData.push([i, 17.5*Math.pow(Math.E, -0.0677*i)]);
+        //regressionData.push([i, 17.5*Math.pow(Math.E, -0.0677*i)]);
+        regressionData.push([i, 10+60*Math.pow(Math.E, -0.15*i)]);
       }
 
       Highcharts.chart('container', {
@@ -253,6 +254,7 @@
             text: 'Crash Fatalities Rate (per 100,000 residents)'
           },
           min: 0,
+          max: 70,
           gridLineWidth: 1,
         },
 
@@ -261,7 +263,7 @@
         },
 
         plotOptions: {
-          line: {
+          area: {
             marker: {
               enabled: false
             }
@@ -308,9 +310,11 @@
           },
           {
             data: regressionData,
-            type: 'line',
+            type: 'area',
             enableMouseTracking: false,
-            color: 'red',
+            color: 'rgba(0,0,0,0)',
+            fillColor: 'rgba(0, 100, 0, 0.5)',
+            index: -2,
           }
         ]
       });
