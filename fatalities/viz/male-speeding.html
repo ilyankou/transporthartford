@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Male Driver Fatalities by Age & Speeding Status in 2003-2017</title>
+
+    <style>
+      html, body {
+        overflow: hidden;
+      }
+
+      #container {
+        height: 100vh;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="container"></div>
+
+    <pre id="csv" style="display: none">
+      Age,"No Speeding","Speeding"
+      7,1,
+      8,1,
+      11,1,1
+      12,2,
+      13,1,1
+      14,5,
+      15,4,2
+      16,12,4
+      17,18,12
+      18,40,16
+      19,40,20
+      20,44,16
+      21,65,18
+      22,75,22
+      23,50,16
+      24,61,14
+      25,41,18
+      26,51,16
+      27,42,13
+      28,40,14
+      29,40,13
+      30,24,9
+      31,35,5
+      32,41,13
+      33,29,12
+      34,18,3
+      35,33,11
+      36,40,11
+      37,35,9
+      38,31,3
+      39,28,6
+      40,37,7
+      41,22,7
+      42,29,6
+      43,43,7
+      44,26,3
+      45,29,4
+      46,43,5
+      47,42,2
+      48,39,6
+      49,41,7
+      50,44,4
+      51,36,10
+      52,35,4
+      53,38,5
+      54,23,5
+      55,28,11
+      56,29,3
+      57,29,3
+      58,25,4
+      59,16,4
+      60,21,4
+      61,17,4
+      62,17,2
+      63,20,3
+      64,21,3
+      65,16,
+      66,16,1
+      67,15,1
+      68,14,2
+      69,9,
+      70,8,1
+      71,13,
+      72,11,1
+      73,11,
+      74,6,
+      75,7,2
+      76,12,2
+      77,5,1
+      78,15,2
+      79,12,3
+      80,10,2
+      81,6,
+      82,16,
+      83,9,
+      84,9,1
+      85,11,1
+      86,8,
+      87,6,
+      88,7,
+      89,3,
+      90,6,1
+      91,1,
+      92,4,1
+      93,2,
+      94,1,
+      100,1,
+    </pre>
+
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <script src="https://rawgithub.com/phpepe/highcharts-regression/master/highcharts-regression.js?8"></script>
+
+    <script>
+
+    Highcharts.chart('container', {
+      chart: {
+        type: 'column',
+        style: {
+          fontFamily: 'Arial',
+        }
+      },
+      credits: {
+        enabled: false,
+      },
+      legend: {
+        verticalAlign: 'top'
+      },
+      title: {
+        text: 'Male Driver Fatalities by Age & Speeding Status in 2003-2017'
+      },
+      subtitle: {
+        text: 'Source: UCONN Crash Data'
+      },
+      xAxis: {
+        categories: [],
+        crosshair: true,
+        title: {
+          text: 'Age',
+        }
+      },
+      yAxis: {
+        min: 0,
+        title: {
+          text: 'Fatalities'
+        }
+      },
+      data: {
+        csv: document.getElementById('csv').innerHTML
+      },
+      tooltip: {
+        headerFormat: 'Age <b>{point.x}</b> Male Fatalities:',
+        pointFormat: '<br><br> {point.y} {series.name}',
+        valueDecimals: 0,
+        shared: true,
+      },
+      plotOptions: {
+        column: {
+          pointPadding: 0,
+          borderWidth: 0,
+          groupPadding: 0.1,
+          stacking: 'normal'
+        }
+      },
+      series: [{color: '#fbb4ae'}, {color: '#b3cde3'}]
+    });
+    </script>
+
+
+  </body>
+</html>
