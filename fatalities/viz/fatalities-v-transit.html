@@ -198,6 +198,7 @@
     <script src="https://code.highcharts.com/modules/data.js"></script>
     <script src="https://rawgithub.com/phpepe/highcharts-regression/master/highcharts-regression.js?8"></script>
     <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://code.highcharts.com/modules/annotations.js"></script>
 
     <script>
 
@@ -213,7 +214,7 @@
         regressionData.push([i, 10+60*Math.pow(Math.E, -0.15*i)]);
       }
 
-      Highcharts.chart('container', {
+      var chart = Highcharts.chart('container', {
 
         chart: {
           type: 'scatter',
@@ -228,7 +229,7 @@
         },
 
         title: {
-          text: '<b>Crash Fatalities vs Public Transit in Connecticut Towns</b>'
+          text: '<b>Average Annual Crash Fatalities Rate vs Public Transit in Connecticut Towns</b>'
         },
         subtitle: {
           text: 'Source: ACS 2017 5-year estimates; UCONN Crash Data (2013-2017)'
@@ -292,12 +293,9 @@
             tooltip: {
               headerFormat: '',
               pointFormat: '<b>{point.name}</b> <br> Public Transit Rate: <b>{point.x}%</b> ± {point.transit_moe}<br> \
-                Average Crash Fatalities Rate: <b>{point.y}</b> persons per 100,000 residents \
+                Average Annual Crash Fatalities Rate: <b>{point.y}</b> persons per 100,000 residents \
                 <br> Fatalities in 2013-2017: <b>{point.crashes}</b> \
                 <br> Population: {point.pop:,.0f} people',
-              formatter: function() {
-                return 'hello'
-              },
               valueDecimals: 1,
               useHTML: true,
             }
@@ -316,8 +314,26 @@
             fillColor: 'rgba(0, 100, 0, 0.5)',
             index: -2,
           }
-        ]
+        ],
+        annotations: [{
+          labels: [
+            {
+              point: { x: 15.1, y: 7, yAxis: 0, xAxis: 0 },
+              text: 'Hartford'
+            },
+            {
+              point: { x: 12.4, y: 8.4, yAxis: 0, xAxis: 0 },
+              text: 'New Haven'
+            },
+            {
+              point: { x: 4.6, y: 12.2, yAxis: 0, xAxis: 0 },
+              text: 'Waterbury'
+            }
+          ]
+        }]
       });
+
+
     </script>
 
 
