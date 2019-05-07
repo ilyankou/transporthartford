@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Connecticut Teen Drivers Seriously Injured - 2003 to 2014</title>
+
+    <style>
+      html, body {
+        overflow: hidden;
+      }
+
+      #container {
+        height: 100vh;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="container"></div>
+
+    <pre id="csv" style="display: none">
+      Year,Value
+      2003,204
+      2004,195
+      2005,155
+      2006,198
+      2007,194
+      2008,130
+      2009,112
+      2010,124
+      2011,72
+      2012,89
+      2013,60
+      2014,61
+    </pre>
+
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <script src="https://rawgithub.com/phpepe/highcharts-regression/master/highcharts-regression.js?8"></script>
+
+    <script>
+
+    Highcharts.chart('container', {
+      chart: {
+        type: 'column',
+        style: {
+          fontFamily: 'Arial',
+        }
+      },
+      legend: {
+        enabled: false,
+      },
+      credits: {
+        enabled: false,
+      },
+      title: {
+        text: 'Teen (15-19) Drivers Seriously Injured, 2003–2014'
+      },
+      subtitle: {
+        text: 'Source: UCONN Crash Data'
+      },
+      xAxis: {
+        crosshair: false,
+        min: 2003,
+      },
+      yAxis: {
+        min: 0,
+        title: {
+          text: 'Teen Drivers Injured'
+        },
+      },
+      data: {
+        csv: document.getElementById('csv').innerHTML,
+      },
+      tooltip: {
+        headerFormat: '<b>{point.y}</b> teen drivers seriously injured<br>',
+        pointFormat: '{point.x}',
+        valueDecimals: 0,
+        shared: false,
+      },
+      plotOptions: {
+        column: {
+          pointPadding: 0,
+          borderWidth: 0,
+          groupPadding: 0.1
+        },
+        line: {
+          enableMouseTracking: false,
+          marker: {
+            enabled: false,
+          },
+          pointPlacement: 'between'
+        }
+      },
+      series: [
+        {color: '#333'},
+        {color: '#333', type: 'line', data: [
+          [2002,179.3],
+          [2003,179.3],
+          [2004,179.3],
+          [2005,179.3],
+          [2006,179.3],
+          [2007,179.3],
+          [2008,179.3]
+        ]},
+        {color: 'green', type: 'line', data: [
+          [2008,86.3],
+          [2009,86.3],
+          [2010,86.3],
+          [2011,86.3],
+          [2012,86.3],
+          [2013,86.3],
+          [2014,86.3]
+        ]}
+      ]
+    });
+    </script>
+
+
+  </body>
+</html>
