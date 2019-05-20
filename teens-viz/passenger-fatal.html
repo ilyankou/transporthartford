@@ -39,7 +39,7 @@
 
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/data.js"></script>
-    <script src="https://rawgithub.com/phpepe/highcharts-regression/master/highcharts-regression.js?8"></script>
+    <script src="https://code.highcharts.com/modules/annotations.js"></script>
 
     <script>
 
@@ -57,7 +57,7 @@
         enabled: false,
       },
       title: {
-        text: 'Teen (15-19) Passenger Fatalities, 2003–2014'
+        text: 'Teen (ages 15-19) Passenger Fatalities, 2003–2014'
       },
       subtitle: {
         text: 'Source: UCONN Crash Data'
@@ -115,8 +115,30 @@
           [2013,7.2],
           [2014,7.2]
         ]}
-      ]
-    });
+      ],
+      annotations: [{
+        labels: [{
+          point: {
+            x: 2008,
+            y: 8,
+            xAxis: 0,
+            yAxis: 0
+          },
+          text: 'Graduated Drivers\' License laws <br> put into effect on August 1, 2008\
+            <br> ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ <br>\
+            45% (from 13 to 7.2) drop in teen passenger fatalities<br> between 2003-2008 and 2009-2014',
+
+        }],
+        labelOptions: {
+          x: 100,
+          backgroundColor: 'rgba(255,255,255,1)',
+          style: {
+            fontSize: '14px',
+            color: 'black'
+          }
+        }
+      }]
+    })
     </script>
 
 

@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Connecticut Teen Driver Fatalities - 2003 to 2014</title>
+    <title>Connecticut Drivers of All Ages Seriously Injured - 2003 to 2014</title>
 
     <style>
       html, body {
@@ -23,18 +23,18 @@
 
     <pre id="csv" style="display: none">
       Year,Value
-      2003,19
-      2004,24
-      2005,14
-      2006,23
-      2007,24
-      2008,17
-      2009,14
-      2010,13
-      2011,11
-      2012,6
-      2013,12
-      2014,8
+      2003,1859
+      2004,1854
+      2005,1679
+      2006,1686
+      2007,1784
+      2008,1650
+      2009,1504
+      2010,1459
+      2011,1174
+      2012,1255
+      2013,1042
+      2014,944
     </pre>
 
     <script src="https://code.highcharts.com/highcharts.js"></script>
@@ -57,7 +57,7 @@
         enabled: false,
       },
       title: {
-        text: 'Teen (ages 15-19) Driver Fatalities, 2003–2014'
+        text: 'Drivers of All Ages Seriously Injured, 2003–2014'
       },
       subtitle: {
         text: 'Source: UCONN Crash Data'
@@ -69,14 +69,14 @@
       yAxis: {
         min: 0,
         title: {
-          text: 'Teen Driver Fatalities'
+          text: 'Drivers Injured'
         },
       },
       data: {
         csv: document.getElementById('csv').innerHTML,
       },
       tooltip: {
-        headerFormat: '<b>{point.y}</b> teen driver fatalities<br>',
+        headerFormat: '<b>{point.y}</b> drivers seriously injured<br>',
         pointFormat: '{point.x}',
         valueDecimals: 0,
         shared: false,
@@ -98,36 +98,35 @@
       series: [
         {color: '#333'},
         {color: '#333', type: 'line', data: [
-          [2002,20.2],
-          [2003,20.2],
-          [2004,20.2],
-          [2005,20.2],
-          [2006,20.2],
-          [2007,20.2],
-          [2008,20.2]
+          [2002,1752],
+          [2003,1752],
+          [2004,1752],
+          [2005,1752],
+          [2006,1752],
+          [2007,1752],
+          [2008,1752]
         ]},
         {color: 'green', type: 'line', data: [
-          [2008,10.7],
-          [2009,10.7],
-          [2010,10.7],
-          [2011,10.7],
-          [2012,10.7],
-          [2013,10.7],
-          [2014,10.7]
+          [2008,1229.7],
+          [2009,1229.7],
+          [2010,1229.7],
+          [2011,1229.7],
+          [2012,1229.7],
+          [2013,1229.7],
+          [2014,1229.7]
         ]}
       ],
-
       annotations: [{
         labels: [{
           point: {
             x: 2008,
-            y: 17,
+            y: 1650,
             xAxis: 0,
             yAxis: 0
           },
           text: 'Graduated Drivers\' License laws <br> put into effect on August 1, 2008\
-            <br> ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ <br>\
-            47% (from 20.2 to 10.7) drop in teen driver<br> fatalities between 2003-2008 and 2009-2014',
+            <br> ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ <br>\
+            30% (from 1752 to 1229.7) drop in drivers<br> seriously injured between 2003-2008 and 2009-2014',
 
         }],
         labelOptions: {
@@ -139,7 +138,6 @@
           }
         }
       }]
-
     })
     </script>
 
