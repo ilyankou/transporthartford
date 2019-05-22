@@ -12,8 +12,10 @@
       #container {
         height: 100vh;
         width: 100%;
-        margin: 0;
         padding: 0;
+        margin: auto;
+        max-height: 600px;
+        max-width: 900px;
       }
     </style>
   </head>
@@ -92,7 +94,8 @@
           marker: {
             enabled: false,
           },
-          pointPlacement: 'between'
+          pointPlacement: 'between',
+          lineWidth: 4,
         }
       },
       series: [
