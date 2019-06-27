@@ -1,0 +1,116 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Interactive Table of Hartford Crashes around Speedhumps</title>
+  <meta name="description" content="Interactive Table of Hartford Crashes around Speedhumps">
+  <meta name="author" content="Ilya Ilyankou">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+
+<body class="helvetica f4">
+  
+  <section class="mw7 center pa3">
+
+    <p class="f4 pt2 bw3 b--navy">
+      Show 
+      <select id="crashType" class="pa1 f5 mw5">
+        <option value="All" selected>all crashes</option>
+        <option value="No Apparent Injury (O)">crashes w/ no apparent injury</option>
+        <option value="Possible Injury (C)">crashes w/ possible injury</option>
+        <option value="Suspected Minor Injury (B)">crashes w/ suspected minor injury</option>
+        <option value="Suspected Serious Injury (A)">crashes w/ suspected serious injury</option>
+        <option value="Fatal Injury (K)">crashes w/ fatal injury</option>
+      </select> 
+      within
+      <select id="crashDistance" class="pa1 f5">
+        <option value="150">150</option>
+        <option value="200" selected>200</option>
+        <option value="250">250</option>
+        <option value="300">300</option>
+        <option value="400">400</option>
+        <option value="500">500</option>
+      </select> 
+      feet of speedhumps.
+    </p>
+
+    <table class="f6 w-100 collapse">
+      <tr class="">
+        <th class="bb bw1 b--black">Period</th>
+        <th class="bb bw1 b--black">New (2018) speedhumps</th>
+        <th class="bb bw1 b--black">Old speedhumps</th>
+        <th class="bb bw1 b--black">Future<sup>*</sup> speedhumps</th>
+      </tr>
+      <tr>
+        <td>Nov 2015&mdash;May 2016</td>
+        <td id="2015P" class="tr"></td>
+        <td id="2015O" class="tr"></td>
+        <td id="2015F" class="tr"></td>
+      </tr>
+      <tr class="striped--near-white">
+        <td>Nov 2016&mdash;May 2017</td>
+        <td id="2016P" class="tr"></td>
+        <td id="2016O" class="tr"></td>
+        <td id="2016F" class="tr"></td>
+      </tr>
+      <tr>
+        <td>Nov 2017&mdash;May 2018</td>
+        <td id="2017P" class="tr"></td>
+        <td id="2017O" class="tr"></td>
+        <td id="2017F" class="tr"></td>
+      </tr>
+      <tr class="striped--near-white">
+        <td>Nov 2018&mdash;May 2019</td>
+        <td id="2018P" class="ba bw1 b--black tr"></td>
+        <td id="2018O" class="tr"></td>
+        <td id="2018F" class="tr"></td>
+      </tr>
+    </table>
+
+    </section>
+
+  <script>
+    $.getJSON('./crashes-humps.json', function(json) {
+
+      $('#crashDistance, #crashType').change(function() {
+        var crashDistance = parseInt($('#crashDistance').val())
+        var crashType = $('#crashType').val()
+
+        var result = {
+          '2015/2016': { P: 0, O: 0, F: 0 },
+          '2016/2017': { P: 0, O: 0, F: 0 },
+          '2017/2018': { P: 0, O: 0, F: 0 },
+          '2018/2019': { P: 0, O: 0, F: 0 },
+        }
+
+        for (var i in json) {
+          if (json[i].D <= crashDistance) {
+            if (crashType === 'All' || json[i].C === crashType) {
+              result[json[i].P][json[i].H] += 1;
+            }
+          }
+        }
+
+        for (var period in result) {
+          for (var t in result[period]) {
+            $('#' + period.split('/')[0] + t ).html(result[period][t])
+          }
+        }
+      })
+
+      $('#crashDistance').change()
+
+    });
+  </script>
+
+  <style>
+    td, th {
+      padding: 10px;
+    }
+  </style>
+</body>
+</html>
