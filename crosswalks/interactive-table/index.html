@@ -16,7 +16,7 @@
   
   <section class="mw7 center pa3">
 
-    <p class="f4 pt2 bw3 b--navy">
+    <p class="f4 pt2 bw3 b--navy mb0">
       Show 
       <select id="crashType" class="pa1 f5 mw5">
         <option value="All" selected>all crashes</option>
@@ -37,6 +37,10 @@
         <option value="500">500</option>
       </select> 
       feet of speed humps.
+    </p>
+
+    <p class="f6 mt1">
+      Displayed are crash rates per 100 speed humps.
     </p>
 
     <table class="f6 w-100 collapse">
@@ -75,6 +79,12 @@
     </section>
 
   <script>
+    var quantity = {
+      P: 92,
+      O: 96,
+      F: 105,
+    }
+
     $.getJSON('./crashes-humps.json', function(json) {
 
       $('#crashDistance, #crashType').change(function() {
@@ -107,7 +117,7 @@
 
         for (var period in result) {
           for (var t in result[period]) {
-            $('#' + period.split('/')[0] + t ).html(result[period][t])
+            $('#' + period.split('/')[0] + t ).html((result[period][t] / quantity[t] * 100).toFixed(1))
           }
         }
       })
