@@ -104,6 +104,7 @@
             if (crashType === 'Injury') {
               if ( json[i].C === 'Suspected Minor Injury (B)'
                 || json[i].C === 'Suspected Serious Injury (A)'
+                || json[i].C === 'Possible Injury (C)'
                 || json[i].C === 'Fatal Injury (K)' ) {
                 result[json[i].P][json[i].H] += 1;
               }
