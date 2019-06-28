@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Interactive Table of Hartford Crashes around Speedhumps</title>
+  <title>Interactive Table of Hartford Crashes around Speed humps</title>
   <meta name="description" content="Interactive Table of Hartford Crashes around Speedhumps">
   <meta name="author" content="Ilya Ilyankou">
 
@@ -25,6 +25,7 @@
         <option value="Suspected Minor Injury (B)">crashes w/ suspected minor injury</option>
         <option value="Suspected Serious Injury (A)">crashes w/ suspected serious injury</option>
         <option value="Fatal Injury (K)">crashes w/ fatal injury</option>
+        <option value="Injury">crashes w/ any injury</option>
       </select> 
       within
       <select id="crashDistance" class="pa1 f5">
@@ -35,15 +36,15 @@
         <option value="400">400</option>
         <option value="500">500</option>
       </select> 
-      feet of speedhumps.
+      feet of speed humps.
     </p>
 
     <table class="f6 w-100 collapse">
       <tr class="">
         <th class="bb bw1 b--black">Period</th>
-        <th class="bb bw1 b--black">New (2018) speedhumps</th>
-        <th class="bb bw1 b--black">Old speedhumps</th>
-        <th class="bb bw1 b--black">Future<sup>*</sup> speedhumps</th>
+        <th class="bb bw1 b--black">New (2018) humps</th>
+        <th class="bb bw1 b--black">Old humps</th>
+        <th class="bb bw1 b--black">Future<sup>*</sup> humps</th>
       </tr>
       <tr>
         <td>Nov 2015&mdash;May 2016</td>
@@ -89,7 +90,16 @@
 
         for (var i in json) {
           if (json[i].D <= crashDistance) {
-            if (crashType === 'All' || json[i].C === crashType) {
+            // Either combine all injuries together (for Crashes with any injury)
+            if (crashType === 'Injury') {
+              if ( json[i].C === 'Suspected Minor Injury (B)'
+                || json[i].C === 'Suspected Serious Injury (A)'
+                || json[i].C === 'Fatal Injury (K)' ) {
+                result[json[i].P][json[i].H] += 1;
+              }
+            }
+            // Or all/one type of injury 
+            else if (crashType === 'All' || json[i].C === crashType) {
               result[json[i].P][json[i].H] += 1;
             }
           }
