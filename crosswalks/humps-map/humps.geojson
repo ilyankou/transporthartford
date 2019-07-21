@@ -1,0 +1,4692 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Morris Street ",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6764916979,
+          41.7526312827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Dean Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6770666588,
+          41.7518357075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Alden Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6762158247,
+          41.7515350339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Alden Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6749667271,
+          41.7517336611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Allendale Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.694728343,
+          41.7457017993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Allendale Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6962032987,
+          41.745581955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Allendale Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6977055671,
+          41.7454616424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Catherine Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6947038505,
+          41.7465351483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Catherine Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6962951775,
+          41.7464421349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Catherine Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6977481433,
+          41.7463560073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Kenyon Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7092893702,
+          41.7754567222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Kenyon Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7098588636,
+          41.7742761667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Waverly Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6815405301,
+          41.7958401905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Waverly Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6809091754,
+          41.7985886547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Waverly Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6812322808,
+          41.7970719026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Waverly Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6816139282,
+          41.7953048155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Rosemont Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6664861917,
+          41.798521043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Rosemont Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6636735858,
+          41.7981682071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Preston Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6788560613,
+          41.7391477768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Westbrook Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7035007916,
+          41.7452720417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Westbrook Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.703999481,
+          41.7474370424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Saybrooke Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7030383345,
+          41.7478540714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Saybrooke Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7028512067,
+          41.7470156699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Beacon  Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7144223138,
+          41.7629965952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Beacon  Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7145627219,
+          41.7639524892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Oxford Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7134143773,
+          41.7649230396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Oxford Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7132168288,
+          41.7635666507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Tremont Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7119172364,
+          41.763499945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Tremont Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7121603258,
+          41.7651514763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Hampton Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6728184468,
+          41.7934605449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Hampton Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6721705738,
+          41.7944532857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Kensington Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6749193631,
+          41.7928514081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Martin Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6800355254,
+          41.7891461742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Broadview Terrance ",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7015386759,
+          41.7427619523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Broadview Terrance ",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7010214322,
+          41.7419096879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Marion Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7114743917,
+          41.7248263195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Marion Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7133865389,
+          41.7247764598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Niles Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6964364028,
+          41.7696727367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Otis Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6805611602,
+          41.739613482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Otis Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6785473428,
+          41.7398580489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Coventry ",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6901001483,
+          41.7978116266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Conventry",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6985637665,
+          41.7579571942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Murphy Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6539247555,
+          41.7385071457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Goodwin Park Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6837428992,
+          41.7292987667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Goodwin Park Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6853006689,
+          41.7326385878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Goodwin Park Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6900901108,
+          41.7993337718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Terry Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7116408499,
+          41.7780511006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Terry Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7114847092,
+          41.7794536742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Terry Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7114180686,
+          41.7801968907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Goodwin Park Rd",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6837992834,
+          41.7311744125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Wawarme  Ave",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6661380852,
+          41.7502266695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Wawarme  Ave",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6696528425,
+          41.749864638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Wawarme  Ave",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6678426378,
+          41.7500215909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Adelaide Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6777030757,
+          41.7417612571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Adelaide Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6808566786,
+          41.7412854373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Barker Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6739397132,
+          41.7438874359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Broadview Terrance ",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.70477432,
+          41.7344374026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Broadview Terrance ",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7018037941,
+          41.7360353958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": " Charter Oak Pl",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6734320371,
+          41.7575701357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Freeman Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6933428702,
+          41.7321054347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Freeman Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6951556972,
+          41.7318736032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Hubbard Rd,",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6825371724,
+          41.7328230781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Hubbard Rd,",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6822749439,
+          41.7301792233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Hubbard Rd,",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6819239202,
+          41.7280033379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Linnmore Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6955749763,
+          41.7328008651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Linnmore Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6981948461,
+          41.7324252936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Newton Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7074225194,
+          41.758418032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Newton Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7075515629,
+          41.7595805873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Nilan Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7019690718,
+          41.739815858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Oxford Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7134057428,
+          41.7712131104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Oxford Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7128229299,
+          41.772842819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Sargeant Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6899403727,
+          41.7750270042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Sargeant Street",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6887926902,
+          41.7747678872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Enfield St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6844532991,
+          41.7846521236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Enfield St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6834383037,
+          41.7880440825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Enfield St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6828622632,
+          41.7905167639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Edgewood St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6906816591,
+          41.7819822369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Douglas St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6854671479,
+          41.7364452111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Ellington St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.704660693,
+          41.7463207075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Ellington St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7048532556,
+          41.7471813705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Kenyon St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7104120873,
+          41.7713103246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Kenyon St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7103731938,
+          41.7726742646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Girard Ave",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7088390095,
+          41.7726296143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Girard Ave",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7088010439,
+          41.7714692085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Girard Ave",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7087472988,
+          41.7694390691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Kenyon St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7103309967,
+          41.7695827324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Girard Ave",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.708719257,
+          41.7682042571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Kenyon St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7102043555,
+          41.7683503501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Baltimore St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7012799664,
+          41.7851698942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Mansfield St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6863980746,
+          41.7857669712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Adams St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6995621484,
+          41.7855802884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Adams St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6993833931,
+          41.7845702869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Oakland Ter",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6939129855,
+          41.7827080961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Oakland Ter",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6936814873,
+          41.7834150263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Linnmoore St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6939136137,
+          41.7330467468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Baltimore St",
+        "SpeedhumpType": "O",
+        "InstallDate": "Several years ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7013643532,
+          41.7858498395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Brookfield Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7090608911,
+          41.7444225984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Brookfield Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7068199148,
+          41.7469521889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Brookfield Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7005102466,
+          41.7506445773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Brookfield Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.704831366,
+          41.7489249794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Cheshire Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6939340409,
+          41.7339719314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bushnell Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6804019005,
+          41.7403604125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bushnell Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67894896,
+          41.7405587214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Hazel Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7050120983,
+          41.7599951176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Arbor Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7030392812,
+          41.7603040161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "S. Marshall Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6987011421,
+          41.7651883873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "S. Marshall Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6987165358,
+          41.7641064298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "N. Beacon Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7137808588,
+          41.7737267259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "N. Beacon Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7144325655,
+          41.7720331986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Magnolia Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6872759453,
+          41.780010272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": " Euclid Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6942663176,
+          41.8060712049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": " Euclid Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6929099184,
+          41.8061515358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Magnolia Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6868165612,
+          41.7820600544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Magnolia Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6865456899,
+          41.7831031275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Charlotte Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6807336699,
+          41.7943928327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Charlotte Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6789913666,
+          41.7938915192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Liberty Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6849639229,
+          41.7752521995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Cheshire Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6943369957,
+          41.7360110222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Montowese Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6758889156,
+          41.7284634985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Montowese Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6793684052,
+          41.7279940048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Sargeant Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6943231706,
+          41.7760194891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Sargeant Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6957675018,
+          41.7763337701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Laurel Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6971131624,
+          41.7652724819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Branford Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7054515824,
+          41.7980640019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Branford Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.703318711,
+          41.7981896348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Woodstock Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6918034568,
+          41.7993740543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Holcomb Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7049503113,
+          41.7953254631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Pembroke Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.70447126,
+          41.793478353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Canterbury Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6969954165,
+          41.788525313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Canterbury Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6968870562,
+          41.7893232601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Canterbury Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6967674001,
+          41.7902715079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Pliny Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6815172424,
+          41.7804064937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Pliny Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6834604856,
+          41.7808704468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Glendale Ave",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6959216592,
+          41.750985696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Squire street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6839804903,
+          41.7572614766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Babcock Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6892773125,
+          41.7589976106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Babcock Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.689241832,
+          41.7605335633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Putnam Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6905102924,
+          41.7603528001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Putnam Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6905492608,
+          41.7592147073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bond Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6806550707,
+          41.7437164296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bond Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6791282275,
+          41.7439499791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Mountford Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6850997064,
+          41.7420834127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Julius Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6857606237,
+          41.742587889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Julius Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.685864811,
+          41.7434599263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Julius Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6859634616,
+          41.7444289527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Henry Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6888945333,
+          41.7405407716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Cleveland Ave ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6740154192,
+          41.7967792986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Cleveland Ave ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6726235713,
+          41.7963716928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Cleveland Ave ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6692635981,
+          41.7951415988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Cleveland Ave ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6675137709,
+          41.7944339579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Vineland Terrance ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6848338233,
+          41.78880176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Mansfield Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6891577024,
+          41.7864690887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Arbor Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7033611687,
+          41.7596963407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Orange Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7039477673,
+          41.7602205961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Amity Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7102037487,
+          41.7590462007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Amity Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7100606826,
+          41.7578637943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Grace Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7084717276,
+          41.7554854356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Beacon  Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7140866236,
+          41.759417826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Beacon  Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7140798788,
+          41.7589769537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Francis Ave ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7054490694,
+          41.7559035523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Francis Ave ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7067819578,
+          41.7542413145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Francis Ave ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7076897117,
+          41.7530967766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Monore Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6960020421,
+          41.7385923848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Monore Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6956203091,
+          41.7360023302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Nepaug Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7094728677,
+          41.731649263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Nepaug Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7095553577,
+          41.7300555428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Grant Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7129805462,
+          41.7303890609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Grant Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7128699694,
+          41.7277782875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Roslyn  Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7139557199,
+          41.7302165724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Roslyn  Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7138464072,
+          41.7280268232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Annawan Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6760473602,
+          41.7501627825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Cabot Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6934299905,
+          41.778520884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Adams Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7002408642,
+          41.7812962291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Evergreen Ave",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7085457384,
+          41.762339304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Evergreen Ave",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7090215041,
+          41.7643876379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Evergreen Ave",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7092932867,
+          41.7655963323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Douglas Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6836256541,
+          41.7368979304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Douglas Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6810656178,
+          41.7376944383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Gilman Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6831391623,
+          41.736307685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Gilman Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6854019722,
+          41.7357317099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Wayland Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6738781181,
+          41.7381638193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bolton Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6727808812,
+          41.7301006555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bolton Street ",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6708567592,
+          41.7303000083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Victoria Rd",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6695353299,
+          41.7285893045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Victoria Rd",
+        "SpeedhumpType": "P",
+        "InstallDate": "Oct-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6759496938,
+          41.7277073951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bellevue Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "May-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.673331,
+          41.782023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bellevue Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "May-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.672818,
+          41.78465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Bellevue Street",
+        "SpeedhumpType": "P",
+        "InstallDate": "May-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.672277,
+          41.786407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Fenwick Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.676165,
+          41.734717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Fenwick Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.676036,
+          41.733628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Pavilion Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.674045,
+          41.78133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Wooster Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.674939,
+          41.78012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Wooster Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.674703,
+          41.782488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Mahl Ave",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67772,
+          41.781651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "F D Oates Ave",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.681575,
+          41.782529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Amherst Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.694944,
+          41.72957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Somers Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702911,
+          41.726732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Exeter Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.696234,
+          41.727555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Haddam Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702765,
+          41.727772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Tredeau Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.677764,
+          41.728955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Princeton Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.700476,
+          41.729132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Chester Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.680523,
+          41.730189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Eaton Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.670708,
+          41.731496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Goodrich Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.673736,
+          41.731993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Cowles Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.680873,
+          41.732569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Brinley Ave",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.711614,
+          41.733463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Wilbur Street ",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.710831,
+          41.733643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Giddings Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.710031,
+          41.733815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Plymouth Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.673957,
+          41.733527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Ceremont Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.708761,
+          41.733909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Feniwck Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.676086,
+          41.734008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Rooselvelt Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.674222,
+          41.734307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Natick Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.707556,
+          41.734454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Baldwin street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678068,
+          41.734463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Stone Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.706401,
+          41.734647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Arlington Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.705218,
+          41.735369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Standish Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678974,
+          41.735824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Standish Street ",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678234,
+          41.73592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Standish Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.677338,
+          41.736052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "WestPreston Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.690074,
+          41.737366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Roxbury ",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6924,
+          41.738411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Mapleton Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.688866,
+          41.738604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Coolidge Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.701798,
+          41.738912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Bodwell Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.673612,
+          41.739089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Clifford Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.686592,
+          41.74011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Bliss Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.675057,
+          41.740915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Redding Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.675502,
+          41.741385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Ledyard Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.669808,
+          41.742552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Hughes Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.696188,
+          41.742597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Curtiss Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.696162,
+          41.743677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Meadow Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.668724,
+          41.744187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Whitmore Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.677502,
+          41.745221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Elliot Street ",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.674339,
+          41.746253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Ledger Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.700073,
+          41.746283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Bannister Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.701389,
+          41.746382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "East Elliot Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.66906,
+          41.747019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Arnold Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.697148,
+          41.747346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Benard Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.683222,
+          41.74736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Colonial Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.685534,
+          41.748366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Bonner Street ",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.699216,
+          41.748393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Shultas PL",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.675557,
+          41.74853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Wilson street ",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.696059,
+          41.749081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Brownell Ave",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.685357,
+          41.749098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Allen  Place",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.692724,
+          41.752159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Lincoln Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.686024,
+          41.753424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Madison Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68542,
+          41.754521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Jefferson Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.681845,
+          41.755438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Bartholomew",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702844,
+          41.757044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Montville Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.713736,
+          41.768712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Cone Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.712137,
+          41.768948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Sumner Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.690432,
+          41.769637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Huntington street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.691177,
+          41.772729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Belden Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.679395,
+          41.775889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Florence Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678143,
+          41.776694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Fairmount Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.680496,
+          41.777214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Seyms Street ",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678889,
+          41.777858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "East street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678725,
+          41.778508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Center Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.679917,
+          41.77882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Winter Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.681881,
+          41.778981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Mather Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.687812,
+          41.78105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Battles Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.673217,
+          41.783463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Greenfield Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.692015,
+          41.784132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "West Raymond Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.689042,
+          41.78504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Capen Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.681154,
+          41.785662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Clark street ",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.677656,
+          41.785903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Elmer street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.677086,
+          41.786096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Nelson Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.676708,
+          41.787578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Burlington Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702923,
+          41.788424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Sharon  Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.698985,
+          41.789625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Rockyville Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.686367,
+          41.790076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Hebron Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.701913,
+          41.790329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Westland Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67778,
+          41.79045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Chatham Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702472,
+          41.791223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Westland Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.683426,
+          41.791774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Dover Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.677067,
+          41.791774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Earle Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.675693,
+          41.792026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Planfield Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702406,
+          41.792084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Thomaston Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.704348,
+          41.792874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Pembroke Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702352,
+          41.793669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Colebrooked",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.701395,
+          41.794683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Cornwall Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.698958,
+          41.795527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Andover Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.705652,
+          41.796275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Palm Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.701273,
+          41.79997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Pomfret Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702819,
+          41.801419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Hartland Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.700083,
+          41.801615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed Bump",
+        "Street Name": "Durham Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.706238,
+          41.802247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Pershing Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6927,
+          41.802758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Salisbury Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.696968,
+          41.803261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Simpson Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702872,
+          41.803469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Boothbay Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.692982,
+          41.80378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Harold Street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.700766,
+          41.804294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Burnham street",
+        "SpeedhumpType": "F",
+        "InstallDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.70101,
+          41.805049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Speed bump",
+        "Street Name": "Colby Street",
+        "SpeedhumpType": "F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.697714,
+          41.728424
+        ]
+      }
+    }
+  ]
+}

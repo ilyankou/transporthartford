@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Speed humps locations in Hartford</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js"></script>
+  </head>
+  <body>
+    <div id="map" class="vh-100 vw-100"></div>
+  </body>
+
+  <script>
+
+    $.getJSON('humps.geojson', function(data) {
+
+      var map = L.map('map', {
+        center: [41.7, -72.0],
+        zoom: 13,
+        zoomControl: false,
+      });
+
+      L.control.zoom({
+        position: 'topright'
+      }).addTo(map);
+
+      var CartoDB_Positron = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 19
+      }).addTo(map);
+
+      var hump2color = {
+        'O': 'gray',
+        'P': 'green',
+        'F': 'blue',
+      }
+
+      var oHumps = L.geoJSON(data, {
+        pointToLayer: function(geoJsonPoint, latlng) {
+          var hump = geoJsonPoint.properties.SpeedhumpType;
+
+          return hump === 'O' ? L.circleMarker(latlng, {
+            fillColor: hump2color[hump],
+            color: hump2color[hump],
+            fillOpacity: 1,
+            radius: 2,
+          }) : null;
+        }
+      }).addTo(map);
+
+
+      var pHumps = L.geoJSON(data, {
+        pointToLayer: function(geoJsonPoint, latlng) {
+          var hump = geoJsonPoint.properties.SpeedhumpType;
+
+          return hump === 'P' ? L.circleMarker(latlng, {
+            fillColor: hump2color[hump],
+            color: hump2color[hump],
+            fillOpacity: 1,
+            radius: 2,
+          }) : null;
+        }
+      }).addTo(map);
+
+
+      var fHumps = L.geoJSON(data, {
+        pointToLayer: function(geoJsonPoint, latlng) {
+          var hump = geoJsonPoint.properties.SpeedhumpType;
+
+          return hump === 'F' ? L.circleMarker(latlng, {
+            fillColor: hump2color[hump],
+            color: hump2color[hump],
+            fillOpacity: 1,
+            radius: 2,
+          }) : null;
+        }
+      });
+
+
+      L.control.layers({}, {
+        'Old speedhumps <span class="w1 h1 dib br-100" style="background-color: gray">' : oHumps,
+        'New (2018) speedhumps <span class="w1 h1 dib br-100" style="background-color: green">': pHumps,
+        'Future (proposed) speedhumps <span class="w1 h1 dib br-100" style="background-color: blue">': fHumps,
+      }, {
+        collapsed: false,
+        position: 'topleft'
+      }).addTo(map);
+
+      $('div.leaflet-control-layers-overlays').prepend('<h4 class="f4 ma0">Hartford speedhumps</h3>');
+
+      map.fitBounds(oHumps.getBounds());
+
+    });
+
+  </script>
+
+</html>
