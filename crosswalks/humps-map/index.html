@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Speed humps locations in Hartford</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css">
@@ -20,6 +21,7 @@
         center: [41.7, -72.0],
         zoom: 13,
         zoomControl: false,
+        scrollWheelZoom: false,
       });
 
       L.control.zoom({
